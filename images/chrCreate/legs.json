@@ -1,0 +1,35 @@
+{"frames": {
+
+"legsType instance 10000":
+{
+	"frame": {"x":8,"y":8,"w":149,"h":68},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":149,"h":68},
+	"sourceSize": {"w":149,"h":68}
+},
+"legsType instance 10001":
+{
+	"frame": {"x":8,"y":82,"w":149,"h":68},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":149,"h":68},
+	"sourceSize": {"w":149,"h":68}
+},
+"legsType instance 10002":
+{
+	"frame": {"x":8,"y":156,"w":149,"h":68},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":149,"h":68},
+	"sourceSize": {"w":149,"h":68}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "16.0.0.112",
+	"image": "legs.png",
+	"format": "RGBA8888",
+	"size": {"w":256,"h":256},
+	"scale": "1"
+}
+}

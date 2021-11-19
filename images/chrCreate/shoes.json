@@ -1,0 +1,35 @@
+{"frames": {
+
+"shoesType instance 10000":
+{
+	"frame": {"x":8,"y":8,"w":127,"h":37},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":37},
+	"sourceSize": {"w":127,"h":37}
+},
+"shoesType instance 10001":
+{
+	"frame": {"x":8,"y":51,"w":127,"h":37},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":37},
+	"sourceSize": {"w":127,"h":37}
+},
+"shoesType instance 10002":
+{
+	"frame": {"x":8,"y":94,"w":127,"h":37},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":37},
+	"sourceSize": {"w":127,"h":37}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "16.0.0.112",
+	"image": "shoes.png",
+	"format": "RGBA8888",
+	"size": {"w":256,"h":256},
+	"scale": "1"
+}
+}

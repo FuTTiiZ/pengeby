@@ -1,0 +1,99 @@
+{"frames": {
+
+"krukke_three0000":
+{
+	"frame": {"x":8,"y":8,"w":99,"h":198},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":98,"w":131,"h":296},
+	"sourceSize": {"w":131,"h":296}
+},
+"krukke_three0001":
+{
+	"frame": {"x":113,"y":8,"w":101,"h":224},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":72,"w":131,"h":296},
+	"sourceSize": {"w":131,"h":296}
+},
+"krukke_three0002":
+{
+	"frame": {"x":220,"y":8,"w":100,"h":229},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":67,"w":131,"h":296},
+	"sourceSize": {"w":131,"h":296}
+},
+"krukke_three0003":
+{
+	"frame": {"x":326,"y":8,"w":101,"h":242},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":54,"w":131,"h":296},
+	"sourceSize": {"w":131,"h":296}
+},
+"krukke_three0004":
+{
+	"frame": {"x":8,"y":256,"w":110,"h":265},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":31,"w":131,"h":296},
+	"sourceSize": {"w":131,"h":296}
+},
+"krukke_three0005":
+{
+	"frame": {"x":124,"y":256,"w":122,"h":296},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":131,"h":296},
+	"sourceSize": {"w":131,"h":296}
+},
+"krukke_three0006":
+{
+	"frame": {"x":252,"y":256,"w":125,"h":256},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":40,"w":131,"h":296},
+	"sourceSize": {"w":131,"h":296}
+},
+"krukke_three0007":
+{
+	"frame": {"x":8,"y":558,"w":127,"h":225},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":71,"w":131,"h":296},
+	"sourceSize": {"w":131,"h":296}
+},
+"krukke_three0008":
+{
+	"frame": {"x":141,"y":558,"w":128,"h":203},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":93,"w":131,"h":296},
+	"sourceSize": {"w":131,"h":296}
+},
+"krukke_three0009":
+{
+	"frame": {"x":275,"y":558,"w":129,"h":190},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":106,"w":131,"h":296},
+	"sourceSize": {"w":131,"h":296}
+},
+"krukke_three0010":
+{
+	"frame": {"x":8,"y":789,"w":129,"h":186},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":110,"w":131,"h":296},
+	"sourceSize": {"w":131,"h":296}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "16.0.0.112",
+	"image": "krukke_three.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":1024},
+	"scale": "1"
+}
+}

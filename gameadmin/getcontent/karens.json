@@ -1,0 +1,122 @@
+{
+  "speak_b_karens_welcome": {
+    "contenttype": "sound",
+    "content": "dk_velkomst_og_forklaring_karens_butik.mp3",
+    "subtitle": "Nu er du p\u00e5 vej ind i Karens butik. Her kan du k\u00f8be en masse t\u00f8j og ting til dit v\u00e6relse for dine penge. Klik p\u00e5 de ting, du gerne vil k\u00f8be! Hvis du ikke har penge nok til dem, kan du altid komme dem i din \u00f8nskekrukke, s\u00e5 du kan spare op til dem. Tryk p\u00e5 den gr\u00f8nne knap for at komme ind i butikken."
+  },
+  "speak_karens_bought1": {
+    "contenttype": "sound",
+    "content": "dk_vare_koebt_1.mp3",
+    "subtitle": "Nu har du k\u00f8bt den!"
+  },
+  "speak_karens_bought2": {
+    "contenttype": "sound",
+    "content": "dk_vare_koebt_2.mp3",
+    "subtitle": "S\u00e5dan, nu er den din!"
+  },
+  "speak_karens_buy1": {
+    "contenttype": "sound",
+    "content": "dk_koeb_vare.mp3",
+    "subtitle": "Den er fin! Hvor mange penge har du tilbage, hvis du k\u00f8ber den?"
+  },
+  "speak_karens_buy2": {
+    "contenttype": "sound",
+    "content": "dk_koeb_vare_2.mp3",
+    "subtitle": "Den ser flot ud. Har du penge til den?"
+  },
+  "speak_karens_buy3": {
+    "contenttype": "sound",
+    "content": "dk_koeb_vare_3.mp3",
+    "subtitle": "Hvis du k\u00f8ber den, hvor mange penge har du s\u00e5?"
+  },
+  "speak_karens_done": {
+    "contenttype": "sound",
+    "content": "dk_afslutning_karen.mp3",
+    "subtitle": "Farvel, og tak for denne gang! Kom snart igen."
+  },
+  "speak_karens_intro": {
+    "contenttype": "sound",
+    "content": "dk_intro.mp3",
+    "subtitle": "Er der nogle ting, du godt kunne t\u00e6nke dig i min butik?"
+  },
+  "speak_karens_wishlist": {
+    "contenttype": "sound",
+    "content": "dk_ikke_raad_til_vare.mp3",
+    "subtitle": "Den har du desv\u00e6rre ikke penge nok til at k\u00f8be! Men du kan komme den i \u00f8nskekrukken, hvis du gerne vil spare op til den. Hvor mange penge mangler du?"
+  },
+  "speak_wishlist_max": {
+    "contenttype": "sound",
+    "content": "SE Karen max 3.mp3",
+    "subtitle": "Du kan kun have 3 ting i din \u00f8nskekrukke, s\u00e5 du m\u00e5 fjerne nogle, f\u00f8r du kan komme nogle nye ting i. Klik p\u00e5 din \u00f8nskekrukke, hvis du gerne vil fjerne nogle ting."
+  },
+  "item_car": {
+    "contenttype": "sound",
+    "content": "Bil.mp3",
+    "subtitle": ""
+  },
+  "item_cd": {
+    "contenttype": "sound",
+    "content": "CD.mp3",
+    "subtitle": ""
+  },
+  "item_elephant": {
+    "contenttype": "sound",
+    "content": "Elefant.mp3",
+    "subtitle": ""
+  },
+  "item_guitar": {
+    "contenttype": "sound",
+    "content": "Guitar.mp3",
+    "subtitle": ""
+  },
+  "item_house": {
+    "contenttype": "sound",
+    "content": "Dukkehus.mp3",
+    "subtitle": ""
+  },
+  "item_keyboard": {
+    "contenttype": "sound",
+    "content": "Keyboard_1.mp3",
+    "subtitle": ""
+  },
+  "item_magicwand": {
+    "contenttype": "sound",
+    "content": "Tryllestav_0.mp3",
+    "subtitle": ""
+  },
+  "item_mobile": {
+    "contenttype": "sound",
+    "content": "Mobiltelefon_2.mp3",
+    "subtitle": ""
+  },
+  "item_plain": {
+    "contenttype": "sound",
+    "content": "Flyvemaskine.mp3",
+    "subtitle": ""
+  },
+  "item_radio": {
+    "contenttype": "sound",
+    "content": "radio.mp3",
+    "subtitle": ""
+  },
+  "item_rocket": {
+    "contenttype": "sound",
+    "content": "Raket.mp3",
+    "subtitle": ""
+  },
+  "karens_door_opens_with_bell": {
+    "contenttype": "sound",
+    "content": "karens_door_opens_with_bell.mp3",
+    "subtitle": ""
+  },
+  "karens_ok": {
+    "contenttype": "sound",
+    "content": "karens_ok_lyd_3.mp3",
+    "subtitle": ""
+  },
+  "karens_pay": {
+    "contenttype": "sound",
+    "content": "karens_betale_penge_.mp3",
+    "subtitle": ""
+  }
+}

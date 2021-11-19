@@ -1,0 +1,62 @@
+{
+  "speak_b_postoffice_welcome": {
+    "contenttype": "sound",
+    "content": "dk_velkomst_og_forklaring_postkontoret.mp3",
+    "subtitle": "Velkommen til postkontoret. Her skal du hj\u00e6lpe Postmesteren med at sortere pakkerne, der skal leveres i Pengeby! De dyreste pakker skal ud f\u00f8rst, og de billigste pakker skal ud til sidst. Du skal bruge musen og tr\u00e6kke de rigtige pakker op i de rigtige bakker; de dyreste skal st\u00e5 til venstre og de billigste skal st\u00e5 til h\u00f8jre. N\u00e5r du er klar, s\u00e5 tryk p\u00e5 den gr\u00f8nne knap!"
+  },
+  "speak_postoffice_correct_1": {
+    "contenttype": "sound",
+    "content": "pengeby_det_er_du_god_til.mp3",
+    "subtitle": "Det er du god til!"
+  },
+  "speak_postoffice_correct_2": {
+    "contenttype": "sound",
+    "content": "pengeby_godt_gaaet.mp3",
+    "subtitle": "Godt g\u00e5et!"
+  },
+  "speak_postoffice_correct_3": {
+    "contenttype": "sound",
+    "content": "pengeby_nu_bliver_det_lidt.mp3",
+    "subtitle": "Nu bliver det lidt sv\u00e6rere. Er du klar?"
+  },
+  "speak_postoffice_correct_4": {
+    "contenttype": "sound",
+    "content": "dk_rigtig_loesning_naeste_bane_2.mp3",
+    "subtitle": "Det er du god til! Nu bliver det lidt sv\u00e6rere."
+  },
+  "speak_postoffice_done": {
+    "contenttype": "sound",
+    "content": "dk_afslutning_og_resultat.mp3",
+    "subtitle": "Tusind tak for hj\u00e6lpen - det var du god til! Som tak for hj\u00e6lpen f\u00e5r du her nogle penge, som du kan bruge i Karens butik eller Tidsmaskinen. Du kan ogs\u00e5 hj\u00e6lpe mig igen, hvis du har lyst?"
+  },
+  "postoffice_error": {
+    "contenttype": "sound",
+    "content": "postoffice_fejl_lyd_3.mp3",
+    "subtitle": ""
+  },
+  "postoffice_left_belt": {
+    "contenttype": "sound",
+    "content": "postoffice_transportbaand_left.mp3",
+    "subtitle": ""
+  },
+  "postoffice_ok": {
+    "contenttype": "sound",
+    "content": "postoffice_ok_lyd_2.mp3",
+    "subtitle": ""
+  },
+  "postoffice_right_belt": {
+    "contenttype": "sound",
+    "content": "postoffice_transportbaand_right.mp3",
+    "subtitle": ""
+  },
+  "postoffice_truck_loads": {
+    "contenttype": "sound",
+    "content": "postoffice_lastbil_faar_pakker.mp3",
+    "subtitle": ""
+  },
+  "postoffice_truck_takes_off": {
+    "contenttype": "sound",
+    "content": "postoffice_lastbil_koerer_med_pakkerne.mp3",
+    "subtitle": ""
+  }
+}

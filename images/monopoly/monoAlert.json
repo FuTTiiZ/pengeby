@@ -1,0 +1,91 @@
+{"frames": {
+
+"MonopolyGameAlertSymbol0000":
+{
+	"frame": {"x":8,"y":8,"w":194,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":194,"h":200},
+	"sourceSize": {"w":194,"h":200}
+},
+"MonopolyGameAlertSymbol0001":
+{
+	"frame": {"x":208,"y":8,"w":184,"h":190},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":5,"w":194,"h":200},
+	"sourceSize": {"w":194,"h":200}
+},
+"MonopolyGameAlertSymbol0002":
+{
+	"frame": {"x":8,"y":214,"w":172,"h":178},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":11,"w":194,"h":200},
+	"sourceSize": {"w":194,"h":200}
+},
+"MonopolyGameAlertSymbol0003":
+{
+	"frame": {"x":186,"y":214,"w":160,"h":166},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":17,"w":194,"h":200},
+	"sourceSize": {"w":194,"h":200}
+},
+"MonopolyGameAlertSymbol0004":
+{
+	"frame": {"x":352,"y":214,"w":150,"h":154},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":23,"w":194,"h":200},
+	"sourceSize": {"w":194,"h":200}
+},
+"MonopolyGameAlertSymbol0005":
+{
+	"frame": {"x":8,"y":398,"w":158,"h":164},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":18,"w":194,"h":200},
+	"sourceSize": {"w":194,"h":200}
+},
+"MonopolyGameAlertSymbol0006":
+{
+	"frame": {"x":172,"y":398,"w":168,"h":174},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":13,"w":194,"h":200},
+	"sourceSize": {"w":194,"h":200}
+},
+"MonopolyGameAlertSymbol0007":
+{
+	"frame": {"x":8,"y":578,"w":176,"h":182},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":9,"w":194,"h":200},
+	"sourceSize": {"w":194,"h":200}
+},
+"MonopolyGameAlertSymbol0008":
+{
+	"frame": {"x":190,"y":578,"w":186,"h":192},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":4,"w":194,"h":200},
+	"sourceSize": {"w":194,"h":200}
+},
+"MonopolyGameAlertSymbol0009":
+{
+	"frame": {"x":8,"y":8,"w":194,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":194,"h":200},
+	"sourceSize": {"w":194,"h":200}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "16.0.0.112",
+	"image": "monoAlert.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":1024},
+	"scale": "1"
+}
+}

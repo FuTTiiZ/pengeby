@@ -1,0 +1,227 @@
+html,
+body {
+    height: 100%;
+    width: 100%;
+    font-family: Helvetica;
+    font-size: 11px;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: #66c3ff url('img/body_bg.jpg') repeat-x left bottom;
+}
+
+a:active,
+a:focus {
+    outline: none;
+}
+
+img {
+    border: 0;
+}
+
+#container {
+    margin: 0 auto;
+    width: 1012px;
+    height: 100%;
+    position: relative;
+}
+
+#top-nav {
+    position: absolute;
+    width: 100%;
+    height: 40px;
+    background: black;
+    z-index: 1200;
+}
+
+#maintenance {
+    margin: 0 auto;
+    width: 90%;
+    background-color: rgba(255, 255, 255, 0.9);
+    padding: 2%;
+    font-size: 14px;
+    top: 105px;
+    position: absolute;
+    z-index: 2500;
+    left: 3%;
+}
+
+#maintenance-close {
+    position: absolute;
+    right: 10px;
+    top: 5px;
+    background-color: grey;
+    cursor: pointer;
+    text-align: right;
+    padding: 5px;
+    font-weight: bold;
+    border-radius: 3px;
+    color: #333333;
+}
+
+#maintenance-close:hover {
+    background-color: darkgrey;
+}
+
+#top-nav a {
+    display: block;
+    float: right;
+    padding: 0 15px;
+    line-height: 40px;
+    color: white;
+    font-weight: bold;
+    font-size: 12px;
+    text-decoration: none;
+}
+
+#top-nav a:hover {
+    text-decoration: none;
+}
+
+#frontpage {
+    position: relative;
+    /*height: 100%; 
+    /*background:#0199fe url('img/forside.jpg') no-repeat bottom center; 
+    padding-top: 0;*/
+    overflow: hidden;
+    width: 100%;
+    height: 100%;
+    background-color: #0199fe;
+}
+
+#forside-content {
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    width: 100%;
+    height: 100%;
+    margin-top: 0px;
+}
+
+.forside-bg {
+    position: absolute;
+    left: calc(50% - 506px);
+    bottom: 0px;
+    z-index: 990;
+    transform: none;
+}
+
+.play-btn {
+    display: none;
+    position: absolute;
+    left: calc(50% + 50px);
+    bottom: 30px;
+    z-index: 1100;
+    transform: none;
+    cursor: pointer;
+}
+
+.sign {
+    position: absolute;
+    left: calc(50% - 136px);
+    bottom: 440px;
+    z-index: 999;
+    transform: none;
+}
+
+.bubble {
+    position: absolute;
+    left: calc(50% - 390px);
+    bottom: 170px;
+    z-index: 999;
+    display: block;
+}
+
+@media screen and (max-width: 1000px) {
+    #container {
+        width: 100%;
+    }
+    /*.play-btn{
+        right: 10px;
+        transform: none;
+    }
+    .bubble{
+        display: none;
+    }
+
+    #frontpage{
+        padding-top: 0;
+    }
+
+    .forside-bg{
+        transform: none;
+    }
+
+    .sign{
+        transform: none;
+    }
+	*/
+}
+
+@media screen and (max-width: 600px) {
+    #frontpage {
+        /*padding-top: 75px;*/
+    }
+    #top-nav a {
+        padding: 0 10px;
+    }
+    /*.play-btn{
+        transform: matrix(0.5, 0, 0, 0.5, 0, 0);
+        right: -70px;
+        top: 150px;
+    }
+
+    
+
+    .sign { 
+        left: calc(50% - 50px);
+        transform-origin: 0% 0% 0px;
+        transform: matrix(0.60, 0, 0, 0.60, 0, 0);
+        top: 158px;
+    }
+
+    .forside-bg{
+        left: calc(50% - 273px);
+        transform-origin: 0% 0% 0px;
+        transform: matrix(0.60, 0, 0, 0.60, 0, 0);
+    }*/
+}
+
+/*
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5) and (min-device-width : 768px) and (max-device-width : 1024px)   {
+	
+	body  {
+  		background: none;
+    	background-image: url('img/body_bg@2x.jpg');
+    	background-size: 1px 672px; 
+    	overflow: hidden;
+  	}
+
+  	#container { width: 916px;}
+  	#frontpage  {
+    	background-image: url('img/forside@2x.jpg');
+    	background-size: 916px auto;
+  	}
+
+  	.sign { right: 338px; bottom: 397px; width: 240px; height: auto; }
+	.bubble { left: 100px; bottom: 110px;  }
+	.play-btn{ bottom: 0px; right: 100px;}
+	
+}
+
+
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : portrait) {
+	#container { width: 980px;}
+	#frontpage  {
+    	background-image: url('img/forside_vert@2x.jpg');
+    	background-size: 980px auto;
+  	}
+
+  	.bubble { left: 80px; bottom: 350px;  }
+  	.sign { right: 325px; bottom: 675px; width: 300px; height: auto; }
+  	.play-btn{ bottom: 140px; right: 90px;}
+}
+*/

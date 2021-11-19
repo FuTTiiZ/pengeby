@@ -1,0 +1,43 @@
+{"frames": {
+
+"hats0000":
+{
+	"frame": {"x":8,"y":8,"w":102,"h":125},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":53,"y":0,"w":185,"h":311},
+	"sourceSize": {"w":185,"h":311}
+},
+"hats0001":
+{
+	"frame": {"x":116,"y":8,"w":83,"h":102},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":66,"y":0,"w":185,"h":311},
+	"sourceSize": {"w":185,"h":311}
+},
+"hats0002":
+{
+	"frame": {"x":205,"y":8,"w":185,"h":150},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":185,"h":311},
+	"sourceSize": {"w":185,"h":311}
+},
+"hats0003":
+{
+	"frame": {"x":8,"y":164,"w":133,"h":311},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":0,"w":185,"h":311},
+	"sourceSize": {"w":185,"h":311}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "16.0.0.112",
+	"image": "girlHats.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":512},
+	"scale": "1"
+}
+}

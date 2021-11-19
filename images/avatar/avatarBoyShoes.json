@@ -1,0 +1,123 @@
+{"frames": {
+
+"avatarBoyShoes0000":
+{
+	"frame": {"x":8,"y":8,"w":133,"h":50},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":44,"w":149,"h":95},
+	"sourceSize": {"w":149,"h":95}
+},
+"avatarBoyShoes0001":
+{
+	"frame": {"x":147,"y":8,"w":134,"h":63},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":32,"w":149,"h":95},
+	"sourceSize": {"w":149,"h":95}
+},
+"avatarBoyShoes0002":
+{
+	"frame": {"x":287,"y":8,"w":135,"h":46},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":48,"w":149,"h":95},
+	"sourceSize": {"w":149,"h":95}
+},
+"avatarBoyShoes0003":
+{
+	"frame": {"x":8,"y":77,"w":121,"h":38},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":19,"y":54,"w":149,"h":95},
+	"sourceSize": {"w":149,"h":95}
+},
+"avatarBoyShoes0004":
+{
+	"frame": {"x":135,"y":77,"w":126,"h":91},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":0,"w":149,"h":95},
+	"sourceSize": {"w":149,"h":95}
+},
+"avatarBoyShoes0005":
+{
+	"frame": {"x":267,"y":77,"w":120,"h":88},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":3,"w":149,"h":95},
+	"sourceSize": {"w":149,"h":95}
+},
+"avatarBoyShoes0006":
+{
+	"frame": {"x":8,"y":174,"w":120,"h":73},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":17,"w":149,"h":95},
+	"sourceSize": {"w":149,"h":95}
+},
+"avatarBoyShoes0007":
+{
+	"frame": {"x":134,"y":174,"w":128,"h":43},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":49,"w":149,"h":95},
+	"sourceSize": {"w":149,"h":95}
+},
+"avatarBoyShoes0008":
+{
+	"frame": {"x":268,"y":174,"w":124,"h":59},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":31,"w":149,"h":95},
+	"sourceSize": {"w":149,"h":95}
+},
+"avatarBoyShoes0009":
+{
+	"frame": {"x":8,"y":253,"w":120,"h":52},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":39,"w":149,"h":95},
+	"sourceSize": {"w":149,"h":95}
+},
+"avatarBoyShoes0010":
+{
+	"frame": {"x":134,"y":253,"w":119,"h":45},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":46,"w":149,"h":95},
+	"sourceSize": {"w":149,"h":95}
+},
+"avatarBoyShoes0011":
+{
+	"frame": {"x":259,"y":253,"w":134,"h":54},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":37,"w":149,"h":95},
+	"sourceSize": {"w":149,"h":95}
+},
+"avatarBoyShoes0012":
+{
+	"frame": {"x":8,"y":313,"w":118,"h":76},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":16,"w":149,"h":95},
+	"sourceSize": {"w":149,"h":95}
+},
+"avatarBoyShoes0013":
+{
+	"frame": {"x":132,"y":313,"w":149,"h":53},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":41,"w":149,"h":95},
+	"sourceSize": {"w":149,"h":95}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "16.0.0.112",
+	"image": "avatarBoyShoes.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":512},
+	"scale": "1"
+}
+}

@@ -1,0 +1,27 @@
+{"frames": {
+
+"Tids_ikon_btn_Egypt0000":
+{
+	"frame": {"x":8,"y":8,"w":144,"h":105},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":144,"h":105},
+	"sourceSize": {"w":144,"h":105}
+},
+"Tids_ikon_btn_Egypt0001":
+{
+	"frame": {"x":8,"y":119,"w":144,"h":105},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":144,"h":105},
+	"sourceSize": {"w":144,"h":105}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "16.0.0.112",
+	"image": "timemachineBtn.png",
+	"format": "RGBA8888",
+	"size": {"w":256,"h":256},
+	"scale": "1"
+}
+}

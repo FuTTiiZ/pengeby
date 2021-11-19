@@ -1,0 +1,27 @@
+{"frames": {
+
+"Nej_btn_TMV0000":
+{
+	"frame": {"x":8,"y":8,"w":185,"h":97},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":185,"h":97},
+	"sourceSize": {"w":185,"h":97}
+},
+"Nej_btn_TMV0001":
+{
+	"frame": {"x":8,"y":111,"w":185,"h":97},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":185,"h":97},
+	"sourceSize": {"w":185,"h":97}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "16.0.0.112",
+	"image": "wishlist-cancelbtn.png",
+	"format": "RGBA8888",
+	"size": {"w":256,"h":256},
+	"scale": "1"
+}
+}

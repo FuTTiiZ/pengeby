@@ -1,0 +1,35 @@
+{"frames": {
+
+"Spil_info instance 10000":
+{
+	"frame": {"x":8,"y":8,"w":106,"h":64},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":111,"h":66},
+	"sourceSize": {"w":111,"h":66}
+},
+"Spil_info instance 10001":
+{
+	"frame": {"x":8,"y":78,"w":109,"h":66},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":111,"h":66},
+	"sourceSize": {"w":111,"h":66}
+},
+"Spil_info instance 10002":
+{
+	"frame": {"x":8,"y":150,"w":108,"h":66},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":111,"h":66},
+	"sourceSize": {"w":111,"h":66}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "16.0.0.112",
+	"image": "keys.png",
+	"format": "RGBA8888",
+	"size": {"w":128,"h":256},
+	"scale": "1"
+}
+}

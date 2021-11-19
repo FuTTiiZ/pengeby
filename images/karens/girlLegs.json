@@ -1,0 +1,91 @@
+{"frames": {
+
+"legs0000":
+{
+	"frame": {"x":8,"y":8,"w":100,"h":181},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":146,"h":195},
+	"sourceSize": {"w":146,"h":195}
+},
+"legs0001":
+{
+	"frame": {"x":114,"y":8,"w":112,"h":119},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":0,"w":146,"h":195},
+	"sourceSize": {"w":146,"h":195}
+},
+"legs0002":
+{
+	"frame": {"x":8,"y":195,"w":86,"h":172},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":28,"y":0,"w":146,"h":195},
+	"sourceSize": {"w":146,"h":195}
+},
+"legs0003":
+{
+	"frame": {"x":100,"y":195,"w":127,"h":195},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":146,"h":195},
+	"sourceSize": {"w":146,"h":195}
+},
+"legs0004":
+{
+	"frame": {"x":8,"y":396,"w":104,"h":105},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":0,"w":146,"h":195},
+	"sourceSize": {"w":146,"h":195}
+},
+"legs0005":
+{
+	"frame": {"x":118,"y":396,"w":86,"h":86},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":25,"y":0,"w":146,"h":195},
+	"sourceSize": {"w":146,"h":195}
+},
+"legs0006":
+{
+	"frame": {"x":8,"y":507,"w":78,"h":159},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":30,"y":0,"w":146,"h":195},
+	"sourceSize": {"w":146,"h":195}
+},
+"legs0007":
+{
+	"frame": {"x":92,"y":507,"w":116,"h":141},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":0,"w":146,"h":195},
+	"sourceSize": {"w":146,"h":195}
+},
+"legs0008":
+{
+	"frame": {"x":8,"y":672,"w":146,"h":177},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":146,"h":195},
+	"sourceSize": {"w":146,"h":195}
+},
+"legs0009":
+{
+	"frame": {"x":160,"y":672,"w":80,"h":161},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":27,"y":0,"w":146,"h":195},
+	"sourceSize": {"w":146,"h":195}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "16.0.0.112",
+	"image": "girlLegs.png",
+	"format": "RGBA8888",
+	"size": {"w":256,"h":1024},
+	"scale": "1"
+}
+}

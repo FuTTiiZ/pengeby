@@ -1,0 +1,43 @@
+{"frames": {
+
+"BoyDressItemsHats0000":
+{
+	"frame": {"x":8,"y":8,"w":116,"h":131},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":0,"w":184,"h":159},
+	"sourceSize": {"w":184,"h":159}
+},
+"BoyDressItemsHats0001":
+{
+	"frame": {"x":130,"y":8,"w":102,"h":102},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":0,"w":184,"h":159},
+	"sourceSize": {"w":184,"h":159}
+},
+"BoyDressItemsHats0002":
+{
+	"frame": {"x":8,"y":145,"w":184,"h":148},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":184,"h":159},
+	"sourceSize": {"w":184,"h":159}
+},
+"BoyDressItemsHats0003":
+{
+	"frame": {"x":8,"y":299,"w":129,"h":159},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":0,"w":184,"h":159},
+	"sourceSize": {"w":184,"h":159}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "16.0.0.112",
+	"image": "boyHats.png",
+	"format": "RGBA8888",
+	"size": {"w":256,"h":512},
+	"scale": "1"
+}
+}

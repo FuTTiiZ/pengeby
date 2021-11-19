@@ -1,0 +1,43 @@
+{"frames": {
+
+"MonopolyStartupMemberButton0000":
+{
+	"frame": {"x":8,"y":8,"w":45,"h":73},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":45,"h":73},
+	"sourceSize": {"w":45,"h":73}
+},
+"MonopolyStartupMemberButton0001":
+{
+	"frame": {"x":59,"y":8,"w":45,"h":73},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":45,"h":73},
+	"sourceSize": {"w":45,"h":73}
+},
+"MonopolyStartupMemberButton0002":
+{
+	"frame": {"x":8,"y":87,"w":45,"h":73},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":45,"h":73},
+	"sourceSize": {"w":45,"h":73}
+},
+"MonopolyStartupMemberButton0003":
+{
+	"frame": {"x":59,"y":87,"w":45,"h":73},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":45,"h":73},
+	"sourceSize": {"w":45,"h":73}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "16.0.0.112",
+	"image": "MonopolyStartupMemberButton.png",
+	"format": "RGBA8888",
+	"size": {"w":128,"h":256},
+	"scale": "1"
+}
+}

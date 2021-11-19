@@ -1,0 +1,176 @@
+/*
+
+Theme Name: Pengeby Custom WordPress Template 2018
+Theme URI: http://zupa.dk/
+Author: Zupa / tekstur
+Author URI: http://zupa.dk/
+Description: Custom WordPress template built for Pengeby.dk 2018
+Version: 1.0
+
+*/
+
+#cookieDisclaimer {
+    padding: 8px 0;
+    background-color: #003755;
+    width: 100%;
+    padding: 10px 0;
+    position: fixed;
+    z-index: 3000;
+    padding-bottom: 5px;
+    padding-left: 12px;
+}
+
+#cookieDisclaimer .section.cookie-section {
+    padding-left: 0;
+    padding-right: 0;
+    margin: 0 auto;
+    position: relative;
+    max-width: 960px;
+}
+
+.section.section-article .section-inner {
+    padding: 0;
+    position: relative;
+}
+
+.medium-10 {
+    width: 83.33333%;
+}
+
+.medium-2 {
+    width: 16.66667%;
+}
+
+.column,
+.columns {
+    float: left;
+}
+
+p.cookieDisclaimerText {
+    color: #ffffff;
+    font-size: 12px;
+    line-height: 12px;
+}
+
+#cookieDisclaimer .cookieDisclaimerText a {
+    color: #009edd;
+}
+
+#nameinput {
+    position: absolute;
+    z-index: 100;
+    top: 212px;
+    left: calc(50% + 112px);
+    display: none;
+    font-size: 14px;
+}
+
+#nameinput input {
+    background: none;
+    width: 134px;
+    border: none;
+}
+
+#nameinput input:focus {
+    background: none;
+    border: none;
+    outline: none;
+}
+
+.textinput.hasFocus {
+    top: 10px !important;
+    left: calc(50% - 67px) !important;
+    transform: none !important;
+}
+
+.textinput.hasFocus input {
+    background: white !important;
+    border: 1px solid grey !important;
+}
+
+#monoinput {
+    position: absolute;
+    z-index: 101;
+    top: 409px;
+    left: calc(50% + 60px);
+    display: none;
+}
+
+#monoinput input {
+    background: none;
+    width: 35px;
+    border: none;
+    font-size: 26px;
+}
+
+#monoinput input:focus {
+    background: none;
+    border: none;
+    outline: none;
+}
+
+.mononameinput {
+    position: absolute;
+    z-index: 101;
+    display: none;
+}
+
+.mononameinput input {
+    font-size: 14px;
+    width: 80px;
+    height: 25px;
+}
+
+.mononameinput input:focus {
+    outline: none;
+}
+
+#mononameinput0 {
+    top: 350px;
+    left: calc(50% + -156px);
+}
+
+#mononameinput1 {
+    top: 350px;
+    left: calc(50% + -47px);
+}
+
+#mononameinput2 {
+    top: 448px;
+    left: calc(50% + -185px);
+}
+
+#mononameinput3 {
+    top: 448px;
+    left: calc(50% + -73px);
+}
+
+#mononameinput4 {
+    top: 448px;
+    left: calc(50% + 37px);
+}
+
+#mononameinput5 {
+    top: 550px;
+    left: calc(50% + -185px);
+}
+
+#mononameinput6 {
+    top: 550px;
+    left: calc(50% + -73px);
+}
+
+#mononameinput7 {
+    top: 550px;
+    left: calc(50% + 37px);
+}
+
+body.nocursor {
+    cursor: none !important;
+}
+
+@media screen and (max-width: 600px) {
+    .medium-2 {
+        width: 100%;
+    }
+}

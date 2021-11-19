@@ -1,0 +1,99 @@
+{"frames": {
+
+"basket0000":
+{
+	"frame": {"x":8,"y":8,"w":75,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":1,"w":77,"h":43},
+	"sourceSize": {"w":77,"h":43}
+},
+"basket0001":
+{
+	"frame": {"x":89,"y":8,"w":75,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":1,"w":77,"h":43},
+	"sourceSize": {"w":77,"h":43}
+},
+"basket0002":
+{
+	"frame": {"x":170,"y":8,"w":75,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":1,"w":77,"h":43},
+	"sourceSize": {"w":77,"h":43}
+},
+"basket0003":
+{
+	"frame": {"x":8,"y":56,"w":75,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":1,"w":77,"h":43},
+	"sourceSize": {"w":77,"h":43}
+},
+"basket0004":
+{
+	"frame": {"x":89,"y":56,"w":75,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":1,"w":77,"h":43},
+	"sourceSize": {"w":77,"h":43}
+},
+"basket0005":
+{
+	"frame": {"x":170,"y":56,"w":75,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":1,"w":77,"h":43},
+	"sourceSize": {"w":77,"h":43}
+},
+"basket0006":
+{
+	"frame": {"x":8,"y":104,"w":75,"h":43},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":77,"h":43},
+	"sourceSize": {"w":77,"h":43}
+},
+"basket0007":
+{
+	"frame": {"x":89,"y":104,"w":75,"h":43},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":77,"h":43},
+	"sourceSize": {"w":77,"h":43}
+},
+"basket0008":
+{
+	"frame": {"x":170,"y":104,"w":76,"h":43},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":77,"h":43},
+	"sourceSize": {"w":77,"h":43}
+},
+"basket0009":
+{
+	"frame": {"x":8,"y":153,"w":77,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":77,"h":43},
+	"sourceSize": {"w":77,"h":43}
+},
+"basket0010":
+{
+	"frame": {"x":91,"y":153,"w":77,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":77,"h":43},
+	"sourceSize": {"w":77,"h":43}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "16.0.0.112",
+	"image": "basket.png",
+	"format": "RGBA8888",
+	"size": {"w":256,"h":256},
+	"scale": "1"
+}
+}

@@ -1,0 +1,312 @@
+{
+  "speak_b_createuser_dress": {
+    "contenttype": "sound",
+    "content": "dk_vaelg_udseende.mp3",
+    "subtitle": "Nu skal du v\u00e6lge, hvordan du gerne vil se ud. Klik p\u00e5 den gr\u00f8nne knap, n\u00e5r du er f\u00e6rdig."
+  },
+  "speak_b_createuser_gender": {
+    "contenttype": "sound",
+    "content": "dk_vaelg_draeng_pige.mp3",
+    "subtitle": "Er du en dreng, skal du klikke p\u00e5 drengen. Er du en pige, skal du klikke p\u00e5 pigen."
+  },
+  "speak_b_createuser_house": {
+    "contenttype": "sound",
+    "content": "dk_vaelg_hus.mp3",
+    "subtitle": "I Pengeby f\u00e5r du dit helt eget hus! Hvilket hus vil du bo i?"
+  },
+  "createuser_boy": {
+    "contenttype": "label",
+    "content": "Dreng",
+    "subtitle": ""
+  },
+  "createuser_button_body": {
+    "contenttype": "label",
+    "content": "Klik her for at oprette din egen bruger",
+    "subtitle": ""
+  },
+  "createuser_def_text": {
+    "contenttype": "label",
+    "content": "I Pengeby f\u00e5r man sin egen figur, som man kan k\u00f8be en masse ting til. Du skal derfor oprette en bruger, for at du kan blive genkendt n\u00e5r du kommer tilbage. De oplysninger du angiver, vil kun blive brugt til dette spil!",
+    "subtitle": ""
+  },
+  "createuser_girl": {
+    "contenttype": "label",
+    "content": "Pige",
+    "subtitle": ""
+  },
+  "speak_b_universe_citygate": {
+    "contenttype": "sound",
+    "content": "dk_roll_over_paa_byport.mp3",
+    "subtitle": "Det er byens port. Hvis du har lyst til at male den igen, skal du bare klikke her."
+  },
+  "speak_b_universe_monopolyAccess": {
+    "contenttype": "sound",
+    "content": "dk_roll_over_paa_familiespillet_0.mp3",
+    "subtitle": "Det her er Familiespillet, hvor du skal hj\u00e6lpe en familie. Men du skal kunne regne og l\u00e6se for at spille det!"
+  },
+  "speak_b_universe_room": {
+    "contenttype": "sound",
+    "content": "dk_roll_over_paa_eget_hus.mp3",
+    "subtitle": "Det her er dit hus, det er her du bor."
+  },
+  "speak_b_universe_welcome": {
+    "contenttype": "sound",
+    "content": "dk_hjaelp_2.mp3",
+    "subtitle": "Her kan du se hele Pengeby. Klik p\u00e5 de steder, du gerne vil bes\u00f8ge. Hvis du gerne vil tilbage til dit v\u00e6relse, skal du klikke p\u00e5 huset, hvor du bor."
+  },
+  "speak_b_wishlist_opens": {
+    "contenttype": "sound",
+    "content": "dk_aabning_af_krukke.mp3",
+    "subtitle": "Her kan du se de ting, du sparer op til - dem du har penge nok til, kan du k\u00f8be! Der kan kun v\u00e6re tre ting i \u00f8nskekrukken. Er der nogle ting, du har penge til at k\u00f8be?"
+  },
+  "speak_b_wishlist_rollover": {
+    "contenttype": "sound",
+    "content": "SE Borgmester 2.mp3",
+    "subtitle": "Her kan du se de ting fra Karens butik, som du gerne vil spare op til."
+  },
+  "speak_universe_farm": {
+    "contenttype": "sound",
+    "content": "universe_farm_76.mp3",
+    "subtitle": "Jeg har brug for din hj\u00e6lp til at fodre mine dyr. Har du lyst til at hj\u00e6lpe mig og tjene nogle penge?"
+  },
+  "speak_universe_karens": {
+    "contenttype": "sound",
+    "content": "dk_roll_over_paa_karens_butik.mp3",
+    "subtitle": "Kom over i min butik, jeg f\u00e5r hele tiden nye varer!"
+  },
+  "speak_universe_postoffice": {
+    "contenttype": "sound",
+    "content": "dk_roll_over_paa_postkontoret.mp3",
+    "subtitle": "Jeg har brug for din hj\u00e6lp her p\u00e5 Postkontoret! Vil du hj\u00e6lpe mig og tjene nogle penge?"
+  },
+  "speak_universe_timemachine": {
+    "contenttype": "sound",
+    "content": "dk_roll_over_paa_tidsmaskine.mp3",
+    "subtitle": "Det her er min Tidsmaskine - kunne du t\u00e6nke dig at pr\u00f8ve den?"
+  },
+  "speak_universe_wizard": {
+    "contenttype": "sound",
+    "content": "dk_roll_over_paa_troldmand_klar.mp3",
+    "subtitle": "Jeg er troldmand - og jeg har en hemmelighed! Er du klar til at h\u00f8re den?"
+  },
+  "speak_universe_wizard_not_ready": {
+    "contenttype": "sound",
+    "content": "dk_roll_over_paa_troldmand_ikke_klar2.mp3",
+    "subtitle": "Jeg er troldmand - og jeg har en hemmelighed! Men du skal have bes\u00f8gt alle stederne i Pengeby, f\u00f8r jeg vil fort\u00e6lle dig den."
+  },
+  "monopolyAccess_calc_text": {
+    "contenttype": "label",
+    "content": "For at \u00e5bne bommen skal du regne koden rigtigt ud!",
+    "subtitle": ""
+  },
+  "monopolyAccess_wrong_body": {
+    "contenttype": "label",
+    "content": "Pr\u00f8v igen",
+    "subtitle": ""
+  },
+  "monopolyAccess_wrong_header": {
+    "contenttype": "label",
+    "content": "FORKERT SVAR",
+    "subtitle": ""
+  },
+  "speak_b_universe_apple": {
+    "contenttype": "sound",
+    "content": "dk_roll_over_paa_eblebod.mp3",
+    "subtitle": "Det her er din \u00e6blebod. Her kan du tjene penge ved at samle \u00e6bler og lave \u00e6blejuice til hele Pengeby!"
+  },
+  "speak_b_monopolyAccess_helpTxt": {
+    "contenttype": "sound",
+    "content": "dk_tryk_paa_familiespillet.mp3",
+    "subtitle": "For at komme over broen skal du regne dig frem til det rigtige tal, der \u00e5bner bommen."
+  },
+  "speak_b_monopolyAccess_rightCode": {
+    "contenttype": "sound",
+    "content": "openGate_rightCode.mp3",
+    "subtitle": "Det var den rigtige kode!"
+  },
+  "speak_b_monopolyAccess_wrongCode": {
+    "contenttype": "sound",
+    "content": "dk_tryk_paa_familiespillet_forkert.mp3",
+    "subtitle": "Det var ikke rigtigt. Pr\u00f8v igen."
+  },
+  "pengeby_closeSubtitles": {
+    "contenttype": "label",
+    "content": "Skjul tekst",
+    "subtitle": ""
+  },
+  "pengeby_subtitlesButtonOff": {
+    "contenttype": "label",
+    "content": "Sl\u00e5 tekster til",
+    "subtitle": ""
+  },
+  "pengeby_subtitlesButtonOn": {
+    "contenttype": "label",
+    "content": "Sl\u00e5 tekster fra",
+    "subtitle": ""
+  },
+  "pengeby_yourName": {
+    "contenttype": "label",
+    "content": "Skriv dit navn",
+    "subtitle": ""
+  },
+  "pengeby_bank_addCash": {
+    "contenttype": "sound",
+    "content": "pengeby_coins_til_stakken_i_venstre_side.mp3",
+    "subtitle": ""
+  },
+  "pengeby_button_general": {
+    "contenttype": "sound",
+    "content": "pengeby_button_general.mp3",
+    "subtitle": ""
+  },
+  "pengeby_loader": {
+    "contenttype": "sound",
+    "content": "pengeby_musica.mp3",
+    "subtitle": ""
+  },
+  "pengeby_ok_button": {
+    "contenttype": "sound",
+    "content": "pengeby_ok_lyd_1.mp3",
+    "subtitle": ""
+  },
+  "pengeby_printer": {
+    "contenttype": "sound",
+    "content": "pengeby_printer_lyd.mp3",
+    "subtitle": ""
+  },
+  "universe_ambient_birds1": {
+    "contenttype": "sound",
+    "content": "universe_bird1.mp3",
+    "subtitle": ""
+  },
+  "universe_ambient_birds2": {
+    "contenttype": "sound",
+    "content": "universe_bird2.mp3",
+    "subtitle": ""
+  },
+  "universe_ambient_birds3": {
+    "contenttype": "sound",
+    "content": "universe_bird3.mp3",
+    "subtitle": ""
+  },
+  "universe_ambient_birds4": {
+    "contenttype": "sound",
+    "content": "universe_bird4.mp3",
+    "subtitle": ""
+  },
+  "universe_ambient_water1": {
+    "contenttype": "sound",
+    "content": "universe_water1.mp3",
+    "subtitle": ""
+  },
+  "universe_ambient_water2": {
+    "contenttype": "sound",
+    "content": "universe_water2.mp3",
+    "subtitle": ""
+  },
+  "universe_ambient_water3": {
+    "contenttype": "sound",
+    "content": "universe_water3.mp3",
+    "subtitle": ""
+  },
+  "universe_car1": {
+    "contenttype": "sound",
+    "content": "universe_car1.mp3",
+    "subtitle": ""
+  },
+  "universe_car2": {
+    "contenttype": "sound",
+    "content": "universe_car2.mp3",
+    "subtitle": ""
+  },
+  "universe_car3": {
+    "contenttype": "sound",
+    "content": "universe_car3.mp3",
+    "subtitle": ""
+  },
+  "universe_car4": {
+    "contenttype": "sound",
+    "content": "universe_car4.mp3",
+    "subtitle": ""
+  },
+  "universe_car5": {
+    "contenttype": "sound",
+    "content": "universe_car5.mp3",
+    "subtitle": ""
+  },
+  "universe_cow1": {
+    "contenttype": "sound",
+    "content": "universe_cow1.mp3",
+    "subtitle": ""
+  },
+  "universe_cow2": {
+    "contenttype": "sound",
+    "content": "universe_cow2.mp3",
+    "subtitle": ""
+  },
+  "universe_cow3": {
+    "contenttype": "sound",
+    "content": "universe_cow3.mp3",
+    "subtitle": ""
+  },
+  "universe_duck": {
+    "contenttype": "sound",
+    "content": "and.mp3",
+    "subtitle": ""
+  },
+  "universe_duck_splash": {
+    "contenttype": "sound",
+    "content": "rock_splash.mp3",
+    "subtitle": ""
+  },
+  "universe_horse1": {
+    "contenttype": "sound",
+    "content": "universe_horse1.mp3",
+    "subtitle": ""
+  },
+  "universe_horse2": {
+    "contenttype": "sound",
+    "content": "universe_horse2.mp3",
+    "subtitle": ""
+  },
+  "universe_horse3": {
+    "contenttype": "sound",
+    "content": "universe_horse3.mp3",
+    "subtitle": ""
+  },
+  "universe_parasol1": {
+    "contenttype": "sound",
+    "content": "universe_parasol.mp3",
+    "subtitle": ""
+  },
+  "universe_parasol2": {
+    "contenttype": "sound",
+    "content": "universe_parasol_0.mp3",
+    "subtitle": ""
+  },
+  "universe_rabbit": {
+    "contenttype": "sound",
+    "content": "rabbit_jump.mp3",
+    "subtitle": ""
+  },
+  "universe_rabbit_magic": {
+    "contenttype": "sound",
+    "content": "rabbit-magic.mp3",
+    "subtitle": ""
+  },
+  "universe_sheep1": {
+    "contenttype": "sound",
+    "content": "universe_sheep1.mp3",
+    "subtitle": ""
+  },
+  "universe_sheep2": {
+    "contenttype": "sound",
+    "content": "universe_sheep2.mp3",
+    "subtitle": ""
+  },
+  "wishlist_sound": {
+    "contenttype": "sound",
+    "content": "wishlist_sound.mp3",
+    "subtitle": ""
+  }
+}

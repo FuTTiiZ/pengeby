@@ -1,0 +1,35 @@
+{"frames": {
+
+"bodySelect0000":
+{
+	"frame": {"x":8,"y":8,"w":154,"h":51},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":154,"h":51},
+	"sourceSize": {"w":154,"h":51}
+},
+"bodySelect0001":
+{
+	"frame": {"x":8,"y":65,"w":154,"h":51},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":154,"h":51},
+	"sourceSize": {"w":154,"h":51}
+},
+"bodySelect0002":
+{
+	"frame": {"x":8,"y":122,"w":154,"h":51},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":154,"h":51},
+	"sourceSize": {"w":154,"h":51}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "16.0.0.112",
+	"image": "gbody.png",
+	"format": "RGBA8888",
+	"size": {"w":256,"h":256},
+	"scale": "1"
+}
+}

@@ -1,0 +1,187 @@
+{"frames": {
+
+"farm instance 10000":
+{
+	"frame": {"x":8,"y":8,"w":276,"h":189},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":21,"w":305,"h":223},
+	"sourceSize": {"w":305,"h":223}
+},
+"farm instance 10001":
+{
+	"frame": {"x":290,"y":8,"w":276,"h":189},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":21,"w":305,"h":223},
+	"sourceSize": {"w":305,"h":223}
+},
+"farm instance 10002":
+{
+	"frame": {"x":572,"y":8,"w":276,"h":194},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":18,"w":305,"h":223},
+	"sourceSize": {"w":305,"h":223}
+},
+"farm instance 10003":
+{
+	"frame": {"x":8,"y":208,"w":276,"h":198},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":16,"w":305,"h":223},
+	"sourceSize": {"w":305,"h":223}
+},
+"farm instance 10004":
+{
+	"frame": {"x":290,"y":208,"w":278,"h":203},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":13,"w":305,"h":223},
+	"sourceSize": {"w":305,"h":223}
+},
+"farm instance 10005":
+{
+	"frame": {"x":574,"y":208,"w":282,"h":206},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":11,"w":305,"h":223},
+	"sourceSize": {"w":305,"h":223}
+},
+"farm instance 10006":
+{
+	"frame": {"x":8,"y":420,"w":287,"h":211},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":8,"w":305,"h":223},
+	"sourceSize": {"w":305,"h":223}
+},
+"farm instance 10007":
+{
+	"frame": {"x":301,"y":420,"w":297,"h":217},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":4,"w":305,"h":223},
+	"sourceSize": {"w":305,"h":223}
+},
+"farm instance 10008":
+{
+	"frame": {"x":604,"y":420,"w":305,"h":223},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":305,"h":223},
+	"sourceSize": {"w":305,"h":223}
+},
+"farm instance 10009":
+{
+	"frame": {"x":8,"y":649,"w":305,"h":223},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":305,"h":223},
+	"sourceSize": {"w":305,"h":223}
+},
+"farm instance 10010":
+{
+	"frame": {"x":319,"y":649,"w":305,"h":223},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":305,"h":223},
+	"sourceSize": {"w":305,"h":223}
+},
+"farm instance 10011":
+{
+	"frame": {"x":630,"y":649,"w":305,"h":223},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":305,"h":223},
+	"sourceSize": {"w":305,"h":223}
+},
+"farm instance 10012":
+{
+	"frame": {"x":8,"y":878,"w":305,"h":223},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":305,"h":223},
+	"sourceSize": {"w":305,"h":223}
+},
+"farm instance 10013":
+{
+	"frame": {"x":319,"y":878,"w":305,"h":223},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":305,"h":223},
+	"sourceSize": {"w":305,"h":223}
+},
+"farm instance 10014":
+{
+	"frame": {"x":630,"y":878,"w":305,"h":223},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":305,"h":223},
+	"sourceSize": {"w":305,"h":223}
+},
+"farm instance 10015":
+{
+	"frame": {"x":8,"y":1107,"w":297,"h":217},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":4,"w":305,"h":223},
+	"sourceSize": {"w":305,"h":223}
+},
+"farm instance 10016":
+{
+	"frame": {"x":311,"y":1107,"w":287,"h":211},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":8,"w":305,"h":223},
+	"sourceSize": {"w":305,"h":223}
+},
+"farm instance 10017":
+{
+	"frame": {"x":604,"y":1107,"w":282,"h":206},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":11,"w":305,"h":223},
+	"sourceSize": {"w":305,"h":223}
+},
+"farm instance 10018":
+{
+	"frame": {"x":8,"y":1330,"w":278,"h":203},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":13,"w":305,"h":223},
+	"sourceSize": {"w":305,"h":223}
+},
+"farm instance 10019":
+{
+	"frame": {"x":292,"y":1330,"w":276,"h":198},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":16,"w":305,"h":223},
+	"sourceSize": {"w":305,"h":223}
+},
+"farm instance 10020":
+{
+	"frame": {"x":574,"y":1330,"w":276,"h":194},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":18,"w":305,"h":223},
+	"sourceSize": {"w":305,"h":223}
+},
+"farm instance 10021":
+{
+	"frame": {"x":8,"y":1539,"w":276,"h":189},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":21,"w":305,"h":223},
+	"sourceSize": {"w":305,"h":223}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "16.0.0.112",
+	"image": "farm.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":2048},
+	"scale": "1"
+}
+}

@@ -1,0 +1,123 @@
+{"frames": {
+
+"Bolig_samlet_login_PV2_890000":
+{
+	"frame": {"x":8,"y":8,"w":50,"h":38},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":4,"w":54,"h":45},
+	"sourceSize": {"w":54,"h":45}
+},
+"Bolig_samlet_login_PV2_890001":
+{
+	"frame": {"x":64,"y":8,"w":50,"h":38},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":4,"w":54,"h":45},
+	"sourceSize": {"w":54,"h":45}
+},
+"Bolig_samlet_login_PV2_890002":
+{
+	"frame": {"x":120,"y":8,"w":39,"h":26},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":10,"w":54,"h":45},
+	"sourceSize": {"w":54,"h":45}
+},
+"Bolig_samlet_login_PV2_890003":
+{
+	"frame": {"x":165,"y":8,"w":39,"h":26},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":10,"w":54,"h":45},
+	"sourceSize": {"w":54,"h":45}
+},
+"Bolig_samlet_login_PV2_890004":
+{
+	"frame": {"x":8,"y":52,"w":54,"h":31},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":54,"h":45},
+	"sourceSize": {"w":54,"h":45}
+},
+"Bolig_samlet_login_PV2_890005":
+{
+	"frame": {"x":68,"y":52,"w":54,"h":31},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":54,"h":45},
+	"sourceSize": {"w":54,"h":45}
+},
+"Bolig_samlet_login_PV2_890006":
+{
+	"frame": {"x":128,"y":52,"w":54,"h":25},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":11,"w":54,"h":45},
+	"sourceSize": {"w":54,"h":45}
+},
+"Bolig_samlet_login_PV2_890007":
+{
+	"frame": {"x":188,"y":52,"w":54,"h":25},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":11,"w":54,"h":45},
+	"sourceSize": {"w":54,"h":45}
+},
+"Bolig_samlet_login_PV2_890008":
+{
+	"frame": {"x":8,"y":89,"w":47,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":3,"w":54,"h":45},
+	"sourceSize": {"w":54,"h":45}
+},
+"Bolig_samlet_login_PV2_890009":
+{
+	"frame": {"x":61,"y":89,"w":47,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":3,"w":54,"h":45},
+	"sourceSize": {"w":54,"h":45}
+},
+"Bolig_samlet_login_PV2_890010":
+{
+	"frame": {"x":114,"y":89,"w":48,"h":44},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":54,"h":45},
+	"sourceSize": {"w":54,"h":45}
+},
+"Bolig_samlet_login_PV2_890011":
+{
+	"frame": {"x":168,"y":89,"w":48,"h":44},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":54,"h":45},
+	"sourceSize": {"w":54,"h":45}
+},
+"Bolig_samlet_login_PV2_890012":
+{
+	"frame": {"x":8,"y":139,"w":51,"h":35},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":4,"w":54,"h":45},
+	"sourceSize": {"w":54,"h":45}
+},
+"Bolig_samlet_login_PV2_890013":
+{
+	"frame": {"x":65,"y":139,"w":51,"h":35},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":4,"w":54,"h":45},
+	"sourceSize": {"w":54,"h":45}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "16.0.0.112",
+	"image": "MonopolyStartupHouses.png",
+	"format": "RGBA8888",
+	"size": {"w":256,"h":256},
+	"scale": "1"
+}
+}

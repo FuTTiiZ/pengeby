@@ -1,0 +1,171 @@
+{"frames": {
+
+"avatarGirlBody0000":
+{
+	"frame": {"x":8,"y":8,"w":116,"h":117},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":70,"w":192,"h":325},
+	"sourceSize": {"w":192,"h":325}
+},
+"avatarGirlBody0001":
+{
+	"frame": {"x":130,"y":8,"w":100,"h":102},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":80,"w":192,"h":325},
+	"sourceSize": {"w":192,"h":325}
+},
+"avatarGirlBody0002":
+{
+	"frame": {"x":236,"y":8,"w":110,"h":114},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":80,"w":192,"h":325},
+	"sourceSize": {"w":192,"h":325}
+},
+"avatarGirlBody0003":
+{
+	"frame": {"x":352,"y":8,"w":114,"h":98},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":33,"y":76,"w":192,"h":325},
+	"sourceSize": {"w":192,"h":325}
+},
+"avatarGirlBody0004":
+{
+	"frame": {"x":472,"y":8,"w":118,"h":120},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":33,"y":80,"w":192,"h":325},
+	"sourceSize": {"w":192,"h":325}
+},
+"avatarGirlBody0005":
+{
+	"frame": {"x":596,"y":8,"w":112,"h":94},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":80,"w":192,"h":325},
+	"sourceSize": {"w":192,"h":325}
+},
+"avatarGirlBody0006":
+{
+	"frame": {"x":714,"y":8,"w":110,"h":91},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":38,"y":80,"w":192,"h":325},
+	"sourceSize": {"w":192,"h":325}
+},
+"avatarGirlBody0007":
+{
+	"frame": {"x":830,"y":8,"w":115,"h":96},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":32,"y":80,"w":192,"h":325},
+	"sourceSize": {"w":192,"h":325}
+},
+"avatarGirlBody0008":
+{
+	"frame": {"x":8,"y":134,"w":120,"h":176},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":75,"w":192,"h":325},
+	"sourceSize": {"w":192,"h":325}
+},
+"avatarGirlBody0009":
+{
+	"frame": {"x":134,"y":134,"w":170,"h":248},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":77,"w":192,"h":325},
+	"sourceSize": {"w":192,"h":325}
+},
+"avatarGirlBody0010":
+{
+	"frame": {"x":310,"y":134,"w":147,"h":127},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":77,"w":192,"h":325},
+	"sourceSize": {"w":192,"h":325}
+},
+"avatarGirlBody0011":
+{
+	"frame": {"x":463,"y":134,"w":121,"h":211},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":30,"y":80,"w":192,"h":325},
+	"sourceSize": {"w":192,"h":325}
+},
+"avatarGirlBody0012":
+{
+	"frame": {"x":590,"y":134,"w":141,"h":245},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":28,"y":74,"w":192,"h":325},
+	"sourceSize": {"w":192,"h":325}
+},
+"avatarGirlBody0013":
+{
+	"frame": {"x":737,"y":134,"w":170,"h":220},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":79,"w":192,"h":325},
+	"sourceSize": {"w":192,"h":325}
+},
+"avatarGirlBody0014":
+{
+	"frame": {"x":8,"y":388,"w":165,"h":242},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":82,"w":192,"h":325},
+	"sourceSize": {"w":192,"h":325}
+},
+"avatarGirlBody0015":
+{
+	"frame": {"x":179,"y":388,"w":192,"h":307},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":192,"h":325},
+	"sourceSize": {"w":192,"h":325}
+},
+"avatarGirlBody0016":
+{
+	"frame": {"x":377,"y":388,"w":100,"h":167},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":82,"w":192,"h":325},
+	"sourceSize": {"w":192,"h":325}
+},
+"avatarGirlBody0017":
+{
+	"frame": {"x":483,"y":388,"w":181,"h":166},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":74,"w":192,"h":325},
+	"sourceSize": {"w":192,"h":325}
+},
+"avatarGirlBody0018":
+{
+	"frame": {"x":670,"y":388,"w":106,"h":113},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":80,"w":192,"h":325},
+	"sourceSize": {"w":192,"h":325}
+},
+"avatarGirlBody0019":
+{
+	"frame": {"x":782,"y":388,"w":138,"h":200},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":79,"w":192,"h":325},
+	"sourceSize": {"w":192,"h":325}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "16.0.0.112",
+	"image": "avatarGirlBody.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":1024},
+	"scale": "1"
+}
+}

@@ -1,0 +1,17 @@
+{
+  "speak_b_egypt_welcome": {
+    "contenttype": "sound",
+    "content": "dk_velkomst_og_forklaring_aegypten.mp3",
+    "subtitle": "Nu er du tilbage i det gamle Egypten, hvor de er i gang med at bygge verdens st\u00f8rste pyramide, som hedder Keops pyramiden. Du skal hj\u00e6lpe med at g\u00f8re det store rum til faraoen, som er en slags konge, rigtig flot! Du kan male v\u00e6ggen og dekorere den med flotte ting. Tryk p\u00e5 den gr\u00f8nne knap, n\u00e5r du er klar!"
+  },
+  "egypt_ambient": {
+    "contenttype": "sound",
+    "content": "egypt_ambient.mp3",
+    "subtitle": ""
+  },
+  "egypt_urne_open": {
+    "contenttype": "sound",
+    "content": "egypt_mus_over_urner_hiroglyffer_ud_af_krukke.mp3",
+    "subtitle": ""
+  }
+}

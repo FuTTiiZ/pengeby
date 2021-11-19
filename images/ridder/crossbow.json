@@ -1,0 +1,91 @@
+{"frames": {
+
+"Armbroest0000":
+{
+	"frame": {"x":8,"y":8,"w":437,"h":313},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":139,"w":437,"h":452},
+	"sourceSize": {"w":437,"h":452}
+},
+"Armbroest0001":
+{
+	"frame": {"x":451,"y":8,"w":411,"h":292},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":160,"w":437,"h":452},
+	"sourceSize": {"w":437,"h":452}
+},
+"Armbroest0002":
+{
+	"frame": {"x":8,"y":327,"w":400,"h":274},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":178,"w":437,"h":452},
+	"sourceSize": {"w":437,"h":452}
+},
+"Armbroest0003":
+{
+	"frame": {"x":414,"y":327,"w":384,"h":256},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":31,"y":196,"w":437,"h":452},
+	"sourceSize": {"w":437,"h":452}
+},
+"Armbroest0004":
+{
+	"frame": {"x":8,"y":607,"w":437,"h":331},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":121,"w":437,"h":452},
+	"sourceSize": {"w":437,"h":452}
+},
+"Armbroest0005":
+{
+	"frame": {"x":451,"y":607,"w":437,"h":355},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":97,"w":437,"h":452},
+	"sourceSize": {"w":437,"h":452}
+},
+"Armbroest0006":
+{
+	"frame": {"x":8,"y":968,"w":437,"h":379},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":73,"w":437,"h":452},
+	"sourceSize": {"w":437,"h":452}
+},
+"Armbroest0007":
+{
+	"frame": {"x":451,"y":968,"w":437,"h":403},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":49,"w":437,"h":452},
+	"sourceSize": {"w":437,"h":452}
+},
+"Armbroest0008":
+{
+	"frame": {"x":8,"y":1377,"w":437,"h":428},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":24,"w":437,"h":452},
+	"sourceSize": {"w":437,"h":452}
+},
+"Armbroest0009":
+{
+	"frame": {"x":451,"y":1377,"w":437,"h":452},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":437,"h":452},
+	"sourceSize": {"w":437,"h":452}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "16.0.0.112",
+	"image": "crossbow.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":2048},
+	"scale": "1"
+}
+}

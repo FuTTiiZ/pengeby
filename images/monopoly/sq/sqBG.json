@@ -1,0 +1,67 @@
+{"frames": {
+
+"MonopolyGameSummerQuiz0000":
+{
+	"frame": {"x":8,"y":8,"w":945,"h":757},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":0,"w":1091,"h":875},
+	"sourceSize": {"w":1091,"h":875}
+},
+"MonopolyGameSummerQuiz0001":
+{
+	"frame": {"x":959,"y":8,"w":976,"h":828},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":0,"w":1091,"h":875},
+	"sourceSize": {"w":1091,"h":875}
+},
+"MonopolyGameSummerQuiz0002":
+{
+	"frame": {"x":8,"y":842,"w":992,"h":875},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":1091,"h":875},
+	"sourceSize": {"w":1091,"h":875}
+},
+"MonopolyGameSummerQuiz0003":
+{
+	"frame": {"x":8,"y":1723,"w":1071,"h":797},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":0,"w":1091,"h":875},
+	"sourceSize": {"w":1091,"h":875}
+},
+"MonopolyGameSummerQuiz0004":
+{
+	"frame": {"x":8,"y":2526,"w":990,"h":766},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":43,"y":0,"w":1091,"h":875},
+	"sourceSize": {"w":1091,"h":875}
+},
+"MonopolyGameSummerQuiz0005":
+{
+	"frame": {"x":1004,"y":2526,"w":974,"h":769},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":81,"y":0,"w":1091,"h":875},
+	"sourceSize": {"w":1091,"h":875}
+},
+"MonopolyGameSummerQuiz0006":
+{
+	"frame": {"x":8,"y":3301,"w":960,"h":767},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":73,"y":0,"w":1091,"h":875},
+	"sourceSize": {"w":1091,"h":875}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "16.0.0.112",
+	"image": "sqBG.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":4096},
+	"scale": "1"
+}
+}

@@ -1,0 +1,27 @@
+{"frames": {
+
+"Oenske_btn0000":
+{
+	"frame": {"x":8,"y":8,"w":185,"h":108},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":185,"h":108},
+	"sourceSize": {"w":185,"h":108}
+},
+"Oenske_btn0001":
+{
+	"frame": {"x":8,"y":122,"w":185,"h":108},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":185,"h":108},
+	"sourceSize": {"w":185,"h":108}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "16.0.0.112",
+	"image": "Oenske_btn.png",
+	"format": "RGBA8888",
+	"size": {"w":256,"h":256},
+	"scale": "1"
+}
+}

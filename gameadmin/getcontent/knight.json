@@ -1,0 +1,27 @@
+{
+  "speak_b_ridder_complete": {
+    "contenttype": "sound",
+    "content": "game_over_1.mp3",
+    "subtitle": "Det er du god til! Pr\u00f8v igen for at se, om du kan g\u00f8re det bedre."
+  },
+  "speak_b_ridder_welcome": {
+    "contenttype": "sound",
+    "content": "velkommen_ridder_se.mp3",
+    "subtitle": "Nu har du rejst tilbage til middelalderen, og her skal du bruge en armbr\u00f8st for at skyde pile efter en m\u00e5lskive. Du skal trykke p\u00e5 de brune pile p\u00e5 armbr\u00f8sten for at bestemme, hvilken retning du vil skyde. Og du skal ogs\u00e5 indstille hvor h\u00e5rdt. N\u00e5r du tror, at du vil skyde h\u00e5rdt nok og i den rigtige retning til at ramme m\u00e5lskiven, skal du trykke p\u00e5 den gr\u00f8nne knap for at skyde. Pr\u00f8v og se, hvor mange point du kan f\u00e5! Tryk p\u00e5 den gr\u00f8nne knap for at g\u00e5 i gang!"
+  },
+  "ridder_hit": {
+    "contenttype": "sound",
+    "content": "Bue_rammer.mp3",
+    "subtitle": ""
+  },
+  "ridder_miss": {
+    "contenttype": "sound",
+    "content": "Bue_misser.mp3",
+    "subtitle": ""
+  },
+  "ridder_shoot": {
+    "contenttype": "sound",
+    "content": "bue_bliver_skudt.mp3",
+    "subtitle": ""
+  }
+}

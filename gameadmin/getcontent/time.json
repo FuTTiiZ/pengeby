@@ -1,0 +1,47 @@
+{
+  "speak_b_timemachine_welcome": {
+    "contenttype": "sound",
+    "content": "dk_velkomst_og_forklaring_tidsmaskine.mp3",
+    "subtitle": "Velkommen til Tidsmaskinen. Her kan du rejse tilbage i tiden og pr\u00f8ve en masse sjove og sp\u00e6ndende ting - men kun, hvis du har penge nok. Det koster nemlig en guldm\u00f8nt, hver gang du rejser. Klik p\u00e5 den gr\u00f8nne knap for at v\u00e6lge, hvor du gerne vil rejse hen."
+  },
+  "speak_timemachine_nocash": {
+    "contenttype": "sound",
+    "content": "dk_ikke_raad.mp3",
+    "subtitle": "Det har du desv\u00e6rre ikke r\u00e5d til, s\u00e5 du m\u00e5 ud og tjene nogle penge!"
+  },
+  "speak_timemachine_travel": {
+    "contenttype": "sound",
+    "content": "dk_god_tur.mp3",
+    "subtitle": ""
+  },
+  "speak_timemachine_rome": {
+    "contenttype": "sound",
+    "content": "dk_forklaring_paa_rom.mp3",
+    "subtitle": "Det her er rejsen til det gamle Rom. Her kan du hj\u00e6lpe med at bygge flotte og store bygninger."
+  },
+  "speak_timemachine_dino": {
+    "contenttype": "sound",
+    "content": "dk_forklaring_paa_dinosaur.mp3",
+    "subtitle": "Her kan du rejse tilbage til dengang, hvor der fandtes dinosaurusser og hj\u00e6lpe med at finde dinosaurus \u00e6g."
+  },
+  "speak_timemachine_ridder": {
+    "contenttype": "sound",
+    "content": "dk_forklaringp_paa_riddertiden.mp3",
+    "subtitle": "Her kan du rejse tilbage til Riddertiden og pr\u00f8ve at k\u00e6mpe som en ridder."
+  },
+  "speak_timemachine_egypt": {
+    "contenttype": "sound",
+    "content": "dk_forklaring_paa_aegypten.mp3",
+    "subtitle": "Det her er rejsen til det gamle Egypten. Her er de i gang med at bygge verdens st\u00f8rste pyramide, og du kan hj\u00e6lpe med at indrette den."
+  },
+  "timemachine_ambient_sound1": {
+    "contenttype": "sound",
+    "content": "timemachine_tidsmaskine_blib_blob_lyd_1.mp3",
+    "subtitle": ""
+  },
+  "timemachine_ambient_sound2": {
+    "contenttype": "sound",
+    "content": "timemachine_tidsmaskine_blib_blob_lyd_8.mp3",
+    "subtitle": ""
+  }
+}

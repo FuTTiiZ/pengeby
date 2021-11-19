@@ -1,0 +1,187 @@
+{"frames": {
+
+"Lysestage_PV2_890000":
+{
+	"frame": {"x":8,"y":8,"w":137,"h":222},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":1,"w":139,"h":223},
+	"sourceSize": {"w":139,"h":223}
+},
+"Lysestage_PV2_890001":
+{
+	"frame": {"x":8,"y":8,"w":137,"h":222},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":1,"w":139,"h":223},
+	"sourceSize": {"w":139,"h":223}
+},
+"Lysestage_PV2_890002":
+{
+	"frame": {"x":8,"y":8,"w":137,"h":222},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":1,"w":139,"h":223},
+	"sourceSize": {"w":139,"h":223}
+},
+"Lysestage_PV2_890003":
+{
+	"frame": {"x":8,"y":8,"w":137,"h":222},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":1,"w":139,"h":223},
+	"sourceSize": {"w":139,"h":223}
+},
+"Lysestage_PV2_890004":
+{
+	"frame": {"x":8,"y":8,"w":137,"h":222},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":1,"w":139,"h":223},
+	"sourceSize": {"w":139,"h":223}
+},
+"Lysestage_PV2_890005":
+{
+	"frame": {"x":8,"y":8,"w":137,"h":222},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":1,"w":139,"h":223},
+	"sourceSize": {"w":139,"h":223}
+},
+"Lysestage_PV2_890006":
+{
+	"frame": {"x":8,"y":8,"w":137,"h":222},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":1,"w":139,"h":223},
+	"sourceSize": {"w":139,"h":223}
+},
+"Lysestage_PV2_890007":
+{
+	"frame": {"x":151,"y":8,"w":139,"h":223},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":139,"h":223},
+	"sourceSize": {"w":139,"h":223}
+},
+"Lysestage_PV2_890008":
+{
+	"frame": {"x":151,"y":8,"w":139,"h":223},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":139,"h":223},
+	"sourceSize": {"w":139,"h":223}
+},
+"Lysestage_PV2_890009":
+{
+	"frame": {"x":151,"y":8,"w":139,"h":223},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":139,"h":223},
+	"sourceSize": {"w":139,"h":223}
+},
+"Lysestage_PV2_890010":
+{
+	"frame": {"x":151,"y":8,"w":139,"h":223},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":139,"h":223},
+	"sourceSize": {"w":139,"h":223}
+},
+"Lysestage_PV2_890011":
+{
+	"frame": {"x":151,"y":8,"w":139,"h":223},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":139,"h":223},
+	"sourceSize": {"w":139,"h":223}
+},
+"Lysestage_PV2_890012":
+{
+	"frame": {"x":151,"y":8,"w":139,"h":223},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":139,"h":223},
+	"sourceSize": {"w":139,"h":223}
+},
+"Lysestage_PV2_890013":
+{
+	"frame": {"x":151,"y":8,"w":139,"h":223},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":139,"h":223},
+	"sourceSize": {"w":139,"h":223}
+},
+"Lysestage_PV2_890014":
+{
+	"frame": {"x":296,"y":8,"w":137,"h":222},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":1,"w":139,"h":223},
+	"sourceSize": {"w":139,"h":223}
+},
+"Lysestage_PV2_890015":
+{
+	"frame": {"x":296,"y":8,"w":137,"h":222},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":1,"w":139,"h":223},
+	"sourceSize": {"w":139,"h":223}
+},
+"Lysestage_PV2_890016":
+{
+	"frame": {"x":296,"y":8,"w":137,"h":222},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":1,"w":139,"h":223},
+	"sourceSize": {"w":139,"h":223}
+},
+"Lysestage_PV2_890017":
+{
+	"frame": {"x":296,"y":8,"w":137,"h":222},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":1,"w":139,"h":223},
+	"sourceSize": {"w":139,"h":223}
+},
+"Lysestage_PV2_890018":
+{
+	"frame": {"x":296,"y":8,"w":137,"h":222},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":1,"w":139,"h":223},
+	"sourceSize": {"w":139,"h":223}
+},
+"Lysestage_PV2_890019":
+{
+	"frame": {"x":296,"y":8,"w":137,"h":222},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":1,"w":139,"h":223},
+	"sourceSize": {"w":139,"h":223}
+},
+"Lysestage_PV2_890020":
+{
+	"frame": {"x":296,"y":8,"w":137,"h":222},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":1,"w":139,"h":223},
+	"sourceSize": {"w":139,"h":223}
+},
+"Lysestage_PV2_890021":
+{
+	"frame": {"x":296,"y":8,"w":137,"h":222},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":1,"w":139,"h":223},
+	"sourceSize": {"w":139,"h":223}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "16.0.0.112",
+	"image": "lysestage.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":512},
+	"scale": "1"
+}
+}

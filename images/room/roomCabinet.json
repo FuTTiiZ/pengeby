@@ -1,0 +1,187 @@
+{"frames": {
+
+"roomCloset0000":
+{
+	"frame": {"x":8,"y":8,"w":274,"h":339},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":274,"h":339},
+	"sourceSize": {"w":274,"h":339}
+},
+"roomCloset0001":
+{
+	"frame": {"x":8,"y":8,"w":274,"h":339},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":274,"h":339},
+	"sourceSize": {"w":274,"h":339}
+},
+"roomCloset0002":
+{
+	"frame": {"x":8,"y":8,"w":274,"h":339},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":274,"h":339},
+	"sourceSize": {"w":274,"h":339}
+},
+"roomCloset0003":
+{
+	"frame": {"x":288,"y":8,"w":274,"h":339},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":274,"h":339},
+	"sourceSize": {"w":274,"h":339}
+},
+"roomCloset0004":
+{
+	"frame": {"x":288,"y":8,"w":274,"h":339},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":274,"h":339},
+	"sourceSize": {"w":274,"h":339}
+},
+"roomCloset0005":
+{
+	"frame": {"x":288,"y":8,"w":274,"h":339},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":274,"h":339},
+	"sourceSize": {"w":274,"h":339}
+},
+"roomCloset0006":
+{
+	"frame": {"x":568,"y":8,"w":274,"h":339},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":274,"h":339},
+	"sourceSize": {"w":274,"h":339}
+},
+"roomCloset0007":
+{
+	"frame": {"x":568,"y":8,"w":274,"h":339},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":274,"h":339},
+	"sourceSize": {"w":274,"h":339}
+},
+"roomCloset0008":
+{
+	"frame": {"x":568,"y":8,"w":274,"h":339},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":274,"h":339},
+	"sourceSize": {"w":274,"h":339}
+},
+"roomCloset0009":
+{
+	"frame": {"x":8,"y":353,"w":274,"h":339},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":274,"h":339},
+	"sourceSize": {"w":274,"h":339}
+},
+"roomCloset0010":
+{
+	"frame": {"x":8,"y":353,"w":274,"h":339},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":274,"h":339},
+	"sourceSize": {"w":274,"h":339}
+},
+"roomCloset0011":
+{
+	"frame": {"x":8,"y":353,"w":274,"h":339},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":274,"h":339},
+	"sourceSize": {"w":274,"h":339}
+},
+"roomCloset0012":
+{
+	"frame": {"x":8,"y":353,"w":274,"h":339},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":274,"h":339},
+	"sourceSize": {"w":274,"h":339}
+},
+"roomCloset0013":
+{
+	"frame": {"x":8,"y":353,"w":274,"h":339},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":274,"h":339},
+	"sourceSize": {"w":274,"h":339}
+},
+"roomCloset0014":
+{
+	"frame": {"x":568,"y":8,"w":274,"h":339},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":274,"h":339},
+	"sourceSize": {"w":274,"h":339}
+},
+"roomCloset0015":
+{
+	"frame": {"x":568,"y":8,"w":274,"h":339},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":274,"h":339},
+	"sourceSize": {"w":274,"h":339}
+},
+"roomCloset0016":
+{
+	"frame": {"x":568,"y":8,"w":274,"h":339},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":274,"h":339},
+	"sourceSize": {"w":274,"h":339}
+},
+"roomCloset0017":
+{
+	"frame": {"x":568,"y":8,"w":274,"h":339},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":274,"h":339},
+	"sourceSize": {"w":274,"h":339}
+},
+"roomCloset0018":
+{
+	"frame": {"x":288,"y":8,"w":274,"h":339},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":274,"h":339},
+	"sourceSize": {"w":274,"h":339}
+},
+"roomCloset0019":
+{
+	"frame": {"x":288,"y":8,"w":274,"h":339},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":274,"h":339},
+	"sourceSize": {"w":274,"h":339}
+},
+"roomCloset0020":
+{
+	"frame": {"x":288,"y":8,"w":274,"h":339},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":274,"h":339},
+	"sourceSize": {"w":274,"h":339}
+},
+"roomCloset0021":
+{
+	"frame": {"x":8,"y":8,"w":274,"h":339},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":274,"h":339},
+	"sourceSize": {"w":274,"h":339}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "16.0.0.112",
+	"image": "roomCabinet.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":1024},
+	"scale": "1"
+}
+}

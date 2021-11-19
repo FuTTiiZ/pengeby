@@ -1,0 +1,27 @@
+{"frames": {
+
+"MonopolyGameOccurenceResult0000":
+{
+	"frame": {"x":8,"y":8,"w":176,"h":175},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":176,"h":175},
+	"sourceSize": {"w":176,"h":175}
+},
+"MonopolyGameOccurenceResult0001":
+{
+	"frame": {"x":8,"y":189,"w":176,"h":174},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":176,"h":175},
+	"sourceSize": {"w":176,"h":175}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "16.0.0.112",
+	"image": "monoEventConsequenceBG.png",
+	"format": "RGBA8888",
+	"size": {"w":256,"h":512},
+	"scale": "1"
+}
+}

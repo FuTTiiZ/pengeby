@@ -1,0 +1,43 @@
+{"frames": {
+
+"hairSelect0000":
+{
+	"frame": {"x":8,"y":8,"w":234,"h":80},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":234,"h":80},
+	"sourceSize": {"w":234,"h":80}
+},
+"hairSelect0001":
+{
+	"frame": {"x":8,"y":94,"w":234,"h":80},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":234,"h":80},
+	"sourceSize": {"w":234,"h":80}
+},
+"hairSelect0002":
+{
+	"frame": {"x":8,"y":180,"w":234,"h":80},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":234,"h":80},
+	"sourceSize": {"w":234,"h":80}
+},
+"hairSelect0003":
+{
+	"frame": {"x":8,"y":266,"w":234,"h":80},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":234,"h":80},
+	"sourceSize": {"w":234,"h":80}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "16.0.0.112",
+	"image": "ghair.png",
+	"format": "RGBA8888",
+	"size": {"w":256,"h":512},
+	"scale": "1"
+}
+}

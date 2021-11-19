@@ -1,0 +1,43 @@
+{"frames": {
+
+"topbar_score0000":
+{
+	"frame": {"x":8,"y":8,"w":263,"h":94},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":263,"h":94},
+	"sourceSize": {"w":263,"h":94}
+},
+"topbar_score0001":
+{
+	"frame": {"x":8,"y":108,"w":263,"h":94},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":263,"h":94},
+	"sourceSize": {"w":263,"h":94}
+},
+"topbar_score0002":
+{
+	"frame": {"x":8,"y":208,"w":263,"h":94},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":263,"h":94},
+	"sourceSize": {"w":263,"h":94}
+},
+"topbar_score0003":
+{
+	"frame": {"x":8,"y":308,"w":263,"h":94},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":263,"h":94},
+	"sourceSize": {"w":263,"h":94}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "16.0.0.112",
+	"image": "topbar.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":512},
+	"scale": "1"
+}
+}

@@ -1,0 +1,35 @@
+{"frames": {
+
+"legsSelect0000":
+{
+	"frame": {"x":8,"y":8,"w":157,"h":67},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":157,"h":67},
+	"sourceSize": {"w":157,"h":67}
+},
+"legsSelect0001":
+{
+	"frame": {"x":8,"y":81,"w":157,"h":67},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":157,"h":67},
+	"sourceSize": {"w":157,"h":67}
+},
+"legsSelect0002":
+{
+	"frame": {"x":8,"y":154,"w":157,"h":67},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":157,"h":67},
+	"sourceSize": {"w":157,"h":67}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "16.0.0.112",
+	"image": "glegs.png",
+	"format": "RGBA8888",
+	"size": {"w":256,"h":256},
+	"scale": "1"
+}
+}

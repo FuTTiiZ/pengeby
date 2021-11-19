@@ -1,0 +1,152 @@
+{
+  "speak_wizard_complete": {
+    "contenttype": "sound",
+    "content": "dk_man_klarer_testen.mp3",
+    "subtitle": "Det var flot! Du svarede rigtigt p\u00e5 alle sp\u00f8rgsm\u00e5lene! Tryk p\u00e5 den gr\u00f8nne knap for at h\u00f8re min hemmelighed!"
+  },
+  "speak_wizard_not_complete": {
+    "contenttype": "sound",
+    "content": "dk_man_klarer_ikke_testen.mp3",
+    "subtitle": "Du svarede ikke rigtig p\u00e5 alle sp\u00f8rgsm\u00e5lene, s\u00e5 du m\u00e5 vente med at h\u00f8re hemmeligheden. M\u00e5ske det var en god ide at bes\u00f8ge nogle af stederne i Pengeby igen?"
+  },
+  "speak_wizard_secret": {
+    "contenttype": "sound",
+    "content": "dk_hemmelighed.mp3",
+    "subtitle": "P\u00e5 mit skattekort kan du se, hvor skatten ligger gemt i Pengeby! Pr\u00f8v at se, om du kan finde den - skatten er nemlig din! Du f\u00e5r ogs\u00e5 mit helt specielle diplom, som h\u00e6nger p\u00e5 dit v\u00e6relse, men du kan ogs\u00e5 printe det, hvis du vil. Tryk p\u00e5 den gr\u00f8nne knap for at finde skatten!"
+  },
+  "speak_wizard_welcome": {
+    "contenttype": "sound",
+    "content": "dk_velkomst_og_forklaring_troldmanden.mp3",
+    "subtitle": "Jeg kan se p\u00e5 mit kort, at du har bes\u00f8gt alle stederne, s\u00e5 nu er du klar til at h\u00f8re min hemmelighed! Men f\u00f8r jeg fort\u00e6ller dig hemmeligheden, skal du svare p\u00e5 nogle sp\u00f8rgsm\u00e5l. Du kan eventuelt f\u00e5 en voksen til at hj\u00e6lpe dig med sp\u00f8rgsm\u00e5lene. Tryk p\u00e5 den gr\u00f8nne knap, n\u00e5r du er klar."
+  },
+  "wizard_completed_header": {
+    "contenttype": "label",
+    "content": "Tillykke",
+    "subtitle": ""
+  },
+  "wizard_completed_text": {
+    "contenttype": "label",
+    "content": "Du har svaret rigtigt p\u00e5 alle sp\u00f8rgsm\u00e5lene! Tryk p\u00e5 den gr\u00f8nne knap for at h\u00f8re hemmeligheden",
+    "subtitle": ""
+  },
+  "wizard_diplom": {
+    "contenttype": "label",
+    "content": "DIPLOM",
+    "subtitle": ""
+  },
+  "wizard_secret": {
+    "contenttype": "label",
+    "content": "Dette diplom er givet til \u00e9n af de heldige, der har f\u00e5et fortalt Troldmandens hemmelighed i Pengeby",
+    "subtitle": ""
+  },
+  "wizard_secret_button": {
+    "contenttype": "label",
+    "content": "Der ligger en skat gemt!",
+    "subtitle": ""
+  },
+  "wizard_start_quiz": {
+    "contenttype": "label",
+    "content": "Start",
+    "subtitle": ""
+  },
+  "wizard_wrong_header": {
+    "contenttype": "label",
+    "content": "Du svarede forkert",
+    "subtitle": ""
+  },
+  "wizard_wrong_text": {
+    "contenttype": "label",
+    "content": "Du svarede ikke rigtigt p\u00e5 sp\u00f8rgsm\u00e5lene. M\u00e5ske du skulle bes\u00f8ge de forskellige steder i Pengeby igen?",
+    "subtitle": ""
+  },
+  "question 1": {
+    "contenttype": "question",
+    "content": "Hvor kan du ikke rejse hen med Tidsmaskinen?",
+    "subtitle": null,
+    "option1": "Det gamle Rom",
+    "option2": "Gr\u00f8nland",
+    "option3": "Egypten",
+    "correctoption": "2",
+    "correcttext": null
+  },
+  "question 2": {
+    "contenttype": "question",
+    "content": "Hvor i Pengeby kan du skifte dit t\u00f8j?",
+    "subtitle": null,
+    "option1": "P\u00e5 Posthuset",
+    "option2": "I skabet p\u00e5 dit v\u00e6relse",
+    "option3": "I Tidsmaskinen",
+    "correctoption": "2",
+    "correcttext": null
+  },
+  "question 3": {
+    "contenttype": "question",
+    "content": "Hvis noget er dyrt, betyder det",
+    "subtitle": null,
+    "option1": "At det ikke koster mange penge",
+    "option2": "At det koster mange penge",
+    "option3": "",
+    "correctoption": "2",
+    "correcttext": null
+  },
+  "question 4": {
+    "contenttype": "question",
+    "content": "Hvad koster flest penge?",
+    "subtitle": null,
+    "option1": "En mobiltelefon",
+    "option2": "10 bananer",
+    "option3": "Et fjernsyn",
+    "correctoption": "3",
+    "correcttext": null
+  },
+  "question 5": {
+    "contenttype": "question",
+    "content": "Hvad kan du f\u00e5 penge for at g\u00f8re?",
+    "subtitle": null,
+    "option1": "At arbejde",
+    "option2": "At kl\u00f8 sig p\u00e5 maven",
+    "option3": "At g\u00e5 i skole",
+    "correctoption": "1",
+    "correcttext": null
+  },
+  "question 6": {
+    "contenttype": "question",
+    "content": "Hvordan kan du ogs\u00e5 f\u00e5 penge?",
+    "subtitle": null,
+    "option1": "Ved at s\u00e6lge noget",
+    "option2": "Ved at kigge under dynen",
+    "option3": "Ved at lede ude i haven",
+    "correctoption": "1",
+    "correcttext": null
+  },
+  "question 7": {
+    "contenttype": "question",
+    "content": "Hvad g\u00f8r du, hvis der er en ting, du gerne vil k\u00f8be, men ikke har penge nok?",
+    "subtitle": null,
+    "option1": "Jeg sl\u00e5r en kolb\u00f8tte",
+    "option2": "Jeg k\u00f8ber det alligevel",
+    "option3": "Jeg sparer op til det",
+    "correctoption": "3",
+    "correcttext": null
+  },
+  "question 8": {
+    "contenttype": "question",
+    "content": "Hvad g\u00f8r du, hvis du \u00f8nsker dig to ting, men kun har penge til \u00e9n ting?",
+    "subtitle": null,
+    "option1": "Jeg k\u00f8ber begge ting alligevel",
+    "option2": "Jeg k\u00f8ber den, jeg \u00f8nsker mig mest",
+    "option3": "",
+    "correctoption": "2",
+    "correcttext": null
+  },
+  "wizard_ambient_sound": {
+    "contenttype": "sound",
+    "content": "wizard_magisk_musik_ambient.mp3",
+    "subtitle": ""
+  },
+  "wizard_completed": {
+    "contenttype": "sound",
+    "content": "wizard_complete_m._applaus_(finale).mp3",
+    "subtitle": ""
+  }
+}

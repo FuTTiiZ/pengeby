@@ -1,0 +1,27 @@
+{"frames": {
+
+"radio0000":
+{
+	"frame": {"x":8,"y":8,"w":96,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":96,"h":43},
+	"sourceSize": {"w":96,"h":43}
+},
+"radio0001":
+{
+	"frame": {"x":8,"y":57,"w":96,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":96,"h":43},
+	"sourceSize": {"w":96,"h":43}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "16.0.0.112",
+	"image": "roomRadio.png",
+	"format": "RGBA8888",
+	"size": {"w":128,"h":128},
+	"scale": "1"
+}
+}

@@ -1,0 +1,57 @@
+{
+  "speak_b_apple_done": {
+    "contenttype": "sound",
+    "content": "dk_afslutning_game_over.mp3",
+    "subtitle": "Sikke en masse god juice du fik lavet! Men du tabte tre \u00e6bler p\u00e5 jorden. Du kan pr\u00f8ve igen, hvis du gerne vil tjene flere penge! Har du penge nok, kan du rejse en tur med Tidsmaskinen. Det kan ogs\u00e5 v\u00e6re, at der er kommet nogle flere ting i Karens butik, du kunne t\u00e6nke dig?"
+  },
+  "speak_b_apple_done_no_money": {
+    "contenttype": "sound",
+    "content": "dk_afslutning_game_over_no_apples.mp3",
+    "subtitle": "Du tabte tre \u00e6bler p\u00e5 jorden. Du kan pr\u00f8ve igen, hvis du gerne vil tjene flere penge! Har du penge nok, kan du rejse en tur med Tidsmaskinen. Det kan ogs\u00e5 v\u00e6re, at der er kommet nogle flere ting i Karens butik, du kunne t\u00e6nke dig?"
+  },
+  "speak_b_apple_nextlevel_1": {
+    "contenttype": "sound",
+    "content": "dk_naeste_niveau_1.mp3",
+    "subtitle": "Det var du god til! Nu g\u00e5r det lidt hurtigere."
+  },
+  "speak_b_apple_nextlevel_2": {
+    "contenttype": "sound",
+    "content": "dk_naeste_niveau_2.mp3",
+    "subtitle": "Godt g\u00e5et! Nu g\u00e5r det endnu hurtigere."
+  },
+  "speak_b_apple_nextlevel_3": {
+    "contenttype": "sound",
+    "content": "dk_naeste_niveau_3.mp3",
+    "subtitle": "Det var flot! Nu bliver det lidt sv\u00e6rere."
+  },
+  "speak_b_apple_nextlevel_4": {
+    "contenttype": "sound",
+    "content": "dk_naeste_niveau_4.mp3",
+    "subtitle": "Hvor er du skrap! Kan du ogs\u00e5 klare n\u00e6ste omgang?"
+  },
+  "speak_b_apple_welcome": {
+    "contenttype": "sound",
+    "content": "dk_velkomst_og_forklaring_aeblebod.mp3",
+    "subtitle": "Velkommen til din \u00e6blebod. Her kan du tjene penge ved at lave \u00e6blejuice til folkene i Pengeby. Du skal fange \u00e6blerne, der falder ned fra det store \u00e6bletr\u00e6, inden de rammer jorden. Du m\u00e5 ikke tabe mere end tre \u00e6bler p\u00e5 jorden. Du skal bruge piletasterne p\u00e5 computeren for at l\u00f8be frem og tilbage. Hver gang du har samlet 10 \u00e6bler, tjener du penge. Er du klar til at se, hvor mange \u00e6bler du kan samle? S\u00e5 tryk p\u00e5 den gr\u00f8nne knap."
+  },
+  "apple_apple_caught": {
+    "contenttype": "sound",
+    "content": "apple_apple_fanges_i_kurven.mp3",
+    "subtitle": ""
+  },
+  "apple_apple_dropped": {
+    "contenttype": "sound",
+    "content": "apple_apple_falder_til_jorden_.mp3",
+    "subtitle": ""
+  },
+  "apple_juice_sound": {
+    "contenttype": "sound",
+    "content": "apple_juice_maskine.mp3",
+    "subtitle": ""
+  },
+  "apple_step_left": {
+    "contenttype": "sound",
+    "content": "apple_skridt_til_venstre.mp3",
+    "subtitle": ""
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "speak_intro_1": {
+    "contenttype": "label",
+    "content": "Velkommen til Pengeby! Det er mig, der er borgmester her, og jeg vil gerne fort\u00e6lle dig lidt om byen. ",
+    "subtitle": ""
+  },
+  "speak_intro_2": {
+    "contenttype": "label",
+    "content": "Her i Pengeby kan du tjene guld- og s\u00f8lvm\u00f8nter, som du kan bruge p\u00e5 mange forskellige ting.",
+    "subtitle": ""
+  },
+  "speak_intro_3": {
+    "contenttype": "label",
+    "content": "F\u00f8rst skal du v\u00e6lge, hvordan du ser ud. ",
+    "subtitle": ""
+  },
+  "speak_intro_4": {
+    "contenttype": "label",
+    "content": "Og du f\u00e5r ogs\u00e5 dit eget v\u00e6relse, som du kan k\u00f8be sjove ting til!",
+    "subtitle": ""
+  },
+  "speak_intro_5": {
+    "contenttype": "label",
+    "content": "Alle tingene finder du nede hos Karen i hendes sp\u00e6ndende butik.",
+    "subtitle": ""
+  },
+  "speak_intro_6": {
+    "contenttype": "label",
+    "content": "Du kan ogs\u00e5 bruge dine m\u00f8nter p\u00e5 at rejse tilbage i tiden med den sk\u00f8re professors Tidsmaskine, hvor du kan spille en masse sjove spil.",
+    "subtitle": ""
+  },
+  "speak_intro_7": {
+    "contenttype": "label",
+    "content": "Du tjener guld- og s\u00f8lvm\u00f8nter ved at hj\u00e6lpe til i Postkontoret med at bringe posten ud.",
+    "subtitle": ""
+  },
+  "speak_intro_8": {
+    "contenttype": "label",
+    "content": "Eller ved at samle \u00e6\u00a6bler og s\u00e6lge \u00e6blejuice til alle beboerne i Pengeby.",
+    "subtitle": ""
+  },
+  "speak_intro_9": {
+    "contenttype": "label",
+    "content": "Og hvis du hj\u00e6lper mig med at male byens port i nye farver, f\u00e5r du ogs\u00e5 en guldm\u00f8nt.",
+    "subtitle": ""
+  },
+  "speak_intro_10": {
+    "contenttype": "label",
+    "content": "Du kan ogs\u00e5 bes\u00f8ge Familiespillet, hvis du kan regne og l\u00e6se! Her f\u00e5r du point for at hj\u00e6lpe en familie med alle de ting, der vil ske i l\u00f8bet af et \u00e5r.",
+    "subtitle": ""
+  },
+  "speak_intro_11": {
+    "contenttype": "label",
+    "content": "Pengeby har ogs\u00e5 en troldmand, som har en hemmelighed! Der ligger nemlig en stor skat med en masse guldm\u00f8nter begravet i byen. Og hvis du er heldig, kan det v\u00e6re, at han vil fort\u00e6lle dig, hvor den ligger.",
+    "subtitle": ""
+  },
+  "speak_intro_farm": {
+    "contenttype": "label",
+    "content": "Du kan ogs\u00e5 hj\u00e6lpe til p\u00e5 bondeg\u00e5rden med at give dyrerne mad, og hvis du hj\u00e6lper mig med at male byens port i nye farver, f\u00e5r du ogs\u00e5 en guldm\u00f8nt.",
+    "subtitle": ""
+  },
+  "pengeby_closeSubtitles": {
+    "contenttype": "label",
+    "content": "Skjul tekst",
+    "subtitle": ""
+  },
+  "pengeby_subtitlesButtonOff": {
+    "contenttype": "label",
+    "content": "Sl\u00e5 tekster til",
+    "subtitle": ""
+  },
+  "pengeby_subtitlesButtonOn": {
+    "contenttype": "label",
+    "content": "Sl\u00e5 tekster fra",
+    "subtitle": ""
+  },
+  "pengeby_yourName": {
+    "contenttype": "label",
+    "content": "Skriv dit navn",
+    "subtitle": ""
+  }
+}

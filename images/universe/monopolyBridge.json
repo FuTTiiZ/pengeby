@@ -1,0 +1,579 @@
+{"frames": {
+
+"MonopolyUniverseAccessButton0000":
+{
+	"frame": {"x":8,"y":8,"w":188,"h":129},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":32,"y":15,"w":220,"h":147},
+	"sourceSize": {"w":220,"h":147}
+},
+"MonopolyUniverseAccessButton0001":
+{
+	"frame": {"x":202,"y":8,"w":188,"h":133},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":32,"y":12,"w":220,"h":147},
+	"sourceSize": {"w":220,"h":147}
+},
+"MonopolyUniverseAccessButton0002":
+{
+	"frame": {"x":396,"y":8,"w":191,"h":137},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":29,"y":9,"w":220,"h":147},
+	"sourceSize": {"w":220,"h":147}
+},
+"MonopolyUniverseAccessButton0003":
+{
+	"frame": {"x":593,"y":8,"w":196,"h":140},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":6,"w":220,"h":147},
+	"sourceSize": {"w":220,"h":147}
+},
+"MonopolyUniverseAccessButton0004":
+{
+	"frame": {"x":795,"y":8,"w":200,"h":144},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":3,"w":220,"h":147},
+	"sourceSize": {"w":220,"h":147}
+},
+"MonopolyUniverseAccessButton0005":
+{
+	"frame": {"x":1001,"y":8,"w":205,"h":147},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":0,"w":220,"h":147},
+	"sourceSize": {"w":220,"h":147}
+},
+"MonopolyUniverseAccessButton0006":
+{
+	"frame": {"x":1212,"y":8,"w":205,"h":147},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":0,"w":220,"h":147},
+	"sourceSize": {"w":220,"h":147}
+},
+"MonopolyUniverseAccessButton0007":
+{
+	"frame": {"x":1423,"y":8,"w":220,"h":147},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":220,"h":147},
+	"sourceSize": {"w":220,"h":147}
+},
+"MonopolyUniverseAccessButton0008":
+{
+	"frame": {"x":1649,"y":8,"w":212,"h":147},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":0,"w":220,"h":147},
+	"sourceSize": {"w":220,"h":147}
+},
+"MonopolyUniverseAccessButton0009":
+{
+	"frame": {"x":8,"y":161,"w":205,"h":147},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":0,"w":220,"h":147},
+	"sourceSize": {"w":220,"h":147}
+},
+"MonopolyUniverseAccessButton0010":
+{
+	"frame": {"x":219,"y":161,"w":205,"h":147},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":0,"w":220,"h":147},
+	"sourceSize": {"w":220,"h":147}
+},
+"MonopolyUniverseAccessButton0011":
+{
+	"frame": {"x":430,"y":161,"w":205,"h":147},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":0,"w":220,"h":147},
+	"sourceSize": {"w":220,"h":147}
+},
+"MonopolyUniverseAccessButton0012":
+{
+	"frame": {"x":641,"y":161,"w":205,"h":147},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":0,"w":220,"h":147},
+	"sourceSize": {"w":220,"h":147}
+},
+"MonopolyUniverseAccessButton0013":
+{
+	"frame": {"x":852,"y":161,"w":205,"h":147},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":0,"w":220,"h":147},
+	"sourceSize": {"w":220,"h":147}
+},
+"MonopolyUniverseAccessButton0014":
+{
+	"frame": {"x":1063,"y":161,"w":205,"h":147},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":0,"w":220,"h":147},
+	"sourceSize": {"w":220,"h":147}
+},
+"MonopolyUniverseAccessButton0015":
+{
+	"frame": {"x":1274,"y":161,"w":205,"h":147},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":0,"w":220,"h":147},
+	"sourceSize": {"w":220,"h":147}
+},
+"MonopolyUniverseAccessButton0016":
+{
+	"frame": {"x":1485,"y":161,"w":205,"h":147},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":0,"w":220,"h":147},
+	"sourceSize": {"w":220,"h":147}
+},
+"MonopolyUniverseAccessButton0017":
+{
+	"frame": {"x":1696,"y":161,"w":205,"h":147},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":0,"w":220,"h":147},
+	"sourceSize": {"w":220,"h":147}
+},
+"MonopolyUniverseAccessButton0018":
+{
+	"frame": {"x":8,"y":314,"w":205,"h":147},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":0,"w":220,"h":147},
+	"sourceSize": {"w":220,"h":147}
+},
+"MonopolyUniverseAccessButton0019":
+{
+	"frame": {"x":219,"y":314,"w":205,"h":147},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":0,"w":220,"h":147},
+	"sourceSize": {"w":220,"h":147}
+},
+"MonopolyUniverseAccessButton0020":
+{
+	"frame": {"x":430,"y":314,"w":205,"h":147},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":0,"w":220,"h":147},
+	"sourceSize": {"w":220,"h":147}
+},
+"MonopolyUniverseAccessButton0021":
+{
+	"frame": {"x":641,"y":314,"w":205,"h":147},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":0,"w":220,"h":147},
+	"sourceSize": {"w":220,"h":147}
+},
+"MonopolyUniverseAccessButton0022":
+{
+	"frame": {"x":852,"y":314,"w":205,"h":147},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":0,"w":220,"h":147},
+	"sourceSize": {"w":220,"h":147}
+},
+"MonopolyUniverseAccessButton0023":
+{
+	"frame": {"x":1063,"y":314,"w":205,"h":147},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":0,"w":220,"h":147},
+	"sourceSize": {"w":220,"h":147}
+},
+"MonopolyUniverseAccessButton0024":
+{
+	"frame": {"x":1274,"y":314,"w":205,"h":147},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":0,"w":220,"h":147},
+	"sourceSize": {"w":220,"h":147}
+},
+"MonopolyUniverseAccessButton0025":
+{
+	"frame": {"x":1485,"y":314,"w":205,"h":147},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":0,"w":220,"h":147},
+	"sourceSize": {"w":220,"h":147}
+},
+"MonopolyUniverseAccessButton0026":
+{
+	"frame": {"x":1696,"y":314,"w":205,"h":147},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":0,"w":220,"h":147},
+	"sourceSize": {"w":220,"h":147}
+},
+"MonopolyUniverseAccessButton0027":
+{
+	"frame": {"x":8,"y":467,"w":205,"h":147},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":0,"w":220,"h":147},
+	"sourceSize": {"w":220,"h":147}
+},
+"MonopolyUniverseAccessButton0028":
+{
+	"frame": {"x":219,"y":467,"w":205,"h":147},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":0,"w":220,"h":147},
+	"sourceSize": {"w":220,"h":147}
+},
+"MonopolyUniverseAccessButton0029":
+{
+	"frame": {"x":430,"y":467,"w":205,"h":147},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":0,"w":220,"h":147},
+	"sourceSize": {"w":220,"h":147}
+},
+"MonopolyUniverseAccessButton0030":
+{
+	"frame": {"x":641,"y":467,"w":205,"h":147},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":0,"w":220,"h":147},
+	"sourceSize": {"w":220,"h":147}
+},
+"MonopolyUniverseAccessButton0031":
+{
+	"frame": {"x":852,"y":467,"w":205,"h":147},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":0,"w":220,"h":147},
+	"sourceSize": {"w":220,"h":147}
+},
+"MonopolyUniverseAccessButton0032":
+{
+	"frame": {"x":1063,"y":467,"w":205,"h":147},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":0,"w":220,"h":147},
+	"sourceSize": {"w":220,"h":147}
+},
+"MonopolyUniverseAccessButton0033":
+{
+	"frame": {"x":1274,"y":467,"w":205,"h":147},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":0,"w":220,"h":147},
+	"sourceSize": {"w":220,"h":147}
+},
+"MonopolyUniverseAccessButton0034":
+{
+	"frame": {"x":1485,"y":467,"w":205,"h":147},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":0,"w":220,"h":147},
+	"sourceSize": {"w":220,"h":147}
+},
+"MonopolyUniverseAccessButton0035":
+{
+	"frame": {"x":1696,"y":467,"w":205,"h":147},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":0,"w":220,"h":147},
+	"sourceSize": {"w":220,"h":147}
+},
+"MonopolyUniverseAccessButton0036":
+{
+	"frame": {"x":8,"y":620,"w":205,"h":147},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":0,"w":220,"h":147},
+	"sourceSize": {"w":220,"h":147}
+},
+"MonopolyUniverseAccessButton0037":
+{
+	"frame": {"x":219,"y":620,"w":205,"h":147},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":0,"w":220,"h":147},
+	"sourceSize": {"w":220,"h":147}
+},
+"MonopolyUniverseAccessButton0038":
+{
+	"frame": {"x":430,"y":620,"w":205,"h":147},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":0,"w":220,"h":147},
+	"sourceSize": {"w":220,"h":147}
+},
+"MonopolyUniverseAccessButton0039":
+{
+	"frame": {"x":641,"y":620,"w":205,"h":147},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":0,"w":220,"h":147},
+	"sourceSize": {"w":220,"h":147}
+},
+"MonopolyUniverseAccessButton0040":
+{
+	"frame": {"x":852,"y":620,"w":205,"h":147},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":0,"w":220,"h":147},
+	"sourceSize": {"w":220,"h":147}
+},
+"MonopolyUniverseAccessButton0041":
+{
+	"frame": {"x":1063,"y":620,"w":205,"h":147},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":0,"w":220,"h":147},
+	"sourceSize": {"w":220,"h":147}
+},
+"MonopolyUniverseAccessButton0042":
+{
+	"frame": {"x":1274,"y":620,"w":205,"h":147},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":0,"w":220,"h":147},
+	"sourceSize": {"w":220,"h":147}
+},
+"MonopolyUniverseAccessButton0043":
+{
+	"frame": {"x":1485,"y":620,"w":205,"h":147},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":0,"w":220,"h":147},
+	"sourceSize": {"w":220,"h":147}
+},
+"MonopolyUniverseAccessButton0044":
+{
+	"frame": {"x":1696,"y":620,"w":205,"h":147},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":0,"w":220,"h":147},
+	"sourceSize": {"w":220,"h":147}
+},
+"MonopolyUniverseAccessButton0045":
+{
+	"frame": {"x":8,"y":773,"w":205,"h":147},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":0,"w":220,"h":147},
+	"sourceSize": {"w":220,"h":147}
+},
+"MonopolyUniverseAccessButton0046":
+{
+	"frame": {"x":219,"y":773,"w":205,"h":147},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":0,"w":220,"h":147},
+	"sourceSize": {"w":220,"h":147}
+},
+"MonopolyUniverseAccessButton0047":
+{
+	"frame": {"x":430,"y":773,"w":205,"h":147},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":0,"w":220,"h":147},
+	"sourceSize": {"w":220,"h":147}
+},
+"MonopolyUniverseAccessButton0048":
+{
+	"frame": {"x":641,"y":773,"w":205,"h":147},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":0,"w":220,"h":147},
+	"sourceSize": {"w":220,"h":147}
+},
+"MonopolyUniverseAccessButton0049":
+{
+	"frame": {"x":852,"y":773,"w":205,"h":147},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":0,"w":220,"h":147},
+	"sourceSize": {"w":220,"h":147}
+},
+"MonopolyUniverseAccessButton0050":
+{
+	"frame": {"x":1063,"y":773,"w":205,"h":147},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":0,"w":220,"h":147},
+	"sourceSize": {"w":220,"h":147}
+},
+"MonopolyUniverseAccessButton0051":
+{
+	"frame": {"x":1274,"y":773,"w":205,"h":147},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":0,"w":220,"h":147},
+	"sourceSize": {"w":220,"h":147}
+},
+"MonopolyUniverseAccessButton0052":
+{
+	"frame": {"x":1485,"y":773,"w":205,"h":147},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":0,"w":220,"h":147},
+	"sourceSize": {"w":220,"h":147}
+},
+"MonopolyUniverseAccessButton0053":
+{
+	"frame": {"x":1696,"y":773,"w":205,"h":147},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":0,"w":220,"h":147},
+	"sourceSize": {"w":220,"h":147}
+},
+"MonopolyUniverseAccessButton0054":
+{
+	"frame": {"x":8,"y":926,"w":205,"h":147},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":0,"w":220,"h":147},
+	"sourceSize": {"w":220,"h":147}
+},
+"MonopolyUniverseAccessButton0055":
+{
+	"frame": {"x":219,"y":926,"w":205,"h":147},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":0,"w":220,"h":147},
+	"sourceSize": {"w":220,"h":147}
+},
+"MonopolyUniverseAccessButton0056":
+{
+	"frame": {"x":430,"y":926,"w":205,"h":147},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":0,"w":220,"h":147},
+	"sourceSize": {"w":220,"h":147}
+},
+"MonopolyUniverseAccessButton0057":
+{
+	"frame": {"x":641,"y":926,"w":205,"h":147},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":0,"w":220,"h":147},
+	"sourceSize": {"w":220,"h":147}
+},
+"MonopolyUniverseAccessButton0058":
+{
+	"frame": {"x":852,"y":926,"w":205,"h":147},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":0,"w":220,"h":147},
+	"sourceSize": {"w":220,"h":147}
+},
+"MonopolyUniverseAccessButton0059":
+{
+	"frame": {"x":1063,"y":926,"w":205,"h":147},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":0,"w":220,"h":147},
+	"sourceSize": {"w":220,"h":147}
+},
+"MonopolyUniverseAccessButton0060":
+{
+	"frame": {"x":1274,"y":926,"w":205,"h":147},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":0,"w":220,"h":147},
+	"sourceSize": {"w":220,"h":147}
+},
+"MonopolyUniverseAccessButton0061":
+{
+	"frame": {"x":1274,"y":926,"w":205,"h":147},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":0,"w":220,"h":147},
+	"sourceSize": {"w":220,"h":147}
+},
+"MonopolyUniverseAccessButton0062":
+{
+	"frame": {"x":1485,"y":926,"w":205,"h":147},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":0,"w":220,"h":147},
+	"sourceSize": {"w":220,"h":147}
+},
+"MonopolyUniverseAccessButton0063":
+{
+	"frame": {"x":1696,"y":926,"w":205,"h":147},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":0,"w":220,"h":147},
+	"sourceSize": {"w":220,"h":147}
+},
+"MonopolyUniverseAccessButton0064":
+{
+	"frame": {"x":8,"y":1079,"w":205,"h":147},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":0,"w":220,"h":147},
+	"sourceSize": {"w":220,"h":147}
+},
+"MonopolyUniverseAccessButton0065":
+{
+	"frame": {"x":219,"y":1079,"w":205,"h":147},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":0,"w":220,"h":147},
+	"sourceSize": {"w":220,"h":147}
+},
+"MonopolyUniverseAccessButton0066":
+{
+	"frame": {"x":430,"y":1079,"w":212,"h":144},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":3,"w":220,"h":147},
+	"sourceSize": {"w":220,"h":147}
+},
+"MonopolyUniverseAccessButton0067":
+{
+	"frame": {"x":648,"y":1079,"w":220,"h":140},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":220,"h":147},
+	"sourceSize": {"w":220,"h":147}
+},
+"MonopolyUniverseAccessButton0068":
+{
+	"frame": {"x":874,"y":1079,"w":191,"h":137},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":29,"y":9,"w":220,"h":147},
+	"sourceSize": {"w":220,"h":147}
+},
+"MonopolyUniverseAccessButton0069":
+{
+	"frame": {"x":1071,"y":1079,"w":188,"h":133},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":32,"y":12,"w":220,"h":147},
+	"sourceSize": {"w":220,"h":147}
+},
+"MonopolyUniverseAccessButton0070":
+{
+	"frame": {"x":1265,"y":1079,"w":188,"h":129},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":32,"y":15,"w":220,"h":147},
+	"sourceSize": {"w":220,"h":147}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "16.0.0.112",
+	"image": "monopolyBridge.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":2048},
+	"scale": "1"
+}
+}

@@ -1,0 +1,179 @@
+{"frames": {
+
+"tray0000":
+{
+	"frame": {"x":8,"y":8,"w":150,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":62,"w":150,"h":120},
+	"sourceSize": {"w":150,"h":120}
+},
+"tray0001":
+{
+	"frame": {"x":164,"y":8,"w":150,"h":84},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":36,"w":150,"h":120},
+	"sourceSize": {"w":150,"h":120}
+},
+"tray0002":
+{
+	"frame": {"x":320,"y":8,"w":150,"h":119},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":150,"h":120},
+	"sourceSize": {"w":150,"h":120}
+},
+"tray0003":
+{
+	"frame": {"x":8,"y":133,"w":150,"h":120},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":120},
+	"sourceSize": {"w":150,"h":120}
+},
+"tray0004":
+{
+	"frame": {"x":164,"y":133,"w":150,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":62,"w":150,"h":120},
+	"sourceSize": {"w":150,"h":120}
+},
+"tray0005":
+{
+	"frame": {"x":320,"y":133,"w":150,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":40,"w":150,"h":120},
+	"sourceSize": {"w":150,"h":120}
+},
+"tray0006":
+{
+	"frame": {"x":8,"y":259,"w":150,"h":70},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":50,"w":150,"h":120},
+	"sourceSize": {"w":150,"h":120}
+},
+"tray0007":
+{
+	"frame": {"x":164,"y":259,"w":150,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":62,"w":150,"h":120},
+	"sourceSize": {"w":150,"h":120}
+},
+"tray0008":
+{
+	"frame": {"x":320,"y":259,"w":150,"h":84},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":36,"w":150,"h":120},
+	"sourceSize": {"w":150,"h":120}
+},
+"tray0009":
+{
+	"frame": {"x":8,"y":349,"w":150,"h":119},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":150,"h":120},
+	"sourceSize": {"w":150,"h":120}
+},
+"tray0010":
+{
+	"frame": {"x":164,"y":349,"w":150,"h":120},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":120},
+	"sourceSize": {"w":150,"h":120}
+},
+"tray0011":
+{
+	"frame": {"x":320,"y":349,"w":150,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":62,"w":150,"h":120},
+	"sourceSize": {"w":150,"h":120}
+},
+"tray0012":
+{
+	"frame": {"x":8,"y":475,"w":150,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":40,"w":150,"h":120},
+	"sourceSize": {"w":150,"h":120}
+},
+"tray0013":
+{
+	"frame": {"x":164,"y":475,"w":150,"h":70},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":50,"w":150,"h":120},
+	"sourceSize": {"w":150,"h":120}
+},
+"tray0014":
+{
+	"frame": {"x":320,"y":475,"w":149,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":62,"w":150,"h":120},
+	"sourceSize": {"w":150,"h":120}
+},
+"tray0015":
+{
+	"frame": {"x":8,"y":561,"w":149,"h":84},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":36,"w":150,"h":120},
+	"sourceSize": {"w":150,"h":120}
+},
+"tray0016":
+{
+	"frame": {"x":163,"y":561,"w":149,"h":119},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":150,"h":120},
+	"sourceSize": {"w":150,"h":120}
+},
+"tray0017":
+{
+	"frame": {"x":318,"y":561,"w":149,"h":120},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":120},
+	"sourceSize": {"w":150,"h":120}
+},
+"tray0018":
+{
+	"frame": {"x":8,"y":687,"w":149,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":62,"w":150,"h":120},
+	"sourceSize": {"w":150,"h":120}
+},
+"tray0019":
+{
+	"frame": {"x":163,"y":687,"w":149,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":40,"w":150,"h":120},
+	"sourceSize": {"w":150,"h":120}
+},
+"tray0020":
+{
+	"frame": {"x":318,"y":687,"w":149,"h":70},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":50,"w":150,"h":120},
+	"sourceSize": {"w":150,"h":120}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "16.0.0.112",
+	"image": "trays.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":1024},
+	"scale": "1"
+}
+}

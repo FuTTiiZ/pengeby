@@ -1,0 +1,107 @@
+{"frames": {
+
+"$okButton0000":
+{
+	"frame": {"x":8,"y":8,"w":183,"h":97},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":183,"h":97},
+	"sourceSize": {"w":183,"h":97}
+},
+"$okButton0001":
+{
+	"frame": {"x":197,"y":8,"w":183,"h":97},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":183,"h":97},
+	"sourceSize": {"w":183,"h":97}
+},
+"$okButton0002":
+{
+	"frame": {"x":8,"y":111,"w":183,"h":97},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":183,"h":97},
+	"sourceSize": {"w":183,"h":97}
+},
+"$okButton0003":
+{
+	"frame": {"x":197,"y":111,"w":183,"h":97},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":183,"h":97},
+	"sourceSize": {"w":183,"h":97}
+},
+"$okButton0004":
+{
+	"frame": {"x":8,"y":214,"w":183,"h":97},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":183,"h":97},
+	"sourceSize": {"w":183,"h":97}
+},
+"$okButton0005":
+{
+	"frame": {"x":197,"y":214,"w":183,"h":97},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":183,"h":97},
+	"sourceSize": {"w":183,"h":97}
+},
+"$okButton0006":
+{
+	"frame": {"x":8,"y":317,"w":183,"h":97},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":183,"h":97},
+	"sourceSize": {"w":183,"h":97}
+},
+"$okButton0007":
+{
+	"frame": {"x":197,"y":317,"w":183,"h":97},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":183,"h":97},
+	"sourceSize": {"w":183,"h":97}
+},
+"$okButton0008":
+{
+	"frame": {"x":8,"y":420,"w":183,"h":97},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":183,"h":97},
+	"sourceSize": {"w":183,"h":97}
+},
+"$okButton0009":
+{
+	"frame": {"x":197,"y":420,"w":183,"h":97},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":183,"h":97},
+	"sourceSize": {"w":183,"h":97}
+},
+"$okButton0010":
+{
+	"frame": {"x":8,"y":523,"w":183,"h":97},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":183,"h":97},
+	"sourceSize": {"w":183,"h":97}
+},
+"$okButton0011":
+{
+	"frame": {"x":197,"y":523,"w":183,"h":97},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":183,"h":97},
+	"sourceSize": {"w":183,"h":97}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "16.0.0.112",
+	"image": "monoGameNextMonthBtn.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":1024},
+	"scale": "1"
+}
+}

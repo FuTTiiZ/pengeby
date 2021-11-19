@@ -1,0 +1,43 @@
+{"frames": {
+
+"avatarBoyHats0000":
+{
+	"frame": {"x":8,"y":8,"w":102,"h":118},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":64,"y":0,"w":184,"h":135},
+	"sourceSize": {"w":184,"h":135}
+},
+"avatarBoyHats0001":
+{
+	"frame": {"x":116,"y":8,"w":83,"h":77},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":63,"y":12,"w":184,"h":135},
+	"sourceSize": {"w":184,"h":135}
+},
+"avatarBoyHats0002":
+{
+	"frame": {"x":8,"y":132,"w":184,"h":119},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":16,"w":184,"h":135},
+	"sourceSize": {"w":184,"h":135}
+},
+"avatarBoyHats0003":
+{
+	"frame": {"x":8,"y":257,"w":94,"h":111},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":77,"y":18,"w":184,"h":135},
+	"sourceSize": {"w":184,"h":135}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "16.0.0.112",
+	"image": "avatarBoyHats.png",
+	"format": "RGBA8888",
+	"size": {"w":256,"h":512},
+	"scale": "1"
+}
+}

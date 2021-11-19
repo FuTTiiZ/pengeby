@@ -1,0 +1,91 @@
+{"frames": {
+
+"krukke_one0000":
+{
+	"frame": {"x":8,"y":8,"w":99,"h":202},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":79,"w":161,"h":281},
+	"sourceSize": {"w":161,"h":281}
+},
+"krukke_one0001":
+{
+	"frame": {"x":113,"y":8,"w":110,"h":227},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":54,"w":161,"h":281},
+	"sourceSize": {"w":161,"h":281}
+},
+"krukke_one0002":
+{
+	"frame": {"x":229,"y":8,"w":100,"h":240},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":41,"w":161,"h":281},
+	"sourceSize": {"w":161,"h":281}
+},
+"krukke_one0003":
+{
+	"frame": {"x":335,"y":8,"w":116,"h":254},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":27,"w":161,"h":281},
+	"sourceSize": {"w":161,"h":281}
+},
+"krukke_one0004":
+{
+	"frame": {"x":8,"y":268,"w":133,"h":267},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":14,"w":161,"h":281},
+	"sourceSize": {"w":161,"h":281}
+},
+"krukke_one0005":
+{
+	"frame": {"x":147,"y":268,"w":150,"h":281},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":0,"w":161,"h":281},
+	"sourceSize": {"w":161,"h":281}
+},
+"krukke_one0006":
+{
+	"frame": {"x":303,"y":268,"w":143,"h":257},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":24,"w":161,"h":281},
+	"sourceSize": {"w":161,"h":281}
+},
+"krukke_one0007":
+{
+	"frame": {"x":8,"y":555,"w":137,"h":234},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":47,"w":161,"h":281},
+	"sourceSize": {"w":161,"h":281}
+},
+"krukke_one0008":
+{
+	"frame": {"x":151,"y":555,"w":130,"h":211},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":70,"w":161,"h":281},
+	"sourceSize": {"w":161,"h":281}
+},
+"krukke_one0009":
+{
+	"frame": {"x":287,"y":555,"w":124,"h":189},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":92,"w":161,"h":281},
+	"sourceSize": {"w":161,"h":281}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "16.0.0.112",
+	"image": "krukke_one.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":1024},
+	"scale": "1"
+}
+}

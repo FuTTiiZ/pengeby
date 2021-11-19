@@ -1,0 +1,171 @@
+{"frames": {
+
+"M2_Rom_puf0000":
+{
+	"frame": {"x":8,"y":8,"w":265,"h":194},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":265,"h":194},
+	"sourceSize": {"w":265,"h":194}
+},
+"M2_Rom_puf0001":
+{
+	"frame": {"x":8,"y":8,"w":265,"h":194},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":265,"h":194},
+	"sourceSize": {"w":265,"h":194}
+},
+"M2_Rom_puf0002":
+{
+	"frame": {"x":8,"y":8,"w":265,"h":194},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":265,"h":194},
+	"sourceSize": {"w":265,"h":194}
+},
+"M2_Rom_puf0003":
+{
+	"frame": {"x":8,"y":8,"w":265,"h":194},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":265,"h":194},
+	"sourceSize": {"w":265,"h":194}
+},
+"M2_Rom_puf0004":
+{
+	"frame": {"x":8,"y":8,"w":265,"h":194},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":265,"h":194},
+	"sourceSize": {"w":265,"h":194}
+},
+"M2_Rom_puf0005":
+{
+	"frame": {"x":8,"y":8,"w":265,"h":194},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":265,"h":194},
+	"sourceSize": {"w":265,"h":194}
+},
+"M2_Rom_puf0006":
+{
+	"frame": {"x":8,"y":8,"w":265,"h":194},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":265,"h":194},
+	"sourceSize": {"w":265,"h":194}
+},
+"M2_Rom_puf0007":
+{
+	"frame": {"x":8,"y":8,"w":265,"h":194},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":265,"h":194},
+	"sourceSize": {"w":265,"h":194}
+},
+"M2_Rom_puf0008":
+{
+	"frame": {"x":8,"y":8,"w":265,"h":194},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":265,"h":194},
+	"sourceSize": {"w":265,"h":194}
+},
+"M2_Rom_puf0009":
+{
+	"frame": {"x":8,"y":8,"w":265,"h":194},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":265,"h":194},
+	"sourceSize": {"w":265,"h":194}
+},
+"M2_Rom_puf0010":
+{
+	"frame": {"x":279,"y":8,"w":265,"h":194},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":265,"h":194},
+	"sourceSize": {"w":265,"h":194}
+},
+"M2_Rom_puf0011":
+{
+	"frame": {"x":550,"y":8,"w":265,"h":194},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":265,"h":194},
+	"sourceSize": {"w":265,"h":194}
+},
+"M2_Rom_puf0012":
+{
+	"frame": {"x":8,"y":208,"w":265,"h":194},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":265,"h":194},
+	"sourceSize": {"w":265,"h":194}
+},
+"M2_Rom_puf0013":
+{
+	"frame": {"x":279,"y":208,"w":265,"h":194},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":265,"h":194},
+	"sourceSize": {"w":265,"h":194}
+},
+"M2_Rom_puf0014":
+{
+	"frame": {"x":550,"y":208,"w":265,"h":194},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":265,"h":194},
+	"sourceSize": {"w":265,"h":194}
+},
+"M2_Rom_puf0015":
+{
+	"frame": {"x":8,"y":408,"w":265,"h":194},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":265,"h":194},
+	"sourceSize": {"w":265,"h":194}
+},
+"M2_Rom_puf0016":
+{
+	"frame": {"x":279,"y":408,"w":265,"h":194},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":265,"h":194},
+	"sourceSize": {"w":265,"h":194}
+},
+"M2_Rom_puf0017":
+{
+	"frame": {"x":550,"y":408,"w":265,"h":194},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":265,"h":194},
+	"sourceSize": {"w":265,"h":194}
+},
+"M2_Rom_puf0018":
+{
+	"frame": {"x":8,"y":608,"w":265,"h":194},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":265,"h":194},
+	"sourceSize": {"w":265,"h":194}
+},
+"M2_Rom_puf0019":
+{
+	"frame": {"x":279,"y":608,"w":265,"h":194},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":265,"h":194},
+	"sourceSize": {"w":265,"h":194}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "16.0.0.112",
+	"image": "romeShelf.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":1024},
+	"scale": "1"
+}
+}

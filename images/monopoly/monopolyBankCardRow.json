@@ -1,0 +1,35 @@
+{"frames": {
+
+"MonopolyBankCardRow0000":
+{
+	"frame": {"x":8,"y":8,"w":435,"h":24},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":435,"h":24},
+	"sourceSize": {"w":435,"h":24}
+},
+"MonopolyBankCardRow0001":
+{
+	"frame": {"x":8,"y":38,"w":435,"h":24},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":435,"h":24},
+	"sourceSize": {"w":435,"h":24}
+},
+"MonopolyBankCardRow0002":
+{
+	"frame": {"x":8,"y":68,"w":435,"h":24},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":435,"h":24},
+	"sourceSize": {"w":435,"h":24}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "16.0.0.112",
+	"image": "monopolyBankCardRow.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":512},
+	"scale": "1"
+}
+}

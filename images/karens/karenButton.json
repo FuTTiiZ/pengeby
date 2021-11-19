@@ -1,0 +1,27 @@
+{"frames": {
+
+"KarenButton0000":
+{
+	"frame": {"x":8,"y":8,"w":175,"h":101},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":175,"h":101},
+	"sourceSize": {"w":175,"h":101}
+},
+"KarenButton0001":
+{
+	"frame": {"x":8,"y":115,"w":175,"h":101},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":175,"h":101},
+	"sourceSize": {"w":175,"h":101}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "16.0.0.112",
+	"image": "karenButton.png",
+	"format": "RGBA8888",
+	"size": {"w":256,"h":256},
+	"scale": "1"
+}
+}

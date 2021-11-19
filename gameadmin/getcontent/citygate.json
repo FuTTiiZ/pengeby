@@ -1,0 +1,42 @@
+{
+  "speak_b_citygate_done": {
+    "contenttype": "sound",
+    "content": "dk_tak_for_hjaelpen_uden_beloenning.mp3",
+    "subtitle": "Ja, nu er den blevet fin. Men du har allerede malet den \u00e9n gang i dag, s\u00e5 du f\u00e5r ikke penge for det."
+  },
+  "speak_b_citygate_done_create": {
+    "contenttype": "sound",
+    "content": "dk_tak_for_hjaelpen.mp3",
+    "subtitle": "Wow, den er blevet rigtig flot! Som tak for hj\u00e6lpen f\u00e5r du 10 s\u00f8lvm\u00f8nter, og det er det samme som \u00e9n guldm\u00f8nt."
+  },
+  "speak_b_citygate_next": {
+    "contenttype": "sound",
+    "content": "dk_hjaelp_1.mp3",
+    "subtitle": "N\u00e5r du synes, den er f\u00e6rdig, s\u00e5 klik p\u00e5 den gr\u00f8nne knap."
+  },
+  "speak_b_citygate_welcome": {
+    "contenttype": "sound",
+    "content": "dk_velkomst_og_forklaring_byport.mp3",
+    "subtitle": "Velkommen til byens port. Den kan du male, s\u00e5 den bliver rigtig fin og flot! Du skal klikke p\u00e5 b\u00f8tterne med maling for at v\u00e6lge den farve, du gerne vil male med. Og n\u00e5r du har valgt en farve, kan du klikke forskellige steder p\u00e5 byporten for at male den. N\u00e5r du er klar, s\u00e5 tryk p\u00e5 den gr\u00f8nne knap."
+  },
+  "speak_b_createuser_citygate": {
+    "contenttype": "sound",
+    "content": "dk_male_byport.mp3",
+    "subtitle": "Nu skal du hj\u00e6lpe mig med at male porten til Pengeby. Den er blevet s\u00e5 beskidt, at den skal have nye farver. Du skal klikke p\u00e5 b\u00f8tterne med maling for at v\u00e6lge den farve, du gerne vil male med. Og n\u00e5r du har valgt en farve, kan du klikke forskellige steder p\u00e5 byporten for at male den. N\u00e5r du er klar, s\u00e5 tryk p\u00e5 den gr\u00f8nne knap!"
+  },
+  "speak_b_createuser_citygate_done": {
+    "contenttype": "sound",
+    "content": "dk_beloening_for_byport.mp3",
+    "subtitle": "Den er blevet rigtig fin! Som tak for hj\u00e6lpen f\u00e5r du 10 s\u00f8lvm\u00f8nter, og det er det samme som \u00e9n guldm\u00f8nt. Nu skal du klikke p\u00e5 den gr\u00f8nne knap for at komme ind i Pengeby!"
+  },
+  "citygate_choose_bucket": {
+    "contenttype": "sound",
+    "content": "citygate_vaelge_lyd_3.mp3",
+    "subtitle": ""
+  },
+  "citygate_paint": {
+    "contenttype": "sound",
+    "content": "citygate_handlings_lyd_2.mp3",
+    "subtitle": ""
+  }
+}

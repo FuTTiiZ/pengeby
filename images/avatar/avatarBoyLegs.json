@@ -1,0 +1,107 @@
+{"frames": {
+
+"avatarBoyLegs0000":
+{
+	"frame": {"x":8,"y":8,"w":94,"h":95},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":10,"w":134,"h":173},
+	"sourceSize": {"w":134,"h":173}
+},
+"avatarBoyLegs0001":
+{
+	"frame": {"x":108,"y":8,"w":134,"h":155},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":8,"w":134,"h":173},
+	"sourceSize": {"w":134,"h":173}
+},
+"avatarBoyLegs0002":
+{
+	"frame": {"x":248,"y":8,"w":110,"h":146},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":0,"w":134,"h":173},
+	"sourceSize": {"w":134,"h":173}
+},
+"avatarBoyLegs0003":
+{
+	"frame": {"x":364,"y":8,"w":126,"h":160},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":13,"w":134,"h":173},
+	"sourceSize": {"w":134,"h":173}
+},
+"avatarBoyLegs0004":
+{
+	"frame": {"x":8,"y":174,"w":87,"h":72},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":8,"w":134,"h":173},
+	"sourceSize": {"w":134,"h":173}
+},
+"avatarBoyLegs0005":
+{
+	"frame": {"x":101,"y":174,"w":95,"h":79},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":15,"w":134,"h":173},
+	"sourceSize": {"w":134,"h":173}
+},
+"avatarBoyLegs0006":
+{
+	"frame": {"x":202,"y":174,"w":82,"h":137},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":25,"y":13,"w":134,"h":173},
+	"sourceSize": {"w":134,"h":173}
+},
+"avatarBoyLegs0007":
+{
+	"frame": {"x":290,"y":174,"w":93,"h":139},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":19,"y":15,"w":134,"h":173},
+	"sourceSize": {"w":134,"h":173}
+},
+"avatarBoyLegs0008":
+{
+	"frame": {"x":389,"y":174,"w":89,"h":100},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":13,"w":134,"h":173},
+	"sourceSize": {"w":134,"h":173}
+},
+"avatarBoyLegs0009":
+{
+	"frame": {"x":8,"y":319,"w":81,"h":131},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":19,"y":11,"w":134,"h":173},
+	"sourceSize": {"w":134,"h":173}
+},
+"avatarBoyLegs0010":
+{
+	"frame": {"x":95,"y":319,"w":100,"h":118},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":12,"w":134,"h":173},
+	"sourceSize": {"w":134,"h":173}
+},
+"avatarBoyLegs0011":
+{
+	"frame": {"x":201,"y":319,"w":92,"h":140},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":19,"y":12,"w":134,"h":173},
+	"sourceSize": {"w":134,"h":173}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "16.0.0.112",
+	"image": "avatarBoyLegs.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":512},
+	"scale": "1"
+}
+}

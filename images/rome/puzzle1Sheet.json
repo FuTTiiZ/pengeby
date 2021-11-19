@@ -1,0 +1,75 @@
+{"frames": {
+
+"P10000":
+{
+	"frame": {"x":8,"y":8,"w":174,"h":77},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":174,"h":77},
+	"sourceSize": {"w":174,"h":77}
+},
+"P20000":
+{
+	"frame": {"x":188,"y":8,"w":167,"h":90},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":167,"h":90},
+	"sourceSize": {"w":167,"h":90}
+},
+"P30000":
+{
+	"frame": {"x":361,"y":8,"w":41,"h":129},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":41,"h":129},
+	"sourceSize": {"w":41,"h":129}
+},
+"P40000":
+{
+	"frame": {"x":8,"y":143,"w":163,"h":121},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":163,"h":121},
+	"sourceSize": {"w":163,"h":121}
+},
+"P50000":
+{
+	"frame": {"x":177,"y":143,"w":163,"h":107},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":163,"h":107},
+	"sourceSize": {"w":163,"h":107}
+},
+"P60000":
+{
+	"frame": {"x":346,"y":143,"w":35,"h":103},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":35,"h":103},
+	"sourceSize": {"w":35,"h":103}
+},
+"P70000":
+{
+	"frame": {"x":8,"y":270,"w":157,"h":102},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":157,"h":102},
+	"sourceSize": {"w":157,"h":102}
+},
+"P80000":
+{
+	"frame": {"x":171,"y":270,"w":160,"h":96},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":96},
+	"sourceSize": {"w":160,"h":96}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "16.0.0.112",
+	"image": "puzzle1Sheet.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":512},
+	"scale": "1"
+}
+}

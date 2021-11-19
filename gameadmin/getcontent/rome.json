@@ -1,0 +1,37 @@
+{
+  "speak_b_rome_complete": {
+    "contenttype": "sound",
+    "content": "dk_afslutning.mp3",
+    "subtitle": "Det var du god til! Synes du ikke, at den er blevet flot? Det synes jeg, den er."
+  },
+  "speak_b_rome_startPuzzle": {
+    "contenttype": "sound",
+    "content": "dk_velkomst_og_forklaring_rom_0.mp3",
+    "subtitle": "Du skal tr\u00e6kke brikkerne med musen over p\u00e5 det rigtige sted p\u00e5 tegningen. N\u00e5r du har sat alle brikkerne rigtig, er du f\u00e6rdig. Tryk p\u00e5 den gr\u00f8nne knap, n\u00e5r du er klar til at bygge."
+  },
+  "speak_b_rome_welcome": {
+    "contenttype": "sound",
+    "content": "dk_velkomst_og_forklaring_rom.mp3",
+    "subtitle": "Velkommen tilbage til det gamle Rom. Her skal du hj\u00e6lpe med at bygge flotte bygninger! Du kan v\u00e6lge imellem tre forskellige bygninger - den f\u00f8rste er den nemmeste, og den sidste er den sv\u00e6reste."
+  },
+  "rome_ambient": {
+    "contenttype": "sound",
+    "content": "rome_folkemasse_ambient_1.mp3",
+    "subtitle": ""
+  },
+  "rome_ambient_start": {
+    "contenttype": "sound",
+    "content": "rome_ambient_opstart.mp3",
+    "subtitle": ""
+  },
+  "rome_brick": {
+    "contenttype": "sound",
+    "content": "rome_brick.mp3",
+    "subtitle": ""
+  },
+  "rome_complete": {
+    "contenttype": "sound",
+    "content": "rome_complete.mp3",
+    "subtitle": ""
+  }
+}

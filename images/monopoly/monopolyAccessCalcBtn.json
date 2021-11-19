@@ -1,0 +1,27 @@
+{"frames": {
+
+"okbtn0000":
+{
+	"frame": {"x":8,"y":8,"w":84,"h":66},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":84,"h":66},
+	"sourceSize": {"w":84,"h":66}
+},
+"okbtn0001":
+{
+	"frame": {"x":8,"y":80,"w":84,"h":66},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":84,"h":66},
+	"sourceSize": {"w":84,"h":66}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "16.0.0.112",
+	"image": "monopolyAccessCalcBtn.png",
+	"format": "RGBA8888",
+	"size": {"w":128,"h":256},
+	"scale": "1"
+}
+}

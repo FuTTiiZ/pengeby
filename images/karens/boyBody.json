@@ -1,0 +1,163 @@
+{"frames": {
+
+"BoyDressItemBody0000":
+{
+	"frame": {"x":8,"y":8,"w":136,"h":203},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":26,"y":49,"w":192,"h":325},
+	"sourceSize": {"w":192,"h":325}
+},
+"BoyDressItemBody0001":
+{
+	"frame": {"x":150,"y":8,"w":131,"h":146},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":29,"y":49,"w":192,"h":325},
+	"sourceSize": {"w":192,"h":325}
+},
+"BoyDressItemBody0002":
+{
+	"frame": {"x":287,"y":8,"w":141,"h":159},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":49,"w":192,"h":325},
+	"sourceSize": {"w":192,"h":325}
+},
+"BoyDressItemBody0003":
+{
+	"frame": {"x":434,"y":8,"w":137,"h":169},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":30,"y":49,"w":192,"h":325},
+	"sourceSize": {"w":192,"h":325}
+},
+"BoyDressItemBody0004":
+{
+	"frame": {"x":577,"y":8,"w":144,"h":149},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":26,"y":49,"w":192,"h":325},
+	"sourceSize": {"w":192,"h":325}
+},
+"BoyDressItemBody0005":
+{
+	"frame": {"x":727,"y":8,"w":133,"h":149},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":32,"y":49,"w":192,"h":325},
+	"sourceSize": {"w":192,"h":325}
+},
+"BoyDressItemBody0006":
+{
+	"frame": {"x":866,"y":8,"w":125,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":49,"w":192,"h":325},
+	"sourceSize": {"w":192,"h":325}
+},
+"BoyDressItemBody0007":
+{
+	"frame": {"x":8,"y":217,"w":119,"h":141},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":36,"y":49,"w":192,"h":325},
+	"sourceSize": {"w":192,"h":325}
+},
+"BoyDressItemBody0008":
+{
+	"frame": {"x":133,"y":217,"w":171,"h":191},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":49,"w":192,"h":325},
+	"sourceSize": {"w":192,"h":325}
+},
+"BoyDressItemBody0009":
+{
+	"frame": {"x":310,"y":217,"w":170,"h":276},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":49,"w":192,"h":325},
+	"sourceSize": {"w":192,"h":325}
+},
+"BoyDressItemBody0010":
+{
+	"frame": {"x":486,"y":217,"w":139,"h":252},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":27,"y":49,"w":192,"h":325},
+	"sourceSize": {"w":192,"h":325}
+},
+"BoyDressItemBody0011":
+{
+	"frame": {"x":631,"y":217,"w":152,"h":271},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":49,"w":192,"h":325},
+	"sourceSize": {"w":192,"h":325}
+},
+"BoyDressItemBody0012":
+{
+	"frame": {"x":789,"y":217,"w":171,"h":233},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":49,"w":192,"h":325},
+	"sourceSize": {"w":192,"h":325}
+},
+"BoyDressItemBody0013":
+{
+	"frame": {"x":8,"y":499,"w":138,"h":171},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":29,"y":49,"w":192,"h":325},
+	"sourceSize": {"w":192,"h":325}
+},
+"BoyDressItemBody0014":
+{
+	"frame": {"x":152,"y":499,"w":192,"h":306},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":192,"h":325},
+	"sourceSize": {"w":192,"h":325}
+},
+"BoyDressItemBody0015":
+{
+	"frame": {"x":350,"y":499,"w":129,"h":159},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":31,"y":49,"w":192,"h":325},
+	"sourceSize": {"w":192,"h":325}
+},
+"BoyDressItemBody0016":
+{
+	"frame": {"x":485,"y":499,"w":180,"h":183},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":49,"w":192,"h":325},
+	"sourceSize": {"w":192,"h":325}
+},
+"BoyDressItemBody0017":
+{
+	"frame": {"x":671,"y":499,"w":113,"h":152},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":49,"w":192,"h":325},
+	"sourceSize": {"w":192,"h":325}
+},
+"BoyDressItemBody0018":
+{
+	"frame": {"x":790,"y":499,"w":146,"h":230},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":49,"w":192,"h":325},
+	"sourceSize": {"w":192,"h":325}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "16.0.0.112",
+	"image": "boyBody.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":1024},
+	"scale": "1"
+}
+}

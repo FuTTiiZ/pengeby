@@ -1,0 +1,51 @@
+{"frames": {
+
+"careBarCar0000":
+{
+	"frame": {"x":8,"y":8,"w":100,"h":77},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":20,"w":123,"h":102},
+	"sourceSize": {"w":123,"h":102}
+},
+"careBarCar0001":
+{
+	"frame": {"x":114,"y":8,"w":123,"h":77},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":25,"w":123,"h":102},
+	"sourceSize": {"w":123,"h":102}
+},
+"careBarCar0002":
+{
+	"frame": {"x":8,"y":91,"w":117,"h":91},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":8,"w":123,"h":102},
+	"sourceSize": {"w":123,"h":102}
+},
+"careBarCar0003":
+{
+	"frame": {"x":131,"y":91,"w":95,"h":101},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":0,"w":123,"h":102},
+	"sourceSize": {"w":123,"h":102}
+},
+"careBarCar0004":
+{
+	"frame": {"x":8,"y":198,"w":115,"h":81},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":19,"w":123,"h":102},
+	"sourceSize": {"w":123,"h":102}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "16.0.0.112",
+	"image": "transport.png",
+	"format": "RGBA8888",
+	"size": {"w":256,"h":512},
+	"scale": "1"
+}
+}

@@ -1,0 +1,115 @@
+{"frames": {
+
+"avatarGirlShoes0000":
+{
+	"frame": {"x":8,"y":8,"w":106,"h":23},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":47,"w":124,"h":80},
+	"sourceSize": {"w":124,"h":80}
+},
+"avatarGirlShoes0001":
+{
+	"frame": {"x":120,"y":8,"w":113,"h":46},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":26,"w":124,"h":80},
+	"sourceSize": {"w":124,"h":80}
+},
+"avatarGirlShoes0002":
+{
+	"frame": {"x":8,"y":60,"w":108,"h":26},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":43,"w":124,"h":80},
+	"sourceSize": {"w":124,"h":80}
+},
+"avatarGirlShoes0003":
+{
+	"frame": {"x":122,"y":60,"w":121,"h":39},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":41,"w":124,"h":80},
+	"sourceSize": {"w":124,"h":80}
+},
+"avatarGirlShoes0004":
+{
+	"frame": {"x":8,"y":105,"w":113,"h":72},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":1,"w":124,"h":80},
+	"sourceSize": {"w":124,"h":80}
+},
+"avatarGirlShoes0005":
+{
+	"frame": {"x":127,"y":105,"w":109,"h":75},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":0,"w":124,"h":80},
+	"sourceSize": {"w":124,"h":80}
+},
+"avatarGirlShoes0006":
+{
+	"frame": {"x":8,"y":186,"w":112,"h":67},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":8,"w":124,"h":80},
+	"sourceSize": {"w":124,"h":80}
+},
+"avatarGirlShoes0007":
+{
+	"frame": {"x":126,"y":186,"w":119,"h":23},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":47,"w":124,"h":80},
+	"sourceSize": {"w":124,"h":80}
+},
+"avatarGirlShoes0008":
+{
+	"frame": {"x":8,"y":259,"w":109,"h":36},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":35,"w":124,"h":80},
+	"sourceSize": {"w":124,"h":80}
+},
+"avatarGirlShoes0009":
+{
+	"frame": {"x":123,"y":259,"w":109,"h":35},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":35,"w":124,"h":80},
+	"sourceSize": {"w":124,"h":80}
+},
+"avatarGirlShoes0010":
+{
+	"frame": {"x":8,"y":301,"w":106,"h":30},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":41,"w":124,"h":80},
+	"sourceSize": {"w":124,"h":80}
+},
+"avatarGirlShoes0011":
+{
+	"frame": {"x":120,"y":301,"w":109,"h":61},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":10,"w":124,"h":80},
+	"sourceSize": {"w":124,"h":80}
+},
+"avatarGirlShoes0012":
+{
+	"frame": {"x":8,"y":368,"w":121,"h":37},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":34,"w":124,"h":80},
+	"sourceSize": {"w":124,"h":80}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "16.0.0.112",
+	"image": "avatarGirlShoes.png",
+	"format": "RGBA8888",
+	"size": {"w":256,"h":512},
+	"scale": "1"
+}
+}

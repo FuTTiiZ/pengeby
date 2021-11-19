@@ -1,0 +1,43 @@
+{"frames": {
+
+"MonopolyStartupItemCountryButton0000":
+{
+	"frame": {"x":8,"y":8,"w":39,"h":24},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":39,"h":24},
+	"sourceSize": {"w":39,"h":24}
+},
+"MonopolyStartupItemCountryButton0001":
+{
+	"frame": {"x":53,"y":8,"w":39,"h":24},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":39,"h":24},
+	"sourceSize": {"w":39,"h":24}
+},
+"MonopolyStartupItemCountryButton0002":
+{
+	"frame": {"x":8,"y":38,"w":39,"h":24},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":39,"h":24},
+	"sourceSize": {"w":39,"h":24}
+},
+"MonopolyStartupItemCountryButton0003":
+{
+	"frame": {"x":53,"y":38,"w":39,"h":24},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":39,"h":24},
+	"sourceSize": {"w":39,"h":24}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "16.0.0.112",
+	"image": "MonopolyStartupCountryBtn.png",
+	"format": "RGBA8888",
+	"size": {"w":128,"h":128},
+	"scale": "1"
+}
+}

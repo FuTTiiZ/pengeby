@@ -1,0 +1,283 @@
+{"frames": {
+
+"MonopolyFamilyMember0000":
+{
+	"frame": {"x":8,"y":8,"w":0,"h":0},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":4,"w":37,"h":54},
+	"sourceSize": {"w":37,"h":54}
+},
+"MonopolyFamilyMember0001":
+{
+	"frame": {"x":14,"y":8,"w":25,"h":51},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":0,"w":37,"h":54},
+	"sourceSize": {"w":37,"h":54}
+},
+"MonopolyFamilyMember0002":
+{
+	"frame": {"x":45,"y":8,"w":29,"h":47},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":3,"w":37,"h":54},
+	"sourceSize": {"w":37,"h":54}
+},
+"MonopolyFamilyMember0003":
+{
+	"frame": {"x":80,"y":8,"w":30,"h":47},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":3,"w":37,"h":54},
+	"sourceSize": {"w":37,"h":54}
+},
+"MonopolyFamilyMember0004":
+{
+	"frame": {"x":116,"y":8,"w":30,"h":50},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":0,"w":37,"h":54},
+	"sourceSize": {"w":37,"h":54}
+},
+"MonopolyFamilyMember0005":
+{
+	"frame": {"x":152,"y":8,"w":37,"h":49},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":37,"h":54},
+	"sourceSize": {"w":37,"h":54}
+},
+"MonopolyFamilyMember0006":
+{
+	"frame": {"x":195,"y":8,"w":35,"h":48},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":2,"w":37,"h":54},
+	"sourceSize": {"w":37,"h":54}
+},
+"MonopolyFamilyMember0007":
+{
+	"frame": {"x":8,"y":65,"w":26,"h":46},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":4,"w":37,"h":54},
+	"sourceSize": {"w":37,"h":54}
+},
+"MonopolyFamilyMember0008":
+{
+	"frame": {"x":40,"y":65,"w":27,"h":46},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":4,"w":37,"h":54},
+	"sourceSize": {"w":37,"h":54}
+},
+"MonopolyFamilyMember0009":
+{
+	"frame": {"x":73,"y":65,"w":26,"h":51},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":1,"w":37,"h":54},
+	"sourceSize": {"w":37,"h":54}
+},
+"MonopolyFamilyMember0010":
+{
+	"frame": {"x":105,"y":65,"w":26,"h":43},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":7,"w":37,"h":54},
+	"sourceSize": {"w":37,"h":54}
+},
+"MonopolyFamilyMember0011":
+{
+	"frame": {"x":137,"y":65,"w":27,"h":47},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":7,"w":37,"h":54},
+	"sourceSize": {"w":37,"h":54}
+},
+"MonopolyFamilyMember0012":
+{
+	"frame": {"x":170,"y":65,"w":27,"h":46},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":5,"w":37,"h":54},
+	"sourceSize": {"w":37,"h":54}
+},
+"MonopolyFamilyMember0013":
+{
+	"frame": {"x":203,"y":65,"w":27,"h":47},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":4,"w":37,"h":54},
+	"sourceSize": {"w":37,"h":54}
+},
+"MonopolyFamilyMember0014":
+{
+	"frame": {"x":8,"y":122,"w":28,"h":47},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":4,"w":37,"h":54},
+	"sourceSize": {"w":37,"h":54}
+},
+"MonopolyFamilyMember0015":
+{
+	"frame": {"x":42,"y":122,"w":28,"h":52},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":0,"w":37,"h":54},
+	"sourceSize": {"w":37,"h":54}
+},
+"MonopolyFamilyMember0016":
+{
+	"frame": {"x":76,"y":122,"w":27,"h":47},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":4,"w":37,"h":54},
+	"sourceSize": {"w":37,"h":54}
+},
+"MonopolyFamilyMember0017":
+{
+	"frame": {"x":109,"y":122,"w":25,"h":37},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":13,"w":37,"h":54},
+	"sourceSize": {"w":37,"h":54}
+},
+"MonopolyFamilyMember0018":
+{
+	"frame": {"x":140,"y":122,"w":25,"h":39},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":11,"w":37,"h":54},
+	"sourceSize": {"w":37,"h":54}
+},
+"MonopolyFamilyMember0019":
+{
+	"frame": {"x":171,"y":122,"w":34,"h":36},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":14,"w":37,"h":54},
+	"sourceSize": {"w":37,"h":54}
+},
+"MonopolyFamilyMember0020":
+{
+	"frame": {"x":211,"y":122,"w":26,"h":35},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":15,"w":37,"h":54},
+	"sourceSize": {"w":37,"h":54}
+},
+"MonopolyFamilyMember0021":
+{
+	"frame": {"x":8,"y":180,"w":25,"h":36},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":13,"w":37,"h":54},
+	"sourceSize": {"w":37,"h":54}
+},
+"MonopolyFamilyMember0022":
+{
+	"frame": {"x":39,"y":180,"w":27,"h":38},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":11,"w":37,"h":54},
+	"sourceSize": {"w":37,"h":54}
+},
+"MonopolyFamilyMember0023":
+{
+	"frame": {"x":72,"y":180,"w":31,"h":39},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":11,"w":37,"h":54},
+	"sourceSize": {"w":37,"h":54}
+},
+"MonopolyFamilyMember0024":
+{
+	"frame": {"x":109,"y":180,"w":31,"h":38},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":11,"w":37,"h":54},
+	"sourceSize": {"w":37,"h":54}
+},
+"MonopolyFamilyMember0025":
+{
+	"frame": {"x":146,"y":180,"w":26,"h":36},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":15,"w":37,"h":54},
+	"sourceSize": {"w":37,"h":54}
+},
+"MonopolyFamilyMember0026":
+{
+	"frame": {"x":178,"y":180,"w":26,"h":36},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":14,"w":37,"h":54},
+	"sourceSize": {"w":37,"h":54}
+},
+"MonopolyFamilyMember0027":
+{
+	"frame": {"x":210,"y":180,"w":25,"h":34},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":16,"w":37,"h":54},
+	"sourceSize": {"w":37,"h":54}
+},
+"MonopolyFamilyMember0028":
+{
+	"frame": {"x":8,"y":225,"w":25,"h":35},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":15,"w":37,"h":54},
+	"sourceSize": {"w":37,"h":54}
+},
+"MonopolyFamilyMember0029":
+{
+	"frame": {"x":39,"y":225,"w":25,"h":37},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":14,"w":37,"h":54},
+	"sourceSize": {"w":37,"h":54}
+},
+"MonopolyFamilyMember0030":
+{
+	"frame": {"x":70,"y":225,"w":26,"h":36},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":14,"w":37,"h":54},
+	"sourceSize": {"w":37,"h":54}
+},
+"MonopolyFamilyMember0031":
+{
+	"frame": {"x":102,"y":225,"w":26,"h":39},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":11,"w":37,"h":54},
+	"sourceSize": {"w":37,"h":54}
+},
+"MonopolyFamilyMember0032":
+{
+	"frame": {"x":134,"y":225,"w":30,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":9,"w":37,"h":54},
+	"sourceSize": {"w":37,"h":54}
+},
+"MonopolyFamilyMember0033":
+{
+	"frame": {"x":134,"y":225,"w":30,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":9,"w":37,"h":54},
+	"sourceSize": {"w":37,"h":54}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "16.0.0.112",
+	"image": "MonopolyFamilyMember.png",
+	"format": "RGBA8888",
+	"size": {"w":256,"h":512},
+	"scale": "1"
+}
+}

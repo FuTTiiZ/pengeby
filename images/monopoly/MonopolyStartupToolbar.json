@@ -1,0 +1,27 @@
+{"frames": {
+
+"MonopolyStartupToolbar0000":
+{
+	"frame": {"x":8,"y":8,"w":150,"h":293},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":338},
+	"sourceSize": {"w":150,"h":338}
+},
+"MonopolyStartupToolbar0001":
+{
+	"frame": {"x":164,"y":8,"w":150,"h":338},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":338},
+	"sourceSize": {"w":150,"h":338}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "16.0.0.112",
+	"image": "MonopolyStartupToolbar.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":512},
+	"scale": "1"
+}
+}

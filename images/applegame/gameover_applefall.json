@@ -1,0 +1,67 @@
+{"frames": {
+
+"Aeble_slut0000":
+{
+	"frame": {"x":8,"y":8,"w":59,"h":60},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":0,"w":109,"h":335},
+	"sourceSize": {"w":109,"h":335}
+},
+"Aeble_slut0001":
+{
+	"frame": {"x":73,"y":8,"w":59,"h":63},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":41,"w":109,"h":335},
+	"sourceSize": {"w":109,"h":335}
+},
+"Aeble_slut0002":
+{
+	"frame": {"x":138,"y":8,"w":58,"h":64},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":83,"w":109,"h":335},
+	"sourceSize": {"w":109,"h":335}
+},
+"Aeble_slut0003":
+{
+	"frame": {"x":8,"y":78,"w":57,"h":64},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":127,"w":109,"h":335},
+	"sourceSize": {"w":109,"h":335}
+},
+"Aeble_slut0004":
+{
+	"frame": {"x":71,"y":78,"w":55,"h":64},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":27,"y":170,"w":109,"h":335},
+	"sourceSize": {"w":109,"h":335}
+},
+"Aeble_slut0005":
+{
+	"frame": {"x":132,"y":78,"w":54,"h":63},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":29,"y":214,"w":109,"h":335},
+	"sourceSize": {"w":109,"h":335}
+},
+"Aeble_slut0006":
+{
+	"frame": {"x":8,"y":148,"w":109,"h":87},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":248,"w":109,"h":335},
+	"sourceSize": {"w":109,"h":335}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "16.0.0.112",
+	"image": "gameover_applefall.png",
+	"format": "RGBA8888",
+	"size": {"w":256,"h":256},
+	"scale": "1"
+}
+}

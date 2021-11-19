@@ -1,0 +1,43 @@
+{"frames": {
+
+"troughHay0000":
+{
+	"frame": {"x":8,"y":8,"w":0,"h":0},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":28,"w":62,"h":50},
+	"sourceSize": {"w":62,"h":50}
+},
+"troughHay0001":
+{
+	"frame": {"x":14,"y":8,"w":46,"h":30},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":0,"w":62,"h":50},
+	"sourceSize": {"w":62,"h":50}
+},
+"troughHay0002":
+{
+	"frame": {"x":8,"y":44,"w":61,"h":44},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":62,"h":50},
+	"sourceSize": {"w":62,"h":50}
+},
+"troughHay0003":
+{
+	"frame": {"x":8,"y":94,"w":53,"h":28},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":22,"w":62,"h":50},
+	"sourceSize": {"w":62,"h":50}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "16.0.0.112",
+	"image": "troughHay.png",
+	"format": "RGBA8888",
+	"size": {"w":128,"h":256},
+	"scale": "1"
+}
+}

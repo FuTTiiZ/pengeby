@@ -1,0 +1,131 @@
+{"frames": {
+
+"MonopolyCalender0000":
+{
+	"frame": {"x":8,"y":8,"w":922,"h":289},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":922,"h":289},
+	"sourceSize": {"w":922,"h":289}
+},
+"MonopolyCalender0001":
+{
+	"frame": {"x":936,"y":8,"w":922,"h":289},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":922,"h":289},
+	"sourceSize": {"w":922,"h":289}
+},
+"MonopolyCalender0002":
+{
+	"frame": {"x":8,"y":303,"w":922,"h":289},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":922,"h":289},
+	"sourceSize": {"w":922,"h":289}
+},
+"MonopolyCalender0003":
+{
+	"frame": {"x":936,"y":303,"w":922,"h":289},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":922,"h":289},
+	"sourceSize": {"w":922,"h":289}
+},
+"MonopolyCalender0004":
+{
+	"frame": {"x":8,"y":598,"w":922,"h":289},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":922,"h":289},
+	"sourceSize": {"w":922,"h":289}
+},
+"MonopolyCalender0005":
+{
+	"frame": {"x":936,"y":598,"w":922,"h":289},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":922,"h":289},
+	"sourceSize": {"w":922,"h":289}
+},
+"MonopolyCalender0006":
+{
+	"frame": {"x":8,"y":893,"w":922,"h":289},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":922,"h":289},
+	"sourceSize": {"w":922,"h":289}
+},
+"MonopolyCalender0007":
+{
+	"frame": {"x":936,"y":893,"w":922,"h":289},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":922,"h":289},
+	"sourceSize": {"w":922,"h":289}
+},
+"MonopolyCalender0008":
+{
+	"frame": {"x":8,"y":1188,"w":922,"h":289},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":922,"h":289},
+	"sourceSize": {"w":922,"h":289}
+},
+"MonopolyCalender0009":
+{
+	"frame": {"x":936,"y":1188,"w":922,"h":289},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":922,"h":289},
+	"sourceSize": {"w":922,"h":289}
+},
+"MonopolyCalender0010":
+{
+	"frame": {"x":8,"y":1483,"w":922,"h":289},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":922,"h":289},
+	"sourceSize": {"w":922,"h":289}
+},
+"MonopolyCalender0011":
+{
+	"frame": {"x":936,"y":1483,"w":922,"h":289},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":922,"h":289},
+	"sourceSize": {"w":922,"h":289}
+},
+"MonopolyCalender0012":
+{
+	"frame": {"x":8,"y":1778,"w":922,"h":289},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":922,"h":289},
+	"sourceSize": {"w":922,"h":289}
+},
+"MonopolyCalender0013":
+{
+	"frame": {"x":936,"y":1778,"w":922,"h":289},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":922,"h":289},
+	"sourceSize": {"w":922,"h":289}
+},
+"MonopolyCalender0014":
+{
+	"frame": {"x":8,"y":8,"w":922,"h":289},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":922,"h":289},
+	"sourceSize": {"w":922,"h":289}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "16.0.0.112",
+	"image": "monopolyCalendar.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":4096},
+	"scale": "1"
+}
+}

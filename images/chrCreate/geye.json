@@ -1,0 +1,35 @@
+{"frames": {
+
+"eyeColorSelect0000":
+{
+	"frame": {"x":8,"y":8,"w":134,"h":45},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":3,"w":138,"h":50},
+	"sourceSize": {"w":138,"h":50}
+},
+"eyeColorSelect0001":
+{
+	"frame": {"x":8,"y":59,"w":129,"h":48},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":0,"w":138,"h":50},
+	"sourceSize": {"w":138,"h":50}
+},
+"eyeColorSelect0002":
+{
+	"frame": {"x":8,"y":113,"w":133,"h":47},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":3,"w":138,"h":50},
+	"sourceSize": {"w":138,"h":50}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "16.0.0.112",
+	"image": "geye.png",
+	"format": "RGBA8888",
+	"size": {"w":256,"h":256},
+	"scale": "1"
+}
+}

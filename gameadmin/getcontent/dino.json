@@ -1,0 +1,62 @@
+{
+  "speak_b_dino_loose1": {
+    "contenttype": "sound",
+    "content": "dk_spil_slut_tapt_1.mp3",
+    "subtitle": "Ej, du n\u00e5ede at miste alle dine liv, f\u00f8r du fik fat i \u00e6ggene. Pr\u00f8v igen."
+  },
+  "speak_b_dino_loose2": {
+    "contenttype": "sound",
+    "content": "dk_spil_slut_tapt_2.mp3",
+    "subtitle": "Det var \u00e6rgerligt - du har ikke flere fors\u00f8g til at finde \u00e6ggene. M\u00e5ske skal du passe lidt bedre p\u00e5 n\u00e6ste gang? Pr\u00f8v igen for at se, om du kan g\u00f8re det bedre!"
+  },
+  "speak_b_dino_welcome": {
+    "contenttype": "sound",
+    "content": "dk_velkomst_og_forklaring_dinosaurus.mp3",
+    "subtitle": "Nu har du rejst meget langt tilbage i tiden, nemlig til dengang, hvor der fandtes dinosaurusser. Dinosarus mor er blevet ked af det, fordi hun har mistet sine \u00e6g, og du skal derfor hj\u00e6lpe med at finde dem. For at finde \u00e6ggene skal du bruge pilene p\u00e5 tastaturet og grave dig ned igennem jorden. Du skal samle alle hjerterne, f\u00f8r du kan f\u00e5 fat i et \u00e6g. Men pas p\u00e5 de farlige ting undervejs - og skynd dig alt, hvad du kan! Tryk p\u00e5 den gr\u00f8nne knap, n\u00e5r du er klar."
+  },
+  "speak_b_dino_won1": {
+    "contenttype": "sound",
+    "content": "dk_spil_slut_gennemfoert_1.mp3",
+    "subtitle": "Du fandt alle \u00e6ggene - godt g\u00e5et! Pr\u00f8v at se, om du kan g\u00f8re det endnu hurtigere!"
+  },
+  "speak_b_dino_won2": {
+    "contenttype": "sound",
+    "content": "dk_spil_slut_gennemfoert_2.mp3",
+    "subtitle": "Det er du god til - du fandt alle \u00e6ggene! Tror du, at du kan g\u00f8re det endnu hurtigere?"
+  },
+  "dino_ambient": {
+    "contenttype": "sound",
+    "content": "dino_dinosaur_regnskovs_ambient_mix.mp3",
+    "subtitle": ""
+  },
+  "dino_complete": {
+    "contenttype": "sound",
+    "content": "dino_complete.mp3",
+    "subtitle": ""
+  },
+  "dino_digging": {
+    "contenttype": "sound",
+    "content": "dino_grave_under_jorden-lyd.mp3",
+    "subtitle": ""
+  },
+  "dino_hart": {
+    "contenttype": "sound",
+    "content": "dino_hjerte_plingeling.mp3",
+    "subtitle": ""
+  },
+  "dino_monster": {
+    "contenttype": "sound",
+    "content": "dino_monster_snapper_flere_gange.mp3",
+    "subtitle": ""
+  },
+  "dino_remove_rock": {
+    "contenttype": "sound",
+    "content": "dino_opmaerksom-lyd_egg_kan_hentes.mp3",
+    "subtitle": ""
+  },
+  "dino_stone_in_the_head": {
+    "contenttype": "sound",
+    "content": "dino_ser_stjerner_efter_sten_i_hovedet.mp3",
+    "subtitle": ""
+  }
+}

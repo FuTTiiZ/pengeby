@@ -1,0 +1,147 @@
+{"frames": {
+
+"Hjerte_tile0000":
+{
+	"frame": {"x":8,"y":8,"w":39,"h":32},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":17,"w":67,"h":59},
+	"sourceSize": {"w":67,"h":59}
+},
+"Hjerte_tile0001":
+{
+	"frame": {"x":8,"y":8,"w":39,"h":32},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":17,"w":67,"h":59},
+	"sourceSize": {"w":67,"h":59}
+},
+"Hjerte_tile0002":
+{
+	"frame": {"x":8,"y":8,"w":39,"h":32},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":17,"w":67,"h":59},
+	"sourceSize": {"w":67,"h":59}
+},
+"Hjerte_tile0003":
+{
+	"frame": {"x":8,"y":8,"w":39,"h":32},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":17,"w":67,"h":59},
+	"sourceSize": {"w":67,"h":59}
+},
+"Hjerte_tile0004":
+{
+	"frame": {"x":8,"y":8,"w":39,"h":32},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":17,"w":67,"h":59},
+	"sourceSize": {"w":67,"h":59}
+},
+"Hjerte_tile0005":
+{
+	"frame": {"x":8,"y":8,"w":39,"h":32},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":17,"w":67,"h":59},
+	"sourceSize": {"w":67,"h":59}
+},
+"Hjerte_tile0006":
+{
+	"frame": {"x":8,"y":8,"w":39,"h":32},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":17,"w":67,"h":59},
+	"sourceSize": {"w":67,"h":59}
+},
+"Hjerte_tile0007":
+{
+	"frame": {"x":8,"y":8,"w":39,"h":32},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":17,"w":67,"h":59},
+	"sourceSize": {"w":67,"h":59}
+},
+"Hjerte_tile0008":
+{
+	"frame": {"x":8,"y":8,"w":39,"h":32},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":17,"w":67,"h":59},
+	"sourceSize": {"w":67,"h":59}
+},
+"Hjerte_tile0009":
+{
+	"frame": {"x":53,"y":8,"w":32,"h":24},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":20,"w":67,"h":59},
+	"sourceSize": {"w":67,"h":59}
+},
+"Hjerte_tile0010":
+{
+	"frame": {"x":91,"y":8,"w":38,"h":30},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":16,"w":67,"h":59},
+	"sourceSize": {"w":67,"h":59}
+},
+"Hjerte_tile0011":
+{
+	"frame": {"x":135,"y":8,"w":44,"h":36},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":13,"w":67,"h":59},
+	"sourceSize": {"w":67,"h":59}
+},
+"Hjerte_tile0012":
+{
+	"frame": {"x":185,"y":8,"w":49,"h":41},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":10,"w":67,"h":59},
+	"sourceSize": {"w":67,"h":59}
+},
+"Hjerte_tile0013":
+{
+	"frame": {"x":8,"y":55,"w":55,"h":47},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":7,"w":67,"h":59},
+	"sourceSize": {"w":67,"h":59}
+},
+"Hjerte_tile0014":
+{
+	"frame": {"x":69,"y":55,"w":61,"h":53},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":4,"w":67,"h":59},
+	"sourceSize": {"w":67,"h":59}
+},
+"Hjerte_tile0015":
+{
+	"frame": {"x":136,"y":55,"w":67,"h":59},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":67,"h":59},
+	"sourceSize": {"w":67,"h":59}
+},
+"Hjerte_tile0016":
+{
+	"frame": {"x":209,"y":55,"w":25,"h":22},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":8,"w":67,"h":59},
+	"sourceSize": {"w":67,"h":59}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "16.0.0.112",
+	"image": "tileHeart.png",
+	"format": "RGBA8888",
+	"size": {"w":256,"h":256},
+	"scale": "1"
+}
+}

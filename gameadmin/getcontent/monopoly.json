@@ -1,0 +1,1655 @@
+{
+  "monopoly_add_point0": {
+    "contenttype": "sound",
+    "content": "dk_diverse_speaks_3_0.mp3",
+    "subtitle": "Du har penge nok, s\u00e5 du f\u00e5r et point"
+  },
+  "monopoly_add_point1": {
+    "contenttype": "sound",
+    "content": "dk_diverse_speaks_4_0.mp3",
+    "subtitle": "Du f\u00e5r et point, fordi du har penge nok"
+  },
+  "monopoly_withdraw_point": {
+    "contenttype": "sound",
+    "content": "dk_diverse_speaks_2_0.mp3",
+    "subtitle": "Du har ikke penge nok, s\u00e5 du f\u00e5r trukket et point"
+  },
+  "speak_b_monopoly_bank_move": {
+    "contenttype": "sound",
+    "content": "dk_roll_over_speak_paa_flytte_hus_ikon.mp3",
+    "subtitle": "Her kan du flytte til et andet hus og skifte familiens transportmiddel og k\u00e6ledyr. Men det koster penge at g\u00f8re det!"
+  },
+  "speak_b_monopoly_budgetView": {
+    "contenttype": "sound",
+    "content": "dk_visning_af_opsparing_1.mp3",
+    "subtitle": "Her kan du se, hvad familiens penge er brugt til i denne m\u00e5ned - og hvor mange, der er tilbage til n\u00e6ste m\u00e5ned! Hvordan klarer du det?"
+  },
+  "speak_b_monopoly_create_family": {
+    "contenttype": "sound",
+    "content": "dk_sammensaet_familie.mp3",
+    "subtitle": "Her skal du v\u00e6lge, hvem der skal v\u00e6re med i familien. Husk at give dem navne! Du bestemmer selv, om der skal v\u00e6re 1 eller 2 voksne. Og ogs\u00e5 hvor mange b\u00f8rn, der skal v\u00e6re. Du kan dog h\u00f8jst v\u00e6lge 6 b\u00f8rn i \u00e9n familie. N\u00e5r du har valgt en familie, s\u00e5 klik p\u00e5 den gr\u00f8nne knap!"
+  },
+  "speak_b_monopoly_create_house": {
+    "contenttype": "sound",
+    "content": "dk_vaelg_bolig_mm.mp3",
+    "subtitle": "Nu skal du v\u00e6lge, hvordan familien skal bo, hvordan de skal komme rundt til familie og venner, og hvilket k\u00e6ledyr de skal have. Til h\u00f8jre kan du se, hvor mange penge familien f\u00e5r hver m\u00e5ned. Husk at tingene ikke koster det samme. N\u00e5r du er f\u00e6rdig, s\u00e5 klik p\u00e5 den gr\u00f8nne knap for at starte spillet."
+  },
+  "speak_b_monopoly_event_gotMoney0": {
+    "contenttype": "sound",
+    "content": "dk_diverse_speaks_3.mp3",
+    "subtitle": "Du har penge nok, s\u00e5 du f\u00e5r et point"
+  },
+  "speak_b_monopoly_event_gotMoney1": {
+    "contenttype": "sound",
+    "content": "dk_diverse_speaks_4.mp3",
+    "subtitle": "Du f\u00e5r et point, fordi du har penge nok"
+  },
+  "speak_b_monopoly_event_noMoney": {
+    "contenttype": "sound",
+    "content": "dk_diverse_speaks_2.mp3",
+    "subtitle": "Du har ikke penge nok, s\u00e5 du f\u00e5r trukket et point"
+  },
+  "speak_b_monopoly_gameOver": {
+    "contenttype": "sound",
+    "content": "dk_slut_paa_spil.mp3",
+    "subtitle": "S\u00e5 er spillet slut! Her kan du se, hvor mange point du fik! Hvordan synes du, at du klarede det? Du kan pr\u00f8ve igen, hvis du gerne vil se, om du kan g\u00f8re det endnu bedre"
+  },
+  "speak_b_monopoly_leaveGame": {
+    "contenttype": "sound",
+    "content": "dk_ved_luk_klik_paa_pengebyikon.mp3",
+    "subtitle": "Klik p\u00e5 den gr\u00f8nne knap, hvis du gerne vil gemme dit spil, s\u00e5 du kan spille videre p\u00e5 et andet tidspunkt. Hvis du ikke vil gemme dit spil, klikker du i stedet p\u00e5 den r\u00f8de knap."
+  },
+  "speak_b_monopoly_newYearsEve_helptxt": {
+    "contenttype": "sound",
+    "content": "dk_aarsafslutning.mp3",
+    "subtitle": "S\u00e5 er \u00e5ret g\u00e5et - og d\u00e9t skal fejres med en stor fest! Nu kan du bruge de sidste af de penge, du har sparet op. Klik p\u00e5 de ting, du gerne vil k\u00f8be til festen!"
+  },
+  "speak_b_monopoly_next_month1": {
+    "contenttype": "sound",
+    "content": "dk_maanedskift_1.mp3",
+    "subtitle": "N\u00e5r du vil g\u00e5 til n\u00e6ste m\u00e5ned, s\u00e5 klik p\u00e5 den gr\u00f8nne knap."
+  },
+  "speak_b_monopoly_next_month2": {
+    "contenttype": "sound",
+    "content": "dk_maanedskift_2.mp3",
+    "subtitle": "Er du klar til n\u00e6ste m\u00e5ned? S\u00e5 klik p\u00e5 den gr\u00f8nne knap."
+  },
+  "speak_b_monopoly_rollOver_bank": {
+    "contenttype": "sound",
+    "content": "dk_diverse_speaks_1.mp3",
+    "subtitle": "Det her er banken. Her kan du se, hvor mange penge familien har lige nu."
+  },
+  "speak_b_monopoly_saveUpMoney_gotMoney": {
+    "contenttype": "sound",
+    "content": "dk_visning_af_opsparing_1_0.mp3",
+    "subtitle": "Hvis der er penge i overskud, er det en god id\u00e9 at spare nogle af dem op nu."
+  },
+  "speak_b_monopoly_saveUpMoney_noMoney": {
+    "contenttype": "sound",
+    "content": "dk_visning_af_opsparing_2.mp3",
+    "subtitle": "Der er ikke nogle penge. Derfor kan du ikke spare op lige nu."
+  },
+  "speak_b_monopoly_summerHoliday_helpTxt": {
+    "contenttype": "sound",
+    "content": "dk_sommerferie.mp3",
+    "subtitle": "Nu skal familien rejse p\u00e5 sommerferie! Hvor synes du, at rejsen skal g\u00e5 til? Klik p\u00e5 den gr\u00f8nne knap p\u00e5 det sted, hvor du vil hen. Husk at du skal have sparet nok penge op til rejsen."
+  },
+  "speak_b_monopoly_summerHoliday_moveOn": {
+    "contenttype": "sound",
+    "content": "dk_diverse_speaks_5.mp3",
+    "subtitle": "S\u00e5 er sommerferien slut. Hvordan klarede du dig? Klik p\u00e5 den gr\u00f8nne knap for at forts\u00e6tte spillet."
+  },
+  "speak_b_monopoly_toolbar_point": {
+    "contenttype": "sound",
+    "content": "dk_roll_over_speak_paa_point.mp3",
+    "subtitle": "Det her er dine point. Pointene f\u00e5r du for hj\u00e6lpe familien med at betale for de ting, der sker i l\u00f8bet af \u00e5ret og for at s\u00f8rge for familiens k\u00e6ledyr og transportmiddel."
+  },
+  "speak_b_monopoly_toolbar_savings": {
+    "contenttype": "sound",
+    "content": "dk_revideret_speak_til_roll_over_paa_sparegrisen.mp3",
+    "subtitle": "Det her er sparegrisen. Her kan du se, hvor mange penge familien har f\u00e5et sparet op til sommerferie og til fest."
+  },
+  "speak_b_monopoly_velkomst_og_forklaring": {
+    "contenttype": "sound",
+    "content": "dk_velkomst_og_forklaring.mp3",
+    "subtitle": "Velkommen til Familiespillet! Her skal du hj\u00e6lpe en familie med at betale for de ting, der vil ske i l\u00f8bet af \u00e5ret. Du skal ogs\u00e5 s\u00f8rge for, at give familiens k\u00e6ledyr mad og du skal vaske og passe p\u00e5 familiens transportmiddel, s\u00e5 de altid kan komme rundt og bes\u00f8ge familie og venner. Du f\u00e5r point for begge dele, hvis du klarer det godt! Men husk, at det er ogs\u00e5 vigtigt at spare penge op, s\u00e5 familien har r\u00e5d til at komme p\u00e5 en god sommerferie og til at holde en stor fest, n\u00e5r \u00e5ret er slut. Klik p\u00e5 den gr\u00f8nne knap for at g\u00e5 i gang."
+  },
+  "speak_b_monopoly_velkomst_og_forklaring_hentSpil": {
+    "contenttype": "sound",
+    "content": "dk_velkomst_og_forklaring-savedGame.mp3",
+    "subtitle": "Velkommen til Familiespillet! Her skal du hj\u00e6lpe en familie med at betale for de ting, der vil ske i l\u00f8bet af \u00e5ret. Du skal ogs\u00e5 s\u00f8rge for, at give familiens k\u00e6ledyr mad og du skal vaske og passe p\u00e5 familiens transportmiddel, s\u00e5 de altid kan komme rundt og bes\u00f8ge familie og venner. Du f\u00e5r point for begge dele, hvis du klarer det godt! Men husk, at det er ogs\u00e5 vigtigt at spare penge op, s\u00e5 familien har r\u00e5d til at komme p\u00e5 en god sommerferie og til at holde en stor fest, n\u00e5r \u00e5ret er slut. Hvis du har gemt et spil, kan du hente det nu. Ellers kan du ogs\u00e5 starte et helt nyt spil!"
+  },
+  "monopoly_bank_change_items": {
+    "contenttype": "label",
+    "content": "Skift bolig, k\u00e6ledyr eller transportmiddel",
+    "subtitle": ""
+  },
+  "monopoly_bank_equals": {
+    "contenttype": "label",
+    "content": "I alt",
+    "subtitle": ""
+  },
+  "monopoly_bank_fee": {
+    "contenttype": "label",
+    "content": "Flytning",
+    "subtitle": ""
+  },
+  "monopoly_bank_header1": {
+    "contenttype": "label",
+    "content": "Denne m\u00e5neds h\u00e6ndelser",
+    "subtitle": ""
+  },
+  "monopoly_bank_header2": {
+    "contenttype": "label",
+    "content": "N\u00e6ste m\u00e5neds l\u00f8n og udgifter",
+    "subtitle": ""
+  },
+  "monopoly_bank_house": {
+    "contenttype": "label",
+    "content": "Bolig",
+    "subtitle": ""
+  },
+  "monopoly_bank_income": {
+    "contenttype": "label",
+    "content": "L\u00f8n",
+    "subtitle": ""
+  },
+  "monopoly_bank_mechanic": {
+    "contenttype": "label",
+    "content": "MEKANIKER Du vedligeholdte ikke transportmidlet",
+    "subtitle": ""
+  },
+  "monopoly_bank_pet": {
+    "contenttype": "label",
+    "content": "K\u00e6ledyr",
+    "subtitle": ""
+  },
+  "monopoly_bank_petdoctor": {
+    "contenttype": "label",
+    "content": " Dyrl\u00e6ge  Du glemte at give k\u00e6ledyret mad",
+    "subtitle": ""
+  },
+  "monopoly_bank_savings": {
+    "contenttype": "label",
+    "content": "SPAR OP TIL SOMMERFERIE OG NYT\u00c5R!",
+    "subtitle": ""
+  },
+  "monopoly_bank_transaction": {
+    "contenttype": "label",
+    "content": "Overf\u00f8rsel",
+    "subtitle": ""
+  },
+  "monopoly_bank_transaction_mechanic": {
+    "contenttype": "label",
+    "content": "Mekaniker",
+    "subtitle": ""
+  },
+  "monopoly_bank_transaction_petdoctor": {
+    "contenttype": "label",
+    "content": "Dyrl\u00e6ge",
+    "subtitle": ""
+  },
+  "monopoly_bank_transport": {
+    "contenttype": "label",
+    "content": "Transportmiddel",
+    "subtitle": ""
+  },
+  "monopoly_highscore_on_highscore": {
+    "contenttype": "label",
+    "content": "p\u00e5 highscorelisten...",
+    "subtitle": ""
+  },
+  "monopoly_highscore_play_again": {
+    "contenttype": "label",
+    "content": "Spil igen",
+    "subtitle": ""
+  },
+  "monopoly_highscore_small_header": {
+    "contenttype": "label",
+    "content": "Din score =",
+    "subtitle": ""
+  },
+  "monopoly_highscore_veiw_highscore": {
+    "contenttype": "label",
+    "content": "Se highscorelisten!",
+    "subtitle": ""
+  },
+  "monopoly_highscore_you_are": {
+    "contenttype": "label",
+    "content": "Du ligger nummer ",
+    "subtitle": ""
+  },
+  "monopoly_highscore_your_best_score": {
+    "contenttype": "label",
+    "content": "Din bedste score =",
+    "subtitle": ""
+  },
+  "monopoly_highscore_your_score": {
+    "contenttype": "label",
+    "content": "Din Score =",
+    "subtitle": ""
+  },
+  "monopoly_intro_new_game": {
+    "contenttype": "label",
+    "content": "Nyt spil",
+    "subtitle": ""
+  },
+  "monopoly_intro_saved_game": {
+    "contenttype": "label",
+    "content": "Gemt spil",
+    "subtitle": ""
+  },
+  "monopoly_occ_status_eco_neg_balance": {
+    "contenttype": "label",
+    "content": "Du havde ikke nok penge p\u00e5 din konto",
+    "subtitle": ""
+  },
+  "monopoly_occ_status_eco_pos_balance": {
+    "contenttype": "label",
+    "content": "Du havde nok penge p\u00e5 din konto",
+    "subtitle": ""
+  },
+  "monopoly_occ_status_label": {
+    "contenttype": "label",
+    "content": "Samlet pris",
+    "subtitle": ""
+  },
+  "monopoly_print_score": {
+    "contenttype": "label",
+    "content": "har opn\u00e5et en score p\u00e5:",
+    "subtitle": ""
+  },
+  "monopoly_save_game": {
+    "contenttype": "label",
+    "content": "Vil du gemme spillet?",
+    "subtitle": ""
+  },
+  "monopoly_startup_enter_name": {
+    "contenttype": "label",
+    "content": "skriv navn",
+    "subtitle": ""
+  },
+  "monopoly_startup_family_label_adults": {
+    "contenttype": "label",
+    "content": "VOKSNE (Max 2)",
+    "subtitle": ""
+  },
+  "monopoly_startup_family_label_boys": {
+    "contenttype": "label",
+    "content": "Drenge",
+    "subtitle": ""
+  },
+  "monopoly_startup_family_label_children": {
+    "contenttype": "label",
+    "content": "B\u00f8RN (Max 6)",
+    "subtitle": ""
+  },
+  "monopoly_startup_family_label_girls": {
+    "contenttype": "label",
+    "content": "Piger",
+    "subtitle": ""
+  },
+  "monopoly_startup_family_label_men": {
+    "contenttype": "label",
+    "content": "M\u00e6nd",
+    "subtitle": ""
+  },
+  "monopoly_startup_family_label_woman": {
+    "contenttype": "label",
+    "content": "Kvinder",
+    "subtitle": ""
+  },
+  "monopoly_startup_items_label_appartment": {
+    "contenttype": "label",
+    "content": "Lejlighed",
+    "subtitle": ""
+  },
+  "monopoly_startup_items_label_castle": {
+    "contenttype": "label",
+    "content": "Slot",
+    "subtitle": ""
+  },
+  "monopoly_startup_items_label_city": {
+    "contenttype": "label",
+    "content": "By",
+    "subtitle": ""
+  },
+  "monopoly_startup_items_label_color": {
+    "contenttype": "label",
+    "content": "Farve",
+    "subtitle": ""
+  },
+  "monopoly_startup_items_label_country": {
+    "contenttype": "label",
+    "content": "Landet",
+    "subtitle": ""
+  },
+  "monopoly_startup_items_label_expences": {
+    "contenttype": "label",
+    "content": "UDGIFTER",
+    "subtitle": ""
+  },
+  "monopoly_startup_items_label_farm": {
+    "contenttype": "label",
+    "content": "Bondeg\u00e5rd",
+    "subtitle": ""
+  },
+  "monopoly_startup_items_label_fee": {
+    "contenttype": "label",
+    "content": "GEBYR",
+    "subtitle": ""
+  },
+  "monopoly_startup_items_label_house": {
+    "contenttype": "label",
+    "content": "Hus",
+    "subtitle": ""
+  },
+  "monopoly_startup_items_label_income": {
+    "contenttype": "label",
+    "content": "L\u00f8N",
+    "subtitle": ""
+  },
+  "monopoly_startup_items_label_name": {
+    "contenttype": "label",
+    "content": "NAVN",
+    "subtitle": ""
+  },
+  "monopoly_startup_items_label_pet": {
+    "contenttype": "label",
+    "content": "K\u00e6LEDYR",
+    "subtitle": ""
+  },
+  "monopoly_startup_items_label_place": {
+    "contenttype": "label",
+    "content": "STED",
+    "subtitle": ""
+  },
+  "monopoly_startup_items_label_residence": {
+    "contenttype": "label",
+    "content": "BOLIG",
+    "subtitle": ""
+  },
+  "monopoly_startup_items_label_revenue": {
+    "contenttype": "label",
+    "content": "TILBAGE",
+    "subtitle": ""
+  },
+  "monopoly_startup_items_label_rowhouse": {
+    "contenttype": "label",
+    "content": "R\u00e6kkehus",
+    "subtitle": ""
+  },
+  "monopoly_startup_items_label_transport": {
+    "contenttype": "label",
+    "content": "TRANSPORTmiddel",
+    "subtitle": ""
+  },
+  "monopoly_startup_toolbar_family": {
+    "contenttype": "label",
+    "content": "LAV EN FAMILIE Din familie skal minimum best\u00e5 af \u00e9n voksen og \u00e9t barn. N\u00e5r du har valgt en figur, skal du give den et navn.",
+    "subtitle": ""
+  },
+  "monopoly_startup_toolbar_items": {
+    "contenttype": "label",
+    "content": "FAMILIENS UDGIFTER Her skal du v\u00e6lge, hvor din familie skal bo, hvordan de skal komme rundt til familie og venner og hvilket k\u00e6ledyr de skal have. Ovre til h\u00f8jre kan du se, hvor meget familien tjener, og hvad de forskellige ting koster.",
+    "subtitle": ""
+  },
+  "monopoly_summer_africa": {
+    "contenttype": "label",
+    "content": "Afrika",
+    "subtitle": ""
+  },
+  "monopoly_summer_antarctic": {
+    "contenttype": "label",
+    "content": "Antarktisk",
+    "subtitle": ""
+  },
+  "monopoly_summer_asia": {
+    "contenttype": "label",
+    "content": "Asien",
+    "subtitle": ""
+  },
+  "monopoly_summer_australia": {
+    "contenttype": "label",
+    "content": "Australien",
+    "subtitle": ""
+  },
+  "monopoly_summer_europe": {
+    "contenttype": "label",
+    "content": "Europa",
+    "subtitle": ""
+  },
+  "monopoly_summer_header": {
+    "contenttype": "label",
+    "content": "Hvor vil du gerne rejse hen?",
+    "subtitle": ""
+  },
+  "monopoly_summer_no_more_answers": {
+    "contenttype": "label",
+    "content": "Der er ikke flere sp\u00f8rgsm\u00e5l",
+    "subtitle": ""
+  },
+  "monopoly_summer_north_america": {
+    "contenttype": "label",
+    "content": "Nordamerika",
+    "subtitle": ""
+  },
+  "monopoly_summer_right_answer": {
+    "contenttype": "label",
+    "content": "Rigtigt svar",
+    "subtitle": ""
+  },
+  "monopoly_summer_south_america": {
+    "contenttype": "label",
+    "content": "Sydamerika",
+    "subtitle": ""
+  },
+  "monopoly_summer_wrong_answer": {
+    "contenttype": "label",
+    "content": "Forkert svar",
+    "subtitle": ""
+  },
+  "q1": {
+    "contenttype": "question",
+    "content": "I hvilket land kan man se Eiffelt\u00e5rnet?",
+    "subtitle": "europe",
+    "option1": "Frankrig",
+    "option2": "Tyskland",
+    "option3": "Danmark",
+    "correctoption": "1",
+    "correcttext": "Eiffelt\u00e5rnet ligger Frankrig. Faktisk ligger det i Paris, som er hovedstanden i Frankrig."
+  },
+  "q2": {
+    "contenttype": "question",
+    "content": "Hvilket land ligger ikke i Europa?",
+    "subtitle": "europe",
+    "option1": "Japan",
+    "option2": "\u00f8strig",
+    "option3": "Finland",
+    "correctoption": "1",
+    "correcttext": "Japan ligger ikke i Europa. Det ligger i Asien."
+  },
+  "q3": {
+    "contenttype": "question",
+    "content": "Hvad kalder man de penge, som mange af landene i Europa har?",
+    "subtitle": "europe",
+    "option1": "Loggi",
+    "option2": "Mark",
+    "option3": "Euro",
+    "correctoption": "3",
+    "correcttext": "Mange af landene i Europa har Euro. Det har de blandt andet i Tyskland, Spanien, Holland og Gr\u00e6kenland."
+  },
+  "q4": {
+    "contenttype": "question",
+    "content": "Hvilket dyr lever ikke i Europa?",
+    "subtitle": "europe",
+    "option1": "K\u00f8er",
+    "option2": "Elefanter",
+    "option3": "Bj\u00f8rne",
+    "correctoption": "2",
+    "correcttext": "Elefanter lever ikke i Europa. De lever kun i Afrika og i Indien."
+  },
+  "q5": {
+    "contenttype": "question",
+    "content": "Hvis du st\u00e5r i byen Rom, hvilket land er du s\u00e5 i?",
+    "subtitle": "northamerica",
+    "option1": "Belgien",
+    "option2": "Spanien",
+    "option3": "Italien",
+    "correctoption": "3",
+    "correcttext": "Hvis du st\u00e5r i Rom, er du i Italien. Rom er nemlig hovedstaden i Italien."
+  },
+  "q6": {
+    "contenttype": "question",
+    "content": "Hvad hedder de penge, som mange af de store lande i Nordamerika har?",
+    "subtitle": "northamerica",
+    "option1": "Euro",
+    "option2": "Dollar",
+    "option3": "Mark",
+    "correctoption": "2",
+    "correcttext": "De hedder Dollars. Dem har de blandt andet i USA og Canada."
+  },
+  "q7": {
+    "contenttype": "question",
+    "content": "Hvilket land stammer musikken reggae fra?",
+    "subtitle": "northamerica",
+    "option1": "Cuba",
+    "option2": "USA",
+    "option3": "Jamaica",
+    "correctoption": "3",
+    "correcttext": "Reggae stammer fra landet Jamaica."
+  },
+  "q8": {
+    "contenttype": "question",
+    "content": "Hvilket land ligger ikke i Nordamerika?",
+    "subtitle": "northamerica",
+    "option1": "Argentina",
+    "option2": "Canada",
+    "option3": "Mexico",
+    "correctoption": "1",
+    "correcttext": "Argentina ligger ikke i Nordamerika. Det ligger i Sydamerika."
+  },
+  "q9": {
+    "contenttype": "question",
+    "content": "Hvad hedder pr\u00e6sidenten i USA?",
+    "subtitle": "northamerica",
+    "option1": "George Bush",
+    "option2": "Bill Clinton",
+    "option3": "Donald Trump",
+    "correctoption": "3",
+    "correcttext": "Pr\u00e6sidenten i USA hedder Donald Trump. De andre var pr\u00e6sidenter f\u00f8r ham."
+  },
+  "q10": {
+    "contenttype": "question",
+    "content": "Hvilket dyr lever ikke i Nordamerika?",
+    "subtitle": "northamerica",
+    "option1": "K\u00e6nguro",
+    "option2": "F\u00e5r",
+    "option3": "Hest",
+    "correctoption": "1",
+    "correcttext": "K\u00e6nguroer lever ikke i Nordamerika. De lever i Australien."
+  },
+  "q11": {
+    "contenttype": "question",
+    "content": "Hvad hedder den st\u00f8rste og mest kendte flod i Syd Amerika?",
+    "subtitle": "southamerica",
+    "option1": "Amazon floden",
+    "option2": "Nilen",
+    "option3": "Storfloden",
+    "correctoption": "1",
+    "correcttext": "Den st\u00f8rste og mest kendte flod hedder Amazonfloden. Den l\u00f8ber hovedsageligt igennem Brasilien."
+  },
+  "q12": {
+    "contenttype": "question",
+    "content": "I hvilket land danser man meget samba?",
+    "subtitle": "southamerica",
+    "option1": "Chile",
+    "option2": "Argentina",
+    "option3": "Brasilien",
+    "correctoption": "3",
+    "correcttext": "Det g\u00f8r man i Brasilien. Der er hvert \u00e5r et karneval i byen Rio de Janeiro, hvor de danser meget samba!"
+  },
+  "q13": {
+    "contenttype": "question",
+    "content": "Hvilket land ligger ikke i Sydamerika?",
+    "subtitle": "southamerica",
+    "option1": "Peru",
+    "option2": "Etiopien",
+    "option3": "Uruguay",
+    "correctoption": "2",
+    "correcttext": "Etiopien ligger ikke i Sydamerika. Det ligger i Afrika."
+  },
+  "q14": {
+    "contenttype": "question",
+    "content": "Hvilket dyr, som er kendt for at spytte, lever i Sydamerika?",
+    "subtitle": "northamerica",
+    "option1": "L\u00f8ve",
+    "option2": "Lama",
+    "option3": "Isbj\u00f8rne",
+    "correctoption": "2",
+    "correcttext": "Lamaer lever i Sydamerika. De er kendt for at spytte, n\u00e5r de f\u00f8ler sig truet."
+  },
+  "q15": {
+    "contenttype": "question",
+    "content": "Hvilket gammelt folkef\u00e6rd stammer fra Sydamerika?",
+    "subtitle": "southamerica",
+    "option1": "Munke",
+    "option2": "Beduiner",
+    "option3": "Inkaer",
+    "correctoption": "3",
+    "correcttext": "Inkaerne stammer fra Sydamerika. De var engang et af verdens st\u00f8rste samfund."
+  },
+  "q16": {
+    "contenttype": "question",
+    "content": "Der ligger en meget stor \u00f8rken i Afrika. Hvad kalder man den?",
+    "subtitle": "africa",
+    "option1": "Sarah",
+    "option2": "Sahara",
+    "option3": "Ohara",
+    "correctoption": "2",
+    "correcttext": "\u00f8rkenen hedder Sahara, og det er verdens st\u00f8rste \u00f8rken. Der kan blive over 55 grader varmt!"
+  },
+  "q17": {
+    "contenttype": "question",
+    "content": "Hvilken stor og meget lang flod ligger i Afrika?",
+    "subtitle": "africa",
+    "option1": "Mississippi",
+    "option2": "Amazon floden",
+    "option3": "Nilen",
+    "correctoption": "3",
+    "correcttext": "Nilen ligger i Afrika. Den er meget lang, nemlig over 6.500 kilometer."
+  },
+  "q18": {
+    "contenttype": "question",
+    "content": "Hvilket dyr lever i Afrika?",
+    "subtitle": "africa",
+    "option1": "Elefant",
+    "option2": "Tiger",
+    "option3": "Lama",
+    "correctoption": "1",
+    "correcttext": "Elefanten lever i Afrika - men ogs\u00e5 i Indien. Forskellen p\u00e5 dem er, at de afrikanske elefanter har meget store \u00f8rer, og de indiske har meget sm\u00e5 \u00f8rer."
+  },
+  "q19": {
+    "contenttype": "question",
+    "content": "Hvilket land ligger ikke i Afrika?",
+    "subtitle": "africa",
+    "option1": "Uruguay",
+    "option2": "Madagaskar",
+    "option3": "Ghana",
+    "correctoption": "1",
+    "correcttext": "Uruguay ligger ikke i Afrika. Det ligger i Syd Amerika."
+  },
+  "q20": {
+    "contenttype": "question",
+    "content": "Hvad hedder det h\u00f8jeste bjerg i Afrika?",
+    "subtitle": "africa",
+    "option1": "Alperne",
+    "option2": "Kilimanjaro",
+    "option3": "Mount Everest",
+    "correctoption": "2",
+    "correcttext": "Kilimanjaro er det h\u00f8jeste bjerg i Afrika. Det er over 5.800 meter!"
+  },
+  "q21": {
+    "contenttype": "question",
+    "content": "Hvad kalder man de indf\u00f8dte i Australien?",
+    "subtitle": "australia",
+    "option1": "Indianere",
+    "option2": "Aboriginies",
+    "option3": "Beduiner",
+    "correctoption": "2",
+    "correcttext": "Aboriginies er Australiens indf\u00f8dte befolkning. De har levet der i over 30.000 \u00e5r!"
+  },
+  "q22": {
+    "contenttype": "question",
+    "content": "Hvilket gammelt v\u00e5ben kommer fra Australien?",
+    "subtitle": "australia",
+    "option1": "Pistol",
+    "option2": "Sabel",
+    "option3": "Boomerang",
+    "correctoption": "3",
+    "correcttext": "Boomerangen kommer fra Australien. Den kommer tilbage, n\u00e5r man kaster den."
+  },
+  "q23": {
+    "contenttype": "question",
+    "content": "I Australien ligger verdens st\u00f8rste sten. Hvad hedder den?",
+    "subtitle": "australia",
+    "option1": "Flintstone",
+    "option2": "Ayers Rock",
+    "option3": "Hard Rock",
+    "correctoption": "2",
+    "correcttext": "Verdens st\u00f8rste sten hedder Ayers Rock. Man kan genkende den p\u00e5 sin r\u00f8de farve."
+  },
+  "q24": {
+    "contenttype": "question",
+    "content": "Hvilket instrument kommer fra Australien?",
+    "subtitle": "northamerica",
+    "option1": "Digeridoo",
+    "option2": "Trommer",
+    "option3": "Tuba",
+    "correctoption": "1",
+    "correcttext": "Digeridooen kommer fra Australien. Det er n\u00e6rmest et langt r\u00f8r af tr\u00e6, og siger en helt specielt lyd!"
+  },
+  "q25": {
+    "contenttype": "question",
+    "content": "Koalabj\u00f8rnen lever i Australien. Men hvad spiser den?",
+    "subtitle": "australia",
+    "option1": "Korn",
+    "option2": "Andre dyr",
+    "option3": "Eukalyptus blade",
+    "correctoption": "3",
+    "correcttext": "Koalabj\u00f8rnen spiser eukalyptus blade!"
+  },
+  "q26": {
+    "contenttype": "question",
+    "content": "Hvilket sprog taler man ikke i Asien?",
+    "subtitle": "asia",
+    "option1": "Gr\u00e6sk",
+    "option2": "Kinesisk",
+    "option3": "Indisk",
+    "correctoption": "1",
+    "correcttext": "Man taler ikke gr\u00e6sk i Asien. Det g\u00f8r man nemlig i Gr\u00e6kenland."
+  },
+  "q27": {
+    "contenttype": "question",
+    "content": "Hvilket land stammer ris fra?",
+    "subtitle": "asia",
+    "option1": "Indien",
+    "option2": "Filippinerne",
+    "option3": "Kina",
+    "correctoption": "2",
+    "correcttext": "Ris stammer fra Kina, men man spiser det ogs\u00e5 i de andre lande."
+  },
+  "q28": {
+    "contenttype": "question",
+    "content": "Hvilket land ligger ikke i Asien?",
+    "subtitle": "asia",
+    "option1": "Japan",
+    "option2": "Vietnam",
+    "option3": "Peru",
+    "correctoption": "3",
+    "correcttext": "Peru ligger ikke i Asien. Det ligger i Sydamerika."
+  },
+  "q29": {
+    "contenttype": "question",
+    "content": "Hvilket land bor der flest mennesker i?",
+    "subtitle": "asia",
+    "option1": "Vietnam",
+    "option2": "Kina",
+    "option3": "Taiwan",
+    "correctoption": "2",
+    "correcttext": "Det g\u00f8r der i Kina. Faktisk bor der over 1,3 milliard mennesker!"
+  },
+  "q30": {
+    "contenttype": "question",
+    "content": "Hvad hedder hovedstaden i Japan?",
+    "subtitle": "asia",
+    "option1": "Tokyo",
+    "option2": "Beijing",
+    "option3": "Berlin",
+    "correctoption": "1",
+    "correcttext": "Hovedstaden i Japan hedder Tokyo. Beijing ligger i Kina, og Berlin ligger i Tyskland."
+  },
+  "monopoly_occurence_button_show": {
+    "contenttype": "sound",
+    "content": "postoffice_fejl_lyd_3_0.mp3",
+    "subtitle": ""
+  },
+  "monopoly_pointSound_smiley": {
+    "contenttype": "sound",
+    "content": "Ok lyd 2.mp3",
+    "subtitle": ""
+  },
+  "monopoly_select_bigCar": {
+    "contenttype": "sound",
+    "content": "bil horn big car.mp3",
+    "subtitle": ""
+  },
+  "monopoly_select_cat": {
+    "contenttype": "sound",
+    "content": "Kat.mp3",
+    "subtitle": ""
+  },
+  "monopoly_select_cykel": {
+    "contenttype": "sound",
+    "content": "cykel ringeklokke.mp3",
+    "subtitle": ""
+  },
+  "monopoly_select_dog": {
+    "contenttype": "sound",
+    "content": "Hund.mp3",
+    "subtitle": ""
+  },
+  "monopoly_select_fisk": {
+    "contenttype": "sound",
+    "content": "Fisk2.mp3",
+    "subtitle": ""
+  },
+  "monopoly_select_fugl": {
+    "contenttype": "sound",
+    "content": "Fugl.mp3",
+    "subtitle": ""
+  },
+  "monopoly_select_hamster": {
+    "contenttype": "sound",
+    "content": "Hamster.mp3",
+    "subtitle": ""
+  },
+  "monopoly_select_motorCykel": {
+    "contenttype": "sound",
+    "content": "motorcykel horn.mp3",
+    "subtitle": ""
+  },
+  "monopoly_select_smallCar": {
+    "contenttype": "sound",
+    "content": "bil horn small car.mp3",
+    "subtitle": ""
+  },
+  "monopoly_select_spider": {
+    "contenttype": "sound",
+    "content": "Edderkop.mp3",
+    "subtitle": ""
+  },
+  "monopoly_select_van": {
+    "contenttype": "sound",
+    "content": "bil horn small car_0.mp3",
+    "subtitle": ""
+  },
+  "monopoly_startMonth_sound": {
+    "contenttype": "sound",
+    "content": "newMonth.mp3",
+    "subtitle": ""
+  },
+  "monopoly_summerHoliday_musicLoop": {
+    "contenttype": "sound",
+    "content": "summerholiday.mp3",
+    "subtitle": ""
+  },
+  "Arv": {
+    "shortname": "Arv",
+    "contenttype": "event",
+    "month": "random",
+    "eventtext": "Familien arvede pludselig 5 guldm\u00f8nter fra en rig og ukendt onkel i Amerika!",
+    "person": "all",
+    "facteventmoney": "50",
+    "facteventsatisfaction": "",
+    "consequence1title": "",
+    "consequence1text": "",
+    "consequence1money": "",
+    "consequence2title": "",
+    "consequence2text": "",
+    "consequence2money": "",
+    "consequence3title": "",
+    "consequence3text": "",
+    "consequence3money": ""
+  },
+  "B\u00f8de for r\u00f8dt lys": {
+    "shortname": "B\u00f8de for r\u00f8dt lys",
+    "contenttype": "event",
+    "month": "random",
+    "eventtext": "En i familien har f\u00e5et en b\u00f8de p\u00e5 3 guldm\u00f8nter for at k\u00f8re over for r\u00f8dt lys. Det var dumt.",
+    "person": "all",
+    "facteventmoney": "-30",
+    "facteventsatisfaction": "",
+    "consequence1title": "",
+    "consequence1text": "",
+    "consequence1money": "",
+    "consequence2title": "",
+    "consequence2text": "",
+    "consequence2money": "",
+    "consequence3title": "",
+    "consequence3text": "",
+    "consequence3money": ""
+  },
+  "Bold smadrer rude": {
+    "shortname": "Bold smadrer rude",
+    "contenttype": "event",
+    "month": "july",
+    "eventtext": "Familien spiller bold i haven. Bolden rammer et vindue, der smadrer. Hvad vil du g\u00f8re?",
+    "person": "all",
+    "facteventmoney": "",
+    "facteventsatisfaction": "",
+    "consequence1title": "F\u00e5 en glarmester til at s\u00e6tte en ny vinduesrude i til 8 s\u00f8lvm\u00f8nter",
+    "consequence1text": "Glarmesteren skulle ogs\u00e5 have 1 guldm\u00f8nt og 6 s\u00f8lvm\u00f8nter i l\u00f8n og 4 s\u00f8lvm\u00f8nter for at k\u00f8re ud til familien",
+    "consequence1money": "-28",
+    "consequence2title": "K\u00f8be en ny rude til 8 s\u00f8lvm\u00f8nter og selv reparere vinduet",
+    "consequence2text": "Reparationen gik heldigvis fint",
+    "consequence2money": "-8",
+    "consequence3title": "Lade vinduesruden v\u00e6re som den er. Lige nu er det jo sommer og varmt",
+    "consequence3text": "En fugl fl\u00f8j ind gennem den smadrede rude, og der r\u00f8g en fin vase p\u00e5 gulvet. Vasen kostede 1 guldm\u00f8nt",
+    "consequence3money": "-10"
+  },
+  "Ekstra regning": {
+    "shortname": "Ekstra regning",
+    "contenttype": "event",
+    "month": "random",
+    "eventtext": "Familien fik en uventet regning. De skulle derfor betale 4 guldm\u00f8nter med det samme!",
+    "person": "all",
+    "facteventmoney": "-40",
+    "facteventsatisfaction": "",
+    "consequence1title": "",
+    "consequence1text": "",
+    "consequence1money": "",
+    "consequence2title": "",
+    "consequence2text": "",
+    "consequence2money": "",
+    "consequence3title": "",
+    "consequence3text": "",
+    "consequence3money": ""
+  },
+  "En fugl \u00f8del\u00e6gger skorstenen": {
+    "shortname": "En fugl \u00f8del\u00e6gger skorstenen",
+    "contenttype": "event",
+    "month": "december",
+    "eventtext": "En fugl har bygget rede i skorstenen. Desv\u00e6rre g\u00e5r skorstenen i stykker, og 5 sten falder af. Hvad vil du g\u00f8re?",
+    "person": "all",
+    "facteventmoney": "",
+    "facteventsatisfaction": "",
+    "consequence1title": "K\u00f8be et skorstensr\u00f8r af st\u00e5l til 1 guldm\u00f8nt og 2 s\u00f8lvm\u00f8nter og s\u00e6tte det op i stedet",
+    "consequence1text": "Skorstenen blev ikke s\u00e5 p\u00e6n, men det virkede",
+    "consequence1money": "-12",
+    "consequence2title": "K\u00f8be nogle nye mursten og fors\u00f8ge selv at reparere skorstenen",
+    "consequence2text": "Familien k\u00f8bte 5 sten til 1 s\u00f8lvm\u00f8nter pr. stk. Reparationen gik heldigvis fint",
+    "consequence2money": "-5",
+    "consequence3title": "F\u00e5 en murer til at lave det",
+    "consequence3text": "Mureren skulle have 2 s\u00f8lvm\u00f8nter for hver sten plus en l\u00f8n p\u00e5 1 guldm\u00f8nt og 7 s\u00f8lvm\u00f8nter",
+    "consequence3money": "-27"
+  },
+  "Faldt p\u00e5 sk\u00f8jter": {
+    "shortname": "Faldt p\u00e5 sk\u00f8jter",
+    "contenttype": "event",
+    "month": "january",
+    "eventtext": "<name> var ude for at st\u00e5 p\u00e5 sk\u00f8jter p\u00e5 isen og faldt og slog hovedet. Hvad vil du g\u00f8re?",
+    "person": "all",
+    "facteventmoney": "",
+    "facteventsatisfaction": "",
+    "consequence1title": "Ringe efter en ambulance",
+    "consequence1text": "Ambulancen kom med det samme og k\u00f8rte <name> p\u00e5 sygehuset. Der var heldigvis ikke sket noget alvorligt",
+    "consequence1money": "",
+    "consequence2title": "Give <name> nogle hovedpinepiller",
+    "consequence2text": "Der var ikke flere hovedpinepiller tilbage. Det kostede 7 s\u00f8lvm\u00f8nter at k\u00f8be nogle nye\u00c2\u00a0",
+    "consequence2money": "-7",
+    "consequence3title": "Ringe efter en l\u00e6ge",
+    "consequence3text": "L\u00e6gen sagde, at der ikke var sket noget, men at familien skulle k\u00f8be nogle bestemte hovedpinepiller til 5 s\u00f8lvm\u00f8nter til <name>",
+    "consequence3money": "-5"
+  },
+  "Familief\u00f8dselsdag": {
+    "shortname": "Familief\u00f8dselsdag",
+    "contenttype": "event",
+    "month": "september",
+    "eventtext": "Familien bliver inviteret til en familief\u00f8dselsdag i den anden ende af landet. Hvad vil du g\u00f8re?",
+    "person": "all",
+    "facteventmoney": "",
+    "facteventsatisfaction": "",
+    "consequence1title": "Takke ja til invitationen og k\u00f8be en fin gave til 1 guldm\u00f8nt og 5 s\u00f8lvm\u00f8nter",
+    "consequence1text": "Familien tog toget over til f\u00f8dselsdagen. Turen kostede i alt 1 guldm\u00f8nt",
+    "consequence1money": "-25",
+    "consequence2title": "Melde afbud for at kunne spare de 1 guldm\u00f8nt og 5 s\u00f8lvm\u00f8nter til gaven",
+    "consequence2text": "Familien valgte at g\u00e5 p\u00e5 restaurant om aftenen i stedet for. Det kostede 1 guldm\u00f8nt og 5 s\u00f8lvm\u00f8nter",
+    "consequence2money": "-15",
+    "consequence3title": "Melde afbud, men stadig sende en f\u00f8dselsdaggave til 1 guldm\u00f8nt med posten",
+    "consequence3text": "Posten kostede 3 s\u00f8lvm\u00f8nter",
+    "consequence3money": "-13"
+  },
+  "Fartb\u00f8de": {
+    "shortname": "Fartb\u00f8de",
+    "contenttype": "event",
+    "month": "random",
+    "eventtext": "<name> havde k\u00f8rt for hurtigt, og fik en fartb\u00f8de p\u00e5 4 guldm\u00f8nter. Det var dumt.",
+    "person": "all",
+    "facteventmoney": "-40",
+    "facteventsatisfaction": "",
+    "consequence1title": "",
+    "consequence1text": "",
+    "consequence1money": "",
+    "consequence2title": "",
+    "consequence2text": "",
+    "consequence2money": "",
+    "consequence3title": "",
+    "consequence3text": "",
+    "consequence3money": ""
+  },
+  "Fjernsyn g\u00e5et i stykker": {
+    "shortname": "Fjernsyn g\u00e5et i stykker",
+    "contenttype": "event",
+    "month": "november",
+    "eventtext": "En stol v\u00e6lter pludselig ind i fjernsynet, s\u00e5 det g\u00e5r i stykker. Hvad vil du g\u00f8re?",
+    "person": "all",
+    "facteventmoney": "",
+    "facteventsatisfaction": "",
+    "consequence1title": "Holde op med at se fjernsyn",
+    "consequence1text": "Familien skal ikke l\u00e6ngere betale 1 guldm\u00f8nt i tv-licens",
+    "consequence1money": "10",
+    "consequence2title": "K\u00f8be et andet fjernsyn til 2 guldm\u00f8nter og f\u00e5 det bragt ud",
+    "consequence2text": "Det viste sig, at familien ogs\u00e5 skulle betale 5 s\u00f8lvm\u00f8nter for at f\u00e5 fjernsynet bragt ud",
+    "consequence2money": "-25",
+    "consequence3title": "F\u00e5 fjernsynet repareret for 1 guldm\u00f8nt samt 5 s\u00f8lvm\u00f8nter i transport",
+    "consequence3text": "Det viste sig, at familien ogs\u00e5 skulle betale 5 s\u00f8lvm\u00f8nter for at f\u00e5 fjernsynet sat op",
+    "consequence3money": "-20"
+  },
+  "Fodbold": {
+    "shortname": "Fodbold",
+    "contenttype": "event",
+    "month": "july",
+    "eventtext": "<name> vil gerne spille fodbold, men mangler t\u00f8j og fodboldst\u00f8vler. Hvad vil du g\u00f8re?",
+    "person": "all",
+    "facteventmoney": "",
+    "facteventsatisfaction": "",
+    "consequence1title": "Sige til <name>, at der ikke er r\u00e5d til at spille fodbold lige nu",
+    "consequence1text": "<name> blev ked af det, og familien valgte derfor at g\u00e5 i biografen som tr\u00f8st. Biografbiletterne kostede 4 s\u00f8lvm\u00f8nter",
+    "consequence1money": "-4",
+    "consequence2title": "K\u00f8be nyt t\u00f8j og fodboldst\u00f8vler til <name> til 1 guldm\u00f8nt og 2 s\u00f8lvm\u00f8nter",
+    "consequence2text": "Det kostede ogs\u00e5 1 guldm\u00f8nt og 1 s\u00f8lvm\u00f8nt for at g\u00e5 til fodbold og at komme derud med bussen",
+    "consequence2money": "-23",
+    "consequence3title": "L\u00e5ne noget t\u00f8j og nogle fodboldst\u00f8vler af en kammerat",
+    "consequence3text": "Det kostede 1 guldm\u00f8nt og 1 s\u00f8lvm\u00f8nt for at g\u00e5 til fodbold og at komme derud med bussen",
+    "consequence3money": "-11"
+  },
+  "Forsikringen stiger": {
+    "shortname": "Forsikringen stiger",
+    "contenttype": "event",
+    "month": "june",
+    "eventtext": "Familiens forsikring til deres transportmiddel stiger. Hvad vil du g\u00f8re?",
+    "person": "all",
+    "facteventmoney": "",
+    "facteventsatisfaction": "",
+    "consequence1title": "V\u00e6lge ikke at ville have en forsikring",
+    "consequence1text": "Transportmidlet blev skadet kort efter, og familien m\u00e5tte selv betale for skaden. Den kostede 3 guldm\u00f8nter og 7 s\u00f8lvm\u00f8nter",
+    "consequence1money": "-37",
+    "consequence2title": "V\u00e6lge at f\u00e5 en anden forsikring, som familien har set en reklame for",
+    "consequence2text": "Den anden forsikring viste sig desv\u00e6rre at v\u00e6re 1 guldm\u00f8nt dyrere end den pris, familien havde set i reklamen",
+    "consequence2money": "-10",
+    "consequence3title": "Unders\u00f8ge hvor familien f\u00e5r den bedste forsikring",
+    "consequence3text": "Den bedste forsikring var 6 s\u00f8lvm\u00f8nter dyrere end den gamle. Til geng\u00e6ld betalte forsikringen hele skaden, da transportmidlet kort efter kom til skade",
+    "consequence3money": "-6"
+  },
+  "Fort\u00e6nder kn\u00e6kket": {
+    "shortname": "Fort\u00e6nder kn\u00e6kket",
+    "contenttype": "event",
+    "month": "december",
+    "eventtext": "Familien g\u00e5r en tur i skoven. Desv\u00e6rre glider <name> i sneen og kn\u00e6kker to fort\u00e6nder. Hvad vil du g\u00f8re?",
+    "person": "all",
+    "facteventmoney": "",
+    "facteventsatisfaction": "",
+    "consequence1title": "F\u00e5 <name> til tandl\u00e6gen med det samme, s\u00e5 t\u00e6nderne kan blive repareret. Det koster 1 guldm\u00f8nt og 5 s\u00f8lvm\u00f8nter for hver tand",
+    "consequence1text": "Der var heldigvis julerabat p\u00e5 5 s\u00f8lvm\u00f8nter for hver tand",
+    "consequence1money": "-20",
+    "consequence2title": "F\u00e5 fort\u00e6nderne lavet hos en billigere tandl\u00e6ge i udlandet, hvor det kun koster 1 guldm\u00f8nt for hver tand",
+    "consequence2text": "Rejsen til udlandet kostede 5 s\u00f8lvm\u00f8nter",
+    "consequence2money": "-25",
+    "consequence3title": "F\u00e5 en nem og hurtig tandreparation til 5 s\u00f8lvm\u00f8nter for hver tand",
+    "consequence3text": "Tandreparationen var d\u00e5rlig. Den faldt af i l\u00f8bet af en uge, og det kostede 3 guldm\u00f8nter at f\u00e5 lavet t\u00e6nderne ordentligt hos tandl\u00e6ge",
+    "consequence3money": "-40"
+  },
+  "Frosne vandr\u00f8r": {
+    "shortname": "Frosne vandr\u00f8r",
+    "contenttype": "event",
+    "month": "january",
+    "eventtext": "Vandet i et vandr\u00f8r er frosset til is, fordi det har v\u00e6ret uhyggelig koldt udenfor. Hvad vil du g\u00f8re?",
+    "person": "all",
+    "facteventmoney": "",
+    "facteventsatisfaction": "",
+    "consequence1title": "Ringe til en h\u00e5ndv\u00e6rker med det samme",
+    "consequence1text": "H\u00e5ndv\u00e6rkeren fik varmet vandr\u00f8ret op igen. Det kostede dog 8 s\u00f8lvm\u00f8nter",
+    "consequence1money": "-8",
+    "consequence2title": "Lave et b\u00e5l under vandr\u00f8ret, s\u00e5 isen inde i vandr\u00f8ret kan smelte",
+    "consequence2text": "Der gik desv\u00e6rre ild i et gardin til 1 guldm\u00f8nt og 5 s\u00f8lvm\u00f8nter",
+    "consequence2money": "-15",
+    "consequence3title": "Vikle nogle klude om vandr\u00f8ret for at f\u00e5 det til at t\u00f8 op",
+    "consequence3text": "Det hjalp ikke. Vandr\u00f8ret gik i stykker, og der kom vand over det hele. Det kostede 1 guldm\u00f8nt at f\u00e5 det repareret",
+    "consequence3money": "-10"
+  },
+  "Fugl": {
+    "shortname": "Fugl",
+    "contenttype": "event",
+    "month": "june",
+    "eventtext": "En stor fugl kom ud af kurs og \u00f8delagde 2 vinduesruder. Hvad vil du g\u00f8re?",
+    "person": "all",
+    "facteventmoney": "",
+    "facteventsatisfaction": "",
+    "consequence1title": "S\u00e6tte 2 tr\u00e6plader op i stedet for. Hver tr\u00e6plade koster 5 s\u00f8lvm\u00f8nter",
+    "consequence1text": "Tr\u00e6pladerne var ikke s\u00e5 gode til at holde p\u00e5 varmen. Det kostede familien 2 guldm\u00f8nter ekstra p\u00e5 varmeregningen",
+    "consequence1money": "-20",
+    "consequence2title": "K\u00f8be to nye ruder til 1 guldm\u00f8nt pr. stk.",
+    "consequence2text": "De nye ruder var s\u00e5 meget bedre end de gamle, at de sparede 6 s\u00f8lvm\u00f8nter p\u00e5 varmeregningen",
+    "consequence2money": "-14",
+    "consequence3title": "Fjerne ruderne helt, s\u00e5 fuglene kan flyve igennem",
+    "consequence3text": "Det kostede 3 guldm\u00f8nter ekstra i varme",
+    "consequence3money": "-30"
+  },
+  "G\u00e6st \u00f8delagde dyrt glas": {
+    "shortname": "G\u00e6st \u00f8delagde dyrt glas",
+    "contenttype": "event",
+    "month": "october",
+    "eventtext": "En af familiens g\u00e6ster kom til at sl\u00e5 et dyrt glas i stykker, fordi hun faldt over noget leget\u00f8j, der l\u00e5 p\u00e5 gulvet. Hvad vil du g\u00f8re?",
+    "person": "all",
+    "facteventmoney": "",
+    "facteventsatisfaction": "",
+    "consequence1title": "Smide g\u00e6sten ud",
+    "consequence1text": "G\u00e6sten blev s\u00e5 ked af det, at hun kom til at tabe et glas mere p\u00e5 gulvet. De to nye glas kostede i alt 2 guldm\u00f8nter og 2 s\u00f8lvm\u00f8nter",
+    "consequence1money": "-22",
+    "consequence2title": "Bede g\u00e6sten om at k\u00f8be et nyt glas",
+    "consequence2text": "G\u00e6sten lovede, at hun ville k\u00f8be et nyt glas til familien",
+    "consequence2money": "0",
+    "consequence3title": "Sige skidt med det, fordi familien heldigvis har masser af glas",
+    "consequence3text": "Familien klarede sig fint uden det smadrede glas",
+    "consequence3money": "0"
+  },
+  "Glemt at slukke for vandhanen": {
+    "shortname": "Glemt at slukke for vandhanen",
+    "contenttype": "event",
+    "month": "november",
+    "eventtext": "En i familien har glemt at slukke for vandhanen p\u00e5 badev\u00e6relset. Derfor er der vand p\u00e5 hele badev\u00e6relsesgulvet. Hvad vil du g\u00f8re?",
+    "person": "all",
+    "facteventmoney": "",
+    "facteventsatisfaction": "",
+    "consequence1title": "\u00c3\u2026bne d\u00f8ren til badev\u00e6relset, s\u00e5 vandet kan l\u00f8be ud",
+    "consequence1text": "Vandet l\u00f8b ud p\u00e5 et dyrt gulvt\u00e6ppe, der derfor m\u00e5tte sendes til rensning. Det kostede 4 guldm\u00f8nter",
+    "consequence1money": "-40",
+    "consequence2title": "Ringe til en blikkenslager",
+    "consequence2text": "Blikkenslageren var forsinket. Der n\u00e5ede at l\u00f8be 1000 liter vand ud til en pris p\u00e5 1 guldm\u00f8nt og 5 s\u00f8lvm\u00f8nter. Blikkenslageren skulle desuden have 8 s\u00f8lvm\u00f8nter for at lukke for vandet",
+    "consequence2money": "-23",
+    "consequence3title": "Slukke for vandhanen",
+    "consequence3text": "For at slukke vandhanen skulle badev\u00e6relsesd\u00f8ren \u00e5bnes. Vandet l\u00f8b ud p\u00e5 tr\u00e6gulvet, og familien m\u00e5tte leje en t\u00f8rremaskine til 2 guldm\u00f8nter, s\u00e5 gulvet ikke blev \u00f8delagt",
+    "consequence3money": "-40"
+  },
+  "Glemt biblioteksbog": {
+    "shortname": "Glemt biblioteksbog",
+    "contenttype": "event",
+    "month": "november",
+    "eventtext": "<name> har glemt at aflevere en bog til biblioteket. Biblioteksbogen har ligget p\u00e5 v\u00e6relset i mange m\u00e5neder! Hvad vil du g\u00f8re?",
+    "person": "all",
+    "facteventmoney": "",
+    "facteventsatisfaction": "",
+    "consequence1title": "Lade som ingenting. Det dukker vel nok op",
+    "consequence1text": "Familien modtog flere rykkere fra biblioteket og en b\u00f8de p\u00e5 i alt 1 guldm\u00f8nt og 2 s\u00f8lvm\u00f8nter",
+    "consequence1money": "-12",
+    "consequence2title": "F\u00e5 afleveret bogen i en fart, selvom det stadig koster et rykkergebyr",
+    "consequence2text": "Rykkergebyret viste sig at koste 5 s\u00f8lvm\u00f8nter",
+    "consequence2money": "-5",
+    "consequence3title": "K\u00f8be biblioteksbogen af biblioteket og lade <name> beholde den",
+    "consequence3text": "Bogen kostede 1 guldm\u00f8nt og 5 s\u00f8lvm\u00f8nter",
+    "consequence3money": "-15"
+  },
+  "Glemte n\u00f8gler": {
+    "shortname": "Glemte n\u00f8gler",
+    "contenttype": "event",
+    "month": "march",
+    "eventtext": "<name> har glemt sine n\u00f8gler. Hvad vil du g\u00f8re?",
+    "person": "all",
+    "facteventmoney": "",
+    "facteventsatisfaction": "",
+    "consequence1title": "Sl\u00e5 et vindue i stykker, s\u00e5 <name> kan kravle ind",
+    "consequence1text": "<name> fandt det mindste vindue og kom ind, men det kostede 2 guldm\u00f8nter og 4 s\u00f8lvm\u00f8nter at f\u00e5 en ny rude",
+    "consequence1money": "-24",
+    "consequence2title": "Ringe efter l\u00e5sesmeden, s\u00e5 han kunne komme og l\u00e5se d\u00f8ren op",
+    "consequence2text": "Det tog lang tid for l\u00e5sesmeden at f\u00e5 l\u00e5sen op. L\u00e5sesmeden skulle betales 1 guldm\u00f8nt og 2 s\u00f8lvm\u00f8nter i l\u00f8n og 3 s\u00f8lvm\u00f8nter i transport",
+    "consequence2money": "-15",
+    "consequence3title": "Vente til der kommer nogle hjem",
+    "consequence3text": "Der kom nogle hjem kort tid efter, s\u00e5 <name> kom hurtigt ind",
+    "consequence3money": "0"
+  },
+  "Havem\u00f8bler frem": {
+    "shortname": "Havem\u00f8bler frem",
+    "contenttype": "event",
+    "month": "april",
+    "eventtext": "Havem\u00f8blerne skal stilles frem. Familien opdager, at nogle af br\u00e6dderne er r\u00e5dnet. Hvad vil du g\u00f8re?",
+    "person": "all",
+    "facteventmoney": "",
+    "facteventsatisfaction": "",
+    "consequence1title": "Smide alle havem\u00f8blerne ud og k\u00f8be nogle nye, der er lige s\u00e5 gode",
+    "consequence1text": "De nye havem\u00f8bler kostede 2 guldm\u00f8nter og 2 s\u00f8lvm\u00f8nter",
+    "consequence1money": "-22",
+    "consequence2title": "K\u00f8be nogle billigere havem\u00f8bler, der dog ikke er s\u00e5 stabile",
+    "consequence2text": "De nye, billige havem\u00f8bler kostede 1 guldm\u00f8nt og 1 s\u00f8lvm\u00f8nt",
+    "consequence2money": "-11",
+    "consequence3title": "K\u00f8be nye br\u00e6dder og selv reparere havem\u00f8blerne",
+    "consequence3text": "De nye br\u00e6dder kostede 6 s\u00f8lvm\u00f8nter, og s\u00f8m og skruer kostede 3 s\u00f8lvm\u00f8nter",
+    "consequence3money": "-9"
+  },
+  "Kabel tv": {
+    "shortname": "Kabel tv",
+    "contenttype": "event",
+    "month": "march",
+    "eventtext": "Familien vil gerne have kabel-tv, s\u00e5 de kan se mange forskellige tv-kanaler. Hvad vil du g\u00f8re?",
+    "person": "all",
+    "facteventmoney": "",
+    "facteventsatisfaction": "",
+    "consequence1title": "K\u00f8be den mindste kabel-tv pakke, der ikke kan vise s\u00e5 mange kanaler. Til geng\u00e6ld koster den kun 5 s\u00f8lvm\u00f8nter",
+    "consequence1text": "Familien blev glade for de nye tv-kanaler",
+    "consequence1money": "-5",
+    "consequence2title": "K\u00f8be den allerst\u00f8rste kabel-tv pakke, der kan vise flest kanaler. Den koster 2 guldm\u00f8nter",
+    "consequence2text": "Familien blev glade for flere af kanalerne, men der var ogs\u00e5 rigtig mange af kanalerne, som de aldrig s\u00e5",
+    "consequence2money": "-20",
+    "consequence3title": "K\u00f8be en mellem kabel-tv pakke med tv-kanaler for alle i familien til 1 guldm\u00f8nt og 3 s\u00f8lvm\u00f8nter",
+    "consequence3text": "Familien blev glade for de nye kanaler",
+    "consequence3money": "-13"
+  },
+  "K\u00e6ledyr har f\u00e5et allergi": {
+    "shortname": "K\u00e6ledyr har f\u00e5et allergi",
+    "contenttype": "event",
+    "month": "june",
+    "eventtext": "Familiens k\u00e6ledyr har f\u00e5et allergi og skal derfor have noget s\u00e6rligt dyrt mad. Hvad vil du g\u00f8re?",
+    "person": "all",
+    "facteventmoney": "",
+    "facteventsatisfaction": "",
+    "consequence1title": "F\u00e5 aflivet k\u00e6ledyret hos dyrl\u00e6gen, selvom det er trist",
+    "consequence1text": "Dyrl\u00e6gen gav familien en regning p\u00e5 2 guldm\u00f8nter og 3 s\u00f8lvm\u00f8nter",
+    "consequence1money": "-23",
+    "consequence2title": "K\u00f8be den dyre mad henne i dyreforretningen. Maden koster 1 guldm\u00f8nt og 2 s\u00f8lvm\u00f8nter",
+    "consequence2text": "Det hjalp familiens k\u00e6ledyr! Dyret blev hurtigt rask igen",
+    "consequence2money": "-12",
+    "consequence3title": "S\u00f8rge for at k\u00e6ledyret ikke f\u00e5r det at spise, som den ikke kan t\u00e5le",
+    "consequence3text": "Det viste sig, at maden blev billigere p\u00e5 den m\u00e5de. Familien sparede derfor 1 guldm\u00f8nt og 7 s\u00f8lvm\u00f8nter",
+    "consequence3money": "17"
+  },
+  "Klaverspil": {
+    "shortname": "Klaverspil",
+    "contenttype": "event",
+    "month": "october",
+    "eventtext": "<name> vil gerne g\u00e5 i musikskole og l\u00e6re at spille klaver. Hvad vil du g\u00f8re?",
+    "person": "all",
+    "facteventmoney": "",
+    "facteventsatisfaction": "",
+    "consequence1title": "Leje et klaver til 5 s\u00f8lvm\u00f8nter",
+    "consequence1text": "<name> skulle leje klaveret i mindst 6 m\u00e5neder, men blev rigtig god til at spille p\u00e5 det",
+    "consequence1money": "-30",
+    "consequence2title": "K\u00f8be et klaver til 2 guldm\u00f8nter",
+    "consequence2text": "<name> blev rigtig god til at spille p\u00e5 klaveret",
+    "consequence2money": "-20",
+    "consequence3title": "Opfordre <name> til at g\u00e5 til blokfl\u00f8jte i stedet, fordi blokfl\u00f8jten kun koster 1 guldm\u00f8nt",
+    "consequence3text": "<name> blev god til at spille blokfl\u00f8jte, men ville stadig gerne g\u00e5 til klaver. S\u00e5 familien endte med at skulle betale for begge dele",
+    "consequence3money": "-30"
+  },
+  "Knuste briller": {
+    "shortname": "Knuste briller",
+    "contenttype": "event",
+    "month": "january",
+    "eventtext": "<name> glider p\u00e5 gulvet i badev\u00e6relset og falder og sl\u00e5r sine briller itu. Hvad vil du g\u00f8re?",
+    "person": "all",
+    "facteventmoney": "",
+    "facteventsatisfaction": "",
+    "consequence1title": "<name> m\u00e5 klare sig uden briller i fremtiden",
+    "consequence1text": "<name> kom til at sl\u00e5 ting i stykker for 1 guldm\u00f8nt, fordi det var sv\u00e6rt at se ordentligt \u00c2\u00a0",
+    "consequence1money": "-10",
+    "consequence2title": "F\u00e5 brilleglassene skiftet ud med nogle nye. Hvert glas koster 7 s\u00f8lvm\u00f8nter",
+    "consequence2text": "Det viste sig, at det ogs\u00e5 kostede 3 s\u00f8lvm\u00f8nter i l\u00f8n til brillemanden",
+    "consequence2money": "-17",
+    "consequence3title": "K\u00f8be helt nye briller til 1 guldm\u00f8nt for brillestellet og 5 s\u00f8lvm\u00f8nter for hvert af glassene",
+    "consequence3text": "<name> s\u00e5 meget bedre med de nye briller",
+    "consequence3money": "-20"
+  },
+  "Konkurrence": {
+    "shortname": "Konkurrence",
+    "contenttype": "event",
+    "month": "random",
+    "eventtext": "<name> har vundet 2 guldm\u00f8nter i en konkurrence. Alle i familien giver <name> et stort knus og siger tillykke!",
+    "person": "all",
+    "facteventmoney": "20",
+    "facteventsatisfaction": "",
+    "consequence1title": "",
+    "consequence1text": "",
+    "consequence1money": "",
+    "consequence2title": "",
+    "consequence2text": "",
+    "consequence2money": "",
+    "consequence3title": "",
+    "consequence3text": "",
+    "consequence3money": ""
+  },
+  "L\u00e5nt cykel \u00f8delagt": {
+    "shortname": "L\u00e5nt cykel \u00f8delagt",
+    "contenttype": "event",
+    "month": "may",
+    "eventtext": "<name> havde l\u00e5nt en vens cykel. Cyklen blev dog \u00f8delagt af en bil, der k\u00f8rte over den. Hvad vil du g\u00f8re?",
+    "person": "all",
+    "facteventmoney": "",
+    "facteventsatisfaction": "",
+    "consequence1title": "Sende cyklen til reparation. Det kostede 1 guldm\u00f8nt og 7 s\u00f8lvm\u00f8nter at f\u00e5 den til at k\u00f8re igen",
+    "consequence1text": "Cyklen blev s\u00e5 god som ny",
+    "consequence1money": "-17",
+    "consequence2title": "F\u00e5 bilisten til at betale for, at cyklen bliver repareret",
+    "consequence2text": "Desv\u00e6rre havde alle glemt at skrive nummerpladen p\u00e5 bilen ned. Derfor kunne de ikke finde bilisten, og de m\u00e5tte selv betale for reparationen",
+    "consequence2money": "-17",
+    "consequence3title": "K\u00f8be en ny cykel til vennen",
+    "consequence3text": "Familien havde heldigvis en forsikring, der betalte for den nye cykel",
+    "consequence3money": "0"
+  },
+  "Lopper": {
+    "shortname": "Lopper",
+    "contenttype": "event",
+    "month": "may",
+    "eventtext": "Familiens k\u00e6ledyr har f\u00e5et lopper. Hvad vil du g\u00f8re?",
+    "person": "all",
+    "facteventmoney": "",
+    "facteventsatisfaction": "",
+    "consequence1title": "Fors\u00f8ge at fange lopperne",
+    "consequence1text": "Det var helt umuligt. I fors\u00f8get faldt <name> over en stor potteplante, s\u00e5 den gik i stykker. Den kostede 1 guldm\u00f8nt og 5 s\u00f8lvm\u00f8nter",
+    "consequence1money": "-15",
+    "consequence2title": "G\u00e5 til dyrl\u00e6gen for at f\u00e5 hj\u00e6lp, selvom det koster 2 guldm\u00f8nter og 3 s\u00f8lvm\u00f8nter",
+    "consequence2text": "Dyrl\u00e6gen fik fjernet alle lopperne",
+    "consequence2money": "-23",
+    "consequence3title": "K\u00f8be et loppemiddel til 1 guldm\u00f8nt og 4 s\u00f8lvm\u00f8nter",
+    "consequence3text": "Loppemidlet viste sig at v\u00e6re p\u00e5 tilbud. S\u00e5 familien sparede 6 s\u00f8lvm\u00f8nter",
+    "consequence3money": "-8"
+  },
+  "Mistet bankkort": {
+    "shortname": "Mistet bankkort",
+    "contenttype": "event",
+    "month": "march",
+    "eventtext": "Familiens h\u00e6vekort er blevet v\u00e6k, fordi jakken, hvor det l\u00e5 i, er forsvundet. Hvad vil du g\u00f8re?",
+    "person": "all",
+    "facteventmoney": "",
+    "facteventsatisfaction": "",
+    "consequence1title": "Lade som ingenting. Det dukker vel nok op",
+    "consequence1text": "Familien opdagede, at h\u00e6vekortet ikke bare var forsvundet. Det var blevet stj\u00e5let. Tyven havde brugt kortet, og det kom til at koste familien 1 guldm\u00f8nt og 5 s\u00f8lvm\u00f8nter",
+    "consequence1money": "-15",
+    "consequence2title": "Bede alle i familien om at lede i hele huset, indtil h\u00e6vekortet er fundet",
+    "consequence2text": "<name> fandt jakken med h\u00e6vekortet i",
+    "consequence2money": "0",
+    "consequence3title": "Ringe til banken, og bede dem lukke h\u00e6vekortet, s\u00e5 ingen kan bruge det, hvis det nu er blevet stj\u00e5let",
+    "consequence3text": "H\u00e6vekortet var blevet stj\u00e5let. Men fordi der hurtigt blev ringet til banken, havde tyven ikke n\u00e5et at bruge det",
+    "consequence3money": "0"
+  },
+  "Mus p\u00e5 loftet": {
+    "shortname": "Mus p\u00e5 loftet",
+    "contenttype": "event",
+    "month": "august",
+    "eventtext": "Familien har i lang tid haft bes\u00f8g af en mus, der har larmet og gnavet i familiens ting p\u00e5 loftet. Hvad vil du g\u00f8re?",
+    "person": "all",
+    "facteventmoney": "",
+    "facteventsatisfaction": "",
+    "consequence1title": "H\u00e5be at den l\u00f8ber over til naboen",
+    "consequence1text": "Det gjorde den faktisk. S\u00e5 der var familien heldige",
+    "consequence1money": "0",
+    "consequence2title": "K\u00f8be en musef\u00e6lde til 1 guldm\u00f8nt",
+    "consequence2text": "Musen havnede hurtigt i f\u00e6lden, fordi den blev lokket af den gode ost, familien havde brugt som lokkemad",
+    "consequence2money": "-10",
+    "consequence3title": "Lade som om det ikke betyder noget",
+    "consequence3text": "Musen \u00f8delagde tagets isolering, der derfor m\u00e5tte skiftes for 2 guldm\u00f8nter",
+    "consequence3money": "-20"
+  },
+  "Ny computer": {
+    "shortname": "Ny computer",
+    "contenttype": "event",
+    "month": "random",
+    "eventtext": "Familiens computer er g\u00e5et i stykker, og de skal k\u00f8be en ny. Hvad vil du g\u00f8re?",
+    "person": "all",
+    "facteventmoney": "",
+    "facteventsatisfaction": "",
+    "consequence1title": "K\u00f8be en ny computer med det samme, s\u00e5 familien ikke skal undv\u00e6re en computer for l\u00e6nge. Den koster dog 3 guldm\u00f8nter",
+    "consequence1text": "Computeren var dyr, men til geng\u00e6ld sparede den str\u00f8m. Derfor faldt el-regningen med 1 guldm\u00f8nt",
+    "consequence1money": "-20",
+    "consequence2title": "Leje en ny computer. Det koster 4 s\u00f8lvm\u00f8nter hver m\u00e5ned i 6 m\u00e5neder",
+    "consequence2text": "Den nye computer sparede str\u00f8m. Derfor faldt el-regningen med 1 guldm\u00f8nt",
+    "consequence2money": "-14",
+    "consequence3title": "Give familien tid til at tjekke priser i forskellige forretninger. Familien er uden computer i 14 dage, men finder en billig computer til 2 guldm\u00f8nter",
+    "consequence3text": "Den nye computer sparede str\u00f8m. Derfor faldt el-regningen med 1 guldm\u00f8nt",
+    "consequence3money": "-10"
+  },
+  "P\u00e6re i loftlampe sprunget": {
+    "shortname": "P\u00e6re i loftlampe sprunget",
+    "contenttype": "event",
+    "month": "june",
+    "eventtext": "P\u00e6ren i en loftlampe er sprunget, s\u00e5 der er helt m\u00f8rkt. <name> falder ned ad trappen og sl\u00e5r sig. Hvad vil du g\u00f8re?",
+    "person": "all",
+    "facteventmoney": "",
+    "facteventsatisfaction": "",
+    "consequence1title": "Give <name> plaster p\u00e5. Et plaster koster 1 s\u00f8lvm\u00f8nt",
+    "consequence1text": "Plasteret skulle skiftes hver dag i en uge",
+    "consequence1money": "-7",
+    "consequence2title": "S\u00e6tte ny p\u00e6re i lampen til 2 s\u00f8lvm\u00f8nter",
+    "consequence2text": "Det viste sig, at der skulle to p\u00e6rer i lampen",
+    "consequence2money": "-4",
+    "consequence3title": "Tr\u00f8ste <name>",
+    "consequence3text": "<name> blev hurtigt glad igen",
+    "consequence3money": "0"
+  },
+  "P\u00e5ske\u00e6g": {
+    "shortname": "P\u00e5ske\u00e6g",
+    "contenttype": "event",
+    "month": "april",
+    "eventtext": "<name> havde k\u00f8bt store p\u00e5ske\u00e6g til hele familien. Desv\u00e6rre r\u00f8g alle p\u00e5ske\u00e6ggene p\u00e5 jorden og gik i stykker, fordi <name> blev forskr\u00e6kket, da en cyklist susede forbi i h\u00f8j fart. Hvad vil du g\u00f8re?",
+    "person": "all",
+    "facteventmoney": "",
+    "facteventsatisfaction": "",
+    "consequence1title": "K\u00f8be nye p\u00e5ske\u00e6g, men kun til b\u00f8rnene. \u00e6ggene koster 4 s\u00f8lvm\u00f8nter",
+    "consequence1text": "B\u00f8rnene blev glade og n\u00f8d deres store p\u00e5ske\u00e6g",
+    "consequence1money": "-4",
+    "consequence2title": "Servere de knuste p\u00e5ske\u00e6g og give b\u00f8rnene 2 s\u00f8lvm\u00f8nter ekstra i lommepenge som tr\u00f8st",
+    "consequence2text": "B\u00f8rnene overtalte <name> til at give dem 4 s\u00f8lvm\u00f8nter i stedet",
+    "consequence2money": "-4",
+    "consequence3title": "Smide de knuste p\u00e5ske\u00e6g ud og k\u00f8be nogle nye til hele familien til i alt 6 s\u00f8lvm\u00f8nter",
+    "consequence3text": "Hele familien blev glade for de nye, l\u00e6kre p\u00e5ske\u00e6g",
+    "consequence3money": "-6"
+  },
+  "Printer v\u00e6ltet": {
+    "shortname": "Printer v\u00e6ltet",
+    "contenttype": "event",
+    "month": "march",
+    "eventtext": "Familiens skrivebord v\u00e6ltede, s\u00e5 printeren faldt ned p\u00e5 gulvet og blev \u00f8delagt. Hvad vil du g\u00f8re?",
+    "person": "all",
+    "facteventmoney": "",
+    "facteventsatisfaction": "",
+    "consequence1title": "Holde op med at printe derhjemme",
+    "consequence1text": "Fordi familien ikke selv kunne printe mere, m\u00e5tte de g\u00e5 p\u00e5 biblioteket, hver gang de skulle printe. Det kostede 1 s\u00f8lvm\u00f8nt pr. side. Hver m\u00e5ned printede familien 9 sider",
+    "consequence1money": "-9",
+    "consequence2title": "F\u00e5 printeren sendt til reparation i en computerforretning. Det koster 4 s\u00f8lvm\u00f8nter for en reservedel og 2 s\u00f8lvm\u00f8nter til forretningen",
+    "consequence2text": "Desv\u00e6rre tog forretningen ogs\u00e5 2 s\u00f8lvm\u00f8nter for at sende printeren hjem til familien, efter de havde repareret den",
+    "consequence2money": "-8",
+    "consequence3title": "K\u00f8be en brugt printer af naboen. Naboen skulle have 2 guldm\u00f8nter for printeren, men endte alligevel med at give familien 4 s\u00f8lvm\u00f8nter i rabat",
+    "consequence3text": "Den brugte printer fra naboen kunne mange flere ting end familiens gamle printer",
+    "consequence3money": "-16"
+  },
+  "Ridning": {
+    "shortname": "Ridning",
+    "contenttype": "event",
+    "month": "may",
+    "eventtext": "<name> vil gerne g\u00e5 til ridning, men har ikke noget rideudstyr. Hvad vil du g\u00f8re?",
+    "person": "all",
+    "facteventmoney": "",
+    "facteventsatisfaction": "",
+    "consequence1title": "Bede <name> om at spare sammen til rideudstyret",
+    "consequence1text": "<name> sparede 2 guldm\u00f8nter op",
+    "consequence1money": "20",
+    "consequence2title": "Overtale <name> til at v\u00e6lge en anden sport, der ikke er s\u00e5 dyr",
+    "consequence2text": "<name> valgte i stedet at g\u00e5 til badminton. Det kom dog til at koste 8 s\u00f8lvm\u00f8nter for badmintonsko og 1 guldm\u00f8nt og 2 s\u00f8lvm\u00f8nter for at spille i en badmintonklub",
+    "consequence2money": "-20",
+    "consequence3title": "K\u00f8be alt det n\u00f8dvendige udstyr til ridning med det samme",
+    "consequence3text": "Ridehjelmen, ridest\u00f8vlerne og handskerne kostede i alt 2 guldm\u00f8nter",
+    "consequence3money": "-20"
+  },
+  "Spejl g\u00e5et i stykker": {
+    "shortname": "Spejl g\u00e5et i stykker",
+    "contenttype": "event",
+    "month": "december",
+    "eventtext": "Familiens store spejl faldt ned p\u00e5 gulvet og gik i stykker, fordi der blev spillet bold i entreen. Hvad vil du g\u00f8re?",
+    "person": "all",
+    "facteventmoney": "",
+    "facteventsatisfaction": "",
+    "consequence1title": "Holde op med at kigge i spejlet",
+    "consequence1text": "Det bet\u00f8d, at <name> gik p\u00e5 arbejde med uglet h\u00e5r og tandpasta p\u00e5 kinden. <name> blev derfor sendt hjem igen i en taxa. Det kostede 8 s\u00f8lvm\u00f8nter",
+    "consequence1money": "-8",
+    "consequence2title": "Pr\u00f8ve at lime spejlet sammen igen med en st\u00e6rk lim til 4 s\u00f8lvm\u00f8nter",
+    "consequence2text": "Det holdt ikke l\u00e6nge. Spejlet m\u00e5tte smides ud, og familien k\u00f8bte et nyt til 1 guldm\u00f8nt og 2 s\u00f8lvm\u00f8nter",
+    "consequence2money": "-16",
+    "consequence3title": "K\u00f8be et nyt spejl til 2 guldm\u00f8nter og en snor til 2 s\u00f8lvm\u00f8nter, som spejlet kan h\u00e6nge i",
+    "consequence3text": "Det nye spejl holdt i mange \u00e5r",
+    "consequence3money": "-26"
+  },
+  "Stormskade": {
+    "shortname": "Stormskade",
+    "contenttype": "event",
+    "month": "october",
+    "eventtext": "Under en storm bl\u00e6ser familiens hovedd\u00f8r op. En stor rude i d\u00f8ren g\u00e5r desv\u00e6rre i stykker. Hvad vil du g\u00f8re?",
+    "person": "all",
+    "facteventmoney": "",
+    "facteventsatisfaction": "",
+    "consequence1title": "K\u00f8be en helt ny d\u00f8r til 3 guldm\u00f8nter",
+    "consequence1text": "Den nye d\u00f8r viste sig at v\u00e6re bedre end den gamle. Den var s\u00e5 god til at holde p\u00e5 varmen, at familien sparede 1 guldm\u00f8nt p\u00e5 varmeregningen",
+    "consequence1money": "-20",
+    "consequence2title": "S\u00e6tte en plade p\u00e5 i stedet for en ny rude. Pladen koster 3 s\u00f8lvm\u00f8nter, og s\u00f8mmene koster 1 s\u00f8lvm\u00f8nt",
+    "consequence2text": "Pladen holdt desv\u00e6rre ikke. Det kostede 1 guldm\u00f8nt og 5 s\u00f8lvm\u00f8nter at f\u00e5 d\u00f8ren repareret",
+    "consequence2money": "-19",
+    "consequence3title": "K\u00f8be en ny rude. Den koster 5 s\u00f8lvm\u00f8nter, og glarmesteren skal have 1 guldm\u00f8nt for at s\u00e6tte ruden i",
+    "consequence3text": "D\u00f8ren blev repareret, og familien var glade",
+    "consequence3money": "-15"
+  },
+  "Str\u00f8mafbrydelse": {
+    "shortname": "Str\u00f8mafbrydelse",
+    "contenttype": "event",
+    "month": "august",
+    "eventtext": "Der har v\u00e6ret str\u00f8mafbrydelse p\u00e5 hele vejen, hvor familien bor. Derfor er al maden i fryseren t\u00f8et op. Hvad vil du g\u00f8re?",
+    "person": "all",
+    "facteventmoney": "",
+    "facteventsatisfaction": "",
+    "consequence1title": "Invitere en masse g\u00e6ster, s\u00e5 de kan spise al den opt\u00f8ede mad",
+    "consequence1text": "Familien m\u00e5tte ud og k\u00f8be drikkevarer til alle g\u00e6sterne for 1 guldm\u00f8nt og 6 s\u00f8lvm\u00f8nter. Til geng\u00e6ld havde de en festlig aften",
+    "consequence1money": "-16",
+    "consequence2title": "Fryse den opt\u00f8ede mad ned igen",
+    "consequence2text": "Der var nogle f\u00e5 ting, der godt kunne fryses ned igen. Men det meste af maden blev d\u00e5rlig og m\u00e5tte smides v\u00e6k. Den \u00f8delagte mad kostede 1 guldm\u00f8nt",
+    "consequence2money": "-10",
+    "consequence3title": "Smide al maden v\u00e6k og k\u00f8be noget nyt",
+    "consequence3text": "Familien m\u00e5tte k\u00f8be ny mad til fryseren. Det blev dyrt. De kom af med 2 guldm\u00f8nter og 1 s\u00f8lvm\u00f8nt",
+    "consequence3money": "-21"
+  },
+  "Tabt mobil": {
+    "shortname": "Tabt mobil",
+    "contenttype": "event",
+    "month": "january",
+    "eventtext": "<name> var p\u00e5 toilettet. Mobilen gled ud af lommen og faldt i toilettet, s\u00e5 den gik i stykker. Hvad vil du g\u00f8re?",
+    "person": "all",
+    "facteventmoney": "",
+    "facteventsatisfaction": "",
+    "consequence1title": "Fiske mobilen op igen med det samme og t\u00f8rre den godt med et h\u00e5ndkl\u00e6de",
+    "consequence1text": "Mobilen kunne ikke t\u00e5le vand, og det hjalp ikke at t\u00f8rre den. Mobilen var derfor \u00f8delagt, og <name> m\u00e5tte k\u00f8be en ny til 2 guldm\u00f8nter",
+    "consequence1money": "-20",
+    "consequence2title": "Bede <name> om at spare sammen til en ny",
+    "consequence2text": "Mens <name> sparede sammen, blev computeren brugt flittigt. Og fordi computeren hele tiden var optaget, m\u00e5tte de andre tale mere i telefon. Det kostede 8 s\u00f8lvm\u00f8nter p\u00e5 telefonregningen",
+    "consequence2money": "-8",
+    "consequence3title": "K\u00f8be en ny mobil til <name> til 2 guldm\u00f8nter",
+    "consequence3text": "<name> fik en ny telefon, som <name> blev rigtig glad for",
+    "consequence3money": "-20"
+  },
+  "Tapetet \u00f8delagt": {
+    "shortname": "Tapetet \u00f8delagt",
+    "contenttype": "event",
+    "month": "february",
+    "eventtext": "Sneen p\u00e5 taget smelter, og der l\u00f8ber vand ind i huset, s\u00e5 tapetet p\u00e5 v\u00e6ggen falder af. Hvad vil du g\u00f8re?",
+    "person": "all",
+    "facteventmoney": "",
+    "facteventsatisfaction": "",
+    "consequence1title": "Lime tapetet op igen med en lim til 2 s\u00f8lvm\u00f8nter",
+    "consequence1text": "Det holdt heldigvis rigtig godt og l\u00e6nge",
+    "consequence1money": "-2",
+    "consequence2title": "Tage det \u00f8delagte tapet ned og h\u00e5be p\u00e5, at man stadigv\u00e6k kan k\u00f8be mere af det samme tapet igen",
+    "consequence2text": "Man kunne ikke f\u00e5 tapet i samme m\u00f8nster, som det der var i stuen. Hele stuen skulle derfor have nyt tapet. Det kr\u00e6vede 8 ruller tapet til 3 s\u00f8lvm\u00f8nter pr. rulle",
+    "consequence2money": "-24",
+    "consequence3title": "H\u00e6nge et t\u00e6ppe hen over stedet, hvor tapetet er faldet af",
+    "consequence3text": "T\u00e6ppet blev \u00f8delagt af fugt. Det kostede 8 s\u00f8lvm\u00f8nter. Familien m\u00e5tte leje en t\u00f8rremaskine i en hel uge til 1 guldm\u00f8nt og 3 s\u00f8lvm\u00f8nter. De k\u00f8bte derefter en rulle tapet til 3 s\u00f8lvm\u00f8nter og satte det selv op",
+    "consequence3money": "-24"
+  },
+  "Toilet itu": {
+    "shortname": "Toilet itu",
+    "contenttype": "event",
+    "month": "february",
+    "eventtext": "Familiens toilet er g\u00e5et i stykker, s\u00e5 det ikke kan bruges. Hvad vil du g\u00f8re?",
+    "person": "all",
+    "facteventmoney": "",
+    "facteventsatisfaction": "",
+    "consequence1title": "Grave et hul i jorden",
+    "consequence1text": "Ingen i familien ville grave, s\u00e5 de m\u00e5tte k\u00f8be et nyt toilet til 2 guldm\u00f8nter",
+    "consequence1money": "-20",
+    "consequence2title": "Lime toilettet sammen med lim til 6 s\u00f8lvm\u00f8nter",
+    "consequence2text": "Det viste sig desv\u00e6rre, at limen ikke var st\u00e6rk nok. Pengene var derfor spildt, og familien m\u00e5tte k\u00f8be et nyt toilet til 2 guldm\u00f8nter.",
+    "consequence2money": "-26",
+    "consequence3title": "K\u00f8be et smart nyt toilet til 2 guldm\u00f8nter",
+    "consequence3text": "Det nye toilet var bedre end det gamle. Det brugte nemlig mindre vand. Derfor sparede familien 4 s\u00f8lvm\u00f8nter p\u00e5 vandregningen",
+    "consequence3money": "-16"
+  },
+  "Uden buskort": {
+    "shortname": "Uden buskort",
+    "contenttype": "event",
+    "month": "december",
+    "eventtext": "<name> vil tage bussen hjem, men har glemt sit buskort. Hvad synes du, <name> skal g\u00f8re?",
+    "person": "all",
+    "facteventmoney": "",
+    "facteventsatisfaction": "",
+    "consequence1title": "Tage chancen og pr\u00f8ve at komme med bussen alligevel",
+    "consequence1text": "Det gik ikke s\u00e5 godt. Buskontroll\u00f8ren kom forbi og gav en b\u00f8de p\u00e5 2 guldm\u00f8nter",
+    "consequence1money": "-20",
+    "consequence2title": "G\u00e5 hjem, selvom der er lidt langt",
+    "consequence2text": "Det tog over en time, men g\u00e5turen var gratis",
+    "consequence2money": "0",
+    "consequence3title": "K\u00f8be en billet til bussen",
+    "consequence3text": "Billetten kostede 2 s\u00f8lvm\u00f8nter",
+    "consequence3money": "-2"
+  },
+  "Uden komfur": {
+    "shortname": "Uden komfur",
+    "contenttype": "event",
+    "month": "july",
+    "eventtext": "Familiens komfur er g\u00e5et i stykker. Hvad vil du g\u00f8re?",
+    "person": "all",
+    "facteventmoney": "",
+    "facteventsatisfaction": "",
+    "consequence1title": "Lave mad p\u00e5 b\u00e5l i haven",
+    "consequence1text": "Det var forbudt at t\u00e6nde b\u00e5l, der hvor familien boede, s\u00e5 familien fik en b\u00f8de p\u00e5 2 guldm\u00f8nter",
+    "consequence1money": "-20",
+    "consequence2title": "Spise kold mad i lang tid",
+    "consequence2text": "Det viste sig at blive en dyr forn\u00f8jelse. Faktisk kostede den kolde mad 1 guldm\u00f8nt og 5 s\u00f8lvm\u00f8nter",
+    "consequence2money": "-15",
+    "consequence3title": "K\u00f8be et nyt komfur",
+    "consequence3text": "Det nye komfur kostede 2 guldm\u00f8nter og 6 s\u00f8lvm\u00f8nter, men familien blev meget glad for det",
+    "consequence3money": "-26"
+  },
+  "Uden varme": {
+    "shortname": "Uden varme",
+    "contenttype": "event",
+    "month": "february",
+    "eventtext": "Radiatorerne virker pludselig ikke mere. Hvad vil du g\u00f8re?",
+    "person": "all",
+    "facteventmoney": "",
+    "facteventsatisfaction": "",
+    "consequence1title": "Hele familien m\u00e5 tage varmt t\u00f8j p\u00e5. Der kan ikke g\u00f8res noget lige nu",
+    "consequence1text": "Det blev en lang vinter, hvor alle gik med meget t\u00f8j p\u00e5. Familien sparede dog 3 guldm\u00f8nter p\u00e5 varmeregningen",
+    "consequence1money": "30",
+    "consequence2title": "Pr\u00f8ve selv at reparere skaden",
+    "consequence2text": "Det kunne godt lade sig g\u00f8re, men det kr\u00e6vede dog, at familien skulle k\u00f8be en reservedel til 6 s\u00f8lvm\u00f8nter",
+    "consequence2money": "-6",
+    "consequence3title": "Ringe til en h\u00e5ndv\u00e6rker",
+    "consequence3text": "H\u00e5ndv\u00e6rkeren kom og ordnede familiens radiatorer. H\u00e5ndv\u00e6rkeren gav dog familien en regning p\u00e5 1 guldm\u00f8nt og 7 s\u00f8lvm\u00f8nter",
+    "consequence3money": "-17"
+  },
+  "V\u00e5d computer": {
+    "shortname": "V\u00e5d computer",
+    "contenttype": "event",
+    "month": "september",
+    "eventtext": "<name> har glemt at lukke et vindue. Derfor har det regnet ind p\u00e5 familiens computer hele natten. Hvad vil du g\u00f8re?",
+    "person": "all",
+    "facteventmoney": "",
+    "facteventsatisfaction": "",
+    "consequence1title": "Stille computeren over p\u00e5 en radiator, s\u00e5 den kan t\u00f8rre",
+    "consequence1text": "Det virkede desv\u00e6rre ikke. Computeren m\u00e5tte sendes til reparation. Det kostede 2 guldm\u00f8nter",
+    "consequence1money": "-20",
+    "consequence2title": "Lukke for vinduet og vente med at bruge computeren til den er helt t\u00f8r",
+    "consequence2text": "Det tog lang tid. Derfor lejede familien en computer i ventetiden. Det kostede 1 guldm\u00f8nt. Da den gamle computer var t\u00f8r, duede den ikke og m\u00e5tte alligevel sendes til reparation. Det kostede 2 guldm\u00f8nter",
+    "consequence2money": "-30",
+    "consequence3title": "K\u00f8be en ny computer til 3 guldm\u00f8nter",
+    "consequence3text": "Den nye computer var rigtig god og brugte mindre str\u00f8m end den gamle. Familien sparede derfor 6 s\u00f8lvm\u00f8nter i str\u00f8m",
+    "consequence3money": "-24"
+  },
+  "V\u00e6ltet p\u00e5 cykel": {
+    "shortname": "V\u00e6ltet p\u00e5 cykel",
+    "contenttype": "event",
+    "month": "april",
+    "eventtext": "<name> v\u00e6ltede p\u00e5 sin cykel og slog sit kn\u00e6. Der kom et stort hul i bukserne. Hvad vil du g\u00f8re?",
+    "person": "all",
+    "facteventmoney": "",
+    "facteventsatisfaction": "",
+    "consequence1title": "F\u00e5 bukserne lappet og plaster p\u00e5 kn\u00e6et",
+    "consequence1text": "Familien fandt en gratis lap og et plaster til 1 s\u00f8lvm\u00f8nt",
+    "consequence1money": "-1",
+    "consequence2title": "K\u00f8be et par nye bukser magen til dem, der gik i stykker. De kostede 1 guldm\u00f8nt og 6 s\u00f8lvm\u00f8nter",
+    "consequence2text": "Bukserne var desv\u00e6rre steget i pris. Derfor kostede de nu 2 guldm\u00f8nter og 2 s\u00f8lvm\u00f8nter",
+    "consequence2money": "-22",
+    "consequence3title": "Smide bukserne v\u00e6k og finde et andet par",
+    "consequence3text": "Familien var heldige at finde et par nye bukser p\u00e5 udsalg til 1 guldm\u00f8nt og 3 s\u00f8lvm\u00f8nter",
+    "consequence3money": "-13"
+  },
+  "Vaskemaskine": {
+    "shortname": "Vaskemaskine",
+    "contenttype": "event",
+    "month": "august",
+    "eventtext": "Familiens vaskemaskine gik pludselig i stykker. Hvad vil du g\u00f8re?",
+    "person": "all",
+    "facteventmoney": "",
+    "facteventsatisfaction": "",
+    "consequence1title": "K\u00f8be en brugt vaskemaskine til 2 guldm\u00f8nter og 1 s\u00f8lvm\u00f8nt",
+    "consequence1text": "Den brugte vaskemaskine viste sig at v\u00e6re rigtig god og holde l\u00e6nge",
+    "consequence1money": "-21",
+    "consequence2title": "K\u00f8be en ny vaskemaskine til 3 guldm\u00f8nter",
+    "consequence2text": "Den nye vaskemaskine viste sig at v\u00e6re billig i str\u00f8m og bruge mindre vand. Regningen p\u00e5 str\u00f8m og vand faldt derfor med 5 s\u00f8lvm\u00f8nter",
+    "consequence2money": "-25",
+    "consequence3title": "K\u00f8be en meget dyr vaskemaskine til 4 guldm\u00f8nter, der er rigtig god for milj\u00f8et",
+    "consequence3text": "Med den nye vaskemaskine sparede familien hele 2 guldm\u00f8nter i str\u00f8m og vand",
+    "consequence3money": "-20"
+  },
+  "Vundet i Lotto": {
+    "shortname": "Vundet i Lotto",
+    "contenttype": "event",
+    "month": "random",
+    "eventtext": "Der var en stor gevinst p\u00e5 3 guldm\u00f8nter p\u00e5 den Lotto-kupon, familien havde k\u00f8bt",
+    "person": "all",
+    "facteventmoney": "30",
+    "facteventsatisfaction": "0",
+    "consequence1title": "",
+    "consequence1text": "",
+    "consequence1money": "",
+    "consequence2title": "",
+    "consequence2text": "",
+    "consequence2money": "",
+    "consequence3title": "",
+    "consequence3text": "",
+    "consequence3money": ""
+  }
+}

@@ -1,0 +1,59 @@
+{"frames": {
+
+"Mumie_wraps instance 10000":
+{
+	"frame": {"x":8,"y":8,"w":185,"h":168},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":185,"h":168},
+	"sourceSize": {"w":185,"h":168}
+},
+"Mumie_wraps instance 10001":
+{
+	"frame": {"x":199,"y":8,"w":185,"h":168},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":185,"h":168},
+	"sourceSize": {"w":185,"h":168}
+},
+"Mumie_wraps instance 10002":
+{
+	"frame": {"x":8,"y":182,"w":185,"h":168},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":185,"h":168},
+	"sourceSize": {"w":185,"h":168}
+},
+"Mumie_wraps instance 10003":
+{
+	"frame": {"x":199,"y":182,"w":185,"h":168},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":185,"h":168},
+	"sourceSize": {"w":185,"h":168}
+},
+"Mumie_wraps instance 10004":
+{
+	"frame": {"x":8,"y":356,"w":185,"h":168},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":185,"h":168},
+	"sourceSize": {"w":185,"h":168}
+},
+"Mumie_wraps instance 10005":
+{
+	"frame": {"x":199,"y":356,"w":185,"h":168},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":185,"h":168},
+	"sourceSize": {"w":185,"h":168}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "16.0.0.112",
+	"image": "Mumie_wraps.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":1024},
+	"scale": "1"
+}
+}

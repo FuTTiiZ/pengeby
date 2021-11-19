@@ -1,0 +1,35 @@
+{"frames": {
+
+"eyeType instance 10000":
+{
+	"frame": {"x":8,"y":8,"w":146,"h":59},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":5,"w":152,"h":64},
+	"sourceSize": {"w":152,"h":64}
+},
+"eyeType instance 10001":
+{
+	"frame": {"x":8,"y":73,"w":141,"h":62},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":0,"w":152,"h":64},
+	"sourceSize": {"w":152,"h":64}
+},
+"eyeType instance 10002":
+{
+	"frame": {"x":8,"y":141,"w":147,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":5,"w":152,"h":64},
+	"sourceSize": {"w":152,"h":64}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "16.0.0.112",
+	"image": "eye.png",
+	"format": "RGBA8888",
+	"size": {"w":256,"h":256},
+	"scale": "1"
+}
+}

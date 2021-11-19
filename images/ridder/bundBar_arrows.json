@@ -1,0 +1,43 @@
+{"frames": {
+
+"Pile_samlet0000":
+{
+	"frame": {"x":8,"y":8,"w":72,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":72,"h":50},
+	"sourceSize": {"w":72,"h":50}
+},
+"Pile_samlet0001":
+{
+	"frame": {"x":8,"y":64,"w":72,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":72,"h":50},
+	"sourceSize": {"w":72,"h":50}
+},
+"Pile_samlet0002":
+{
+	"frame": {"x":8,"y":120,"w":72,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":72,"h":50},
+	"sourceSize": {"w":72,"h":50}
+},
+"Pile_samlet0003":
+{
+	"frame": {"x":8,"y":176,"w":72,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":72,"h":50},
+	"sourceSize": {"w":72,"h":50}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "16.0.0.112",
+	"image": "bundBar_arrows.png",
+	"format": "RGBA8888",
+	"size": {"w":128,"h":256},
+	"scale": "1"
+}
+}

@@ -1,0 +1,27 @@
+{"frames": {
+
+"Puzzle2-button instance 10000":
+{
+	"frame": {"x":8,"y":8,"w":257,"h":228},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":261,"h":231},
+	"sourceSize": {"w":261,"h":231}
+},
+"Puzzle2-button instance 10001":
+{
+	"frame": {"x":8,"y":242,"w":261,"h":231},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":261,"h":231},
+	"sourceSize": {"w":261,"h":231}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "16.0.0.112",
+	"image": "puzzle2Button.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":512},
+	"scale": "1"
+}
+}

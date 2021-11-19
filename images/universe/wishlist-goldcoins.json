@@ -1,0 +1,99 @@
+{"frames": {
+
+"wishlist-goldcoins instance 10000":
+{
+	"frame": {"x":8,"y":8,"w":420,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":420,"h":32},
+	"sourceSize": {"w":420,"h":32}
+},
+"wishlist-goldcoins instance 10001":
+{
+	"frame": {"x":8,"y":46,"w":420,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":420,"h":32},
+	"sourceSize": {"w":420,"h":32}
+},
+"wishlist-goldcoins instance 10002":
+{
+	"frame": {"x":8,"y":84,"w":420,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":420,"h":32},
+	"sourceSize": {"w":420,"h":32}
+},
+"wishlist-goldcoins instance 10003":
+{
+	"frame": {"x":8,"y":122,"w":420,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":420,"h":32},
+	"sourceSize": {"w":420,"h":32}
+},
+"wishlist-goldcoins instance 10004":
+{
+	"frame": {"x":8,"y":160,"w":420,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":420,"h":32},
+	"sourceSize": {"w":420,"h":32}
+},
+"wishlist-goldcoins instance 10005":
+{
+	"frame": {"x":8,"y":198,"w":420,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":420,"h":32},
+	"sourceSize": {"w":420,"h":32}
+},
+"wishlist-goldcoins instance 10006":
+{
+	"frame": {"x":8,"y":236,"w":420,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":420,"h":32},
+	"sourceSize": {"w":420,"h":32}
+},
+"wishlist-goldcoins instance 10007":
+{
+	"frame": {"x":8,"y":274,"w":420,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":420,"h":32},
+	"sourceSize": {"w":420,"h":32}
+},
+"wishlist-goldcoins instance 10008":
+{
+	"frame": {"x":8,"y":312,"w":420,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":420,"h":32},
+	"sourceSize": {"w":420,"h":32}
+},
+"wishlist-goldcoins instance 10009":
+{
+	"frame": {"x":8,"y":350,"w":420,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":420,"h":32},
+	"sourceSize": {"w":420,"h":32}
+},
+"wishlist-goldcoins instance 10010":
+{
+	"frame": {"x":8,"y":388,"w":420,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":420,"h":32},
+	"sourceSize": {"w":420,"h":32}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "16.0.0.112",
+	"image": "wishlist-goldcoins.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":512},
+	"scale": "1"
+}
+}

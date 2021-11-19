@@ -1,0 +1,187 @@
+{
+  "speak_b_farm_feed_amount": {
+    "contenttype": "sound",
+    "content": "farm_feed_amount_92.mp3",
+    "subtitle": "Er du sikker p\u00e5, at det er det rigtige antal?"
+  },
+  "speak_b_farm_intro": {
+    "contenttype": "sound",
+    "content": "farm_intro_59.mp3",
+    "subtitle": "Velkommen til Bondeg\u00e5rden. Her skal du hj\u00e6lpe med at samle dyrene s\u00e5 de kan f\u00e5 noget at spise. F\u00f8rst skal du finde dyrene. Tr\u00e6k det rigtig antal dyr ind p\u00e5 midten af den store cirkel. Tryk p\u00e5 den gr\u00f8nne knap for at komme i gang."
+  },
+  "speak_farm_feed_cow": {
+    "contenttype": "sound",
+    "content": "farm_feed_cow_78.mp3",
+    "subtitle": "Nu er k\u00f8erne samlet og nu skal de have mad. Hver s\u00e6k giver mad til 1 ko. Hvor mange s\u00e6kke skal du bruge? Tryk p\u00e5 den gr\u00f8nne knap n\u00e5r du har trukket det rigtige antal s\u00e6kke ind i cirklen"
+  },
+  "speak_farm_feed_duck": {
+    "contenttype": "sound",
+    "content": "farm_feed_ducks_67.mp3",
+    "subtitle": "S\u00e5 er det spisetid for \u00e6nderne. Hver s\u00e6k giver mad til 4 \u00e6nder, s\u00e5 hvor mange s\u00e6kke skal du nu bruge? Tryk p\u00e5 den gr\u00f8nne knap n\u00e5r du har trukket det rigtige antal s\u00e6kke ind i cirklen"
+  },
+  "speak_farm_feed_horse": {
+    "contenttype": "sound",
+    "content": "farm_feed_horse_80.mp3",
+    "subtitle": "Nu skal hestene have mad. Hver s\u00e6k giver mad til 2 heste. Hvor mange s\u00e6kke skal du bruge? Tryk p\u00e5 den gr\u00f8nne knap n\u00e5r du har trukket det rigtige antal s\u00e6kke ind i cirklen"
+  },
+  "speak_farm_feed_missing": {
+    "contenttype": "sound",
+    "content": "farm_feed_missing91.mp3",
+    "subtitle": "Der mangler nogle s\u00e6kke i cirklen. Hvor mange mangler der?"
+  },
+  "speak_farm_feed_sheep": {
+    "contenttype": "sound",
+    "content": "farm_feed_sheep_81.mp3",
+    "subtitle": "Nu giver hver s\u00e6k mad til 3 f\u00e5r. Hvor mange s\u00e6kke skal du bruge? Tryk p\u00e5 den gr\u00f8nne knap n\u00e5r du har trukket det rigtige antal s\u00e6kke ind i cirklen"
+  },
+  "speak_farm_feed_toomany": {
+    "contenttype": "sound",
+    "content": "farm_feed_toomany90.mp3",
+    "subtitle": "Der er vist lidt for mange s\u00e6kke i cirklen. Hvor mange skal du tr\u00e6kke ud?"
+  },
+  "speak_farm_gather_cow": {
+    "contenttype": "sound",
+    "content": "farm_gather_cows.mp3",
+    "subtitle": "Du skal hj\u00e6lpe mig med at finde 12 k\u00f8er. Tr\u00e6k dem ind i den store cirkel!"
+  },
+  "speak_farm_gather_duck": {
+    "contenttype": "sound",
+    "content": "farm_gather_ducks_83.mp3",
+    "subtitle": "Du klarer det rigtig godt! S\u00e5 er vi ved at v\u00e6re f\u00e6rdige. Som det sidste skal du finde 12 \u00e6nder. Kan du det?"
+  },
+  "speak_farm_gather_horse": {
+    "contenttype": "sound",
+    "content": "farm_gather_horses_79.mp3",
+    "subtitle": "Det var du god til. Nu skal du finde 12 heste."
+  },
+  "speak_farm_gather_sheep": {
+    "contenttype": "sound",
+    "content": "farm_gather_sheep_81.mp3",
+    "subtitle": "S\u00e5 er det f\u00e5rnes tur til at f\u00e5 mad. Kan du finde 12 f\u00e5r?"
+  },
+  "speak_farm_gather_toomany": {
+    "contenttype": "sound",
+    "content": "farm_gather_toomany.mp3",
+    "subtitle": "Nu er der vist lidt for mange dyr i cirklen. Hvor mange skal du tr\u00e6kke ud?"
+  },
+  "speak_farm_gold": {
+    "contenttype": "sound",
+    "content": "farm_gold_85.mp3",
+    "subtitle": "Det var du god til. Som tak for hj\u00e6lpen f\u00e5r du her 1 guldm\u00f8nt, som du kan bruge i Karens Butik eller i Tidsmakinen. Har du lyst til at hj\u00e6lpe mig en gang til?"
+  },
+  "speak_farm_intro": {
+    "contenttype": "sound",
+    "content": "farm_intro_76.mp3",
+    "subtitle": "Velkommen til Bondeg\u00e5rden. Her skal du hj\u00e6lpe med at samle dyrene s\u00e5 de kan f\u00e5 noget at spise. F\u00f8rst skal du finde dyrene. Tr\u00e6k det rigtig antal dyr ind p\u00e5 midten af den store cirkel. Tryk p\u00e5 den gr\u00f8nne knap for at komme i gang."
+  },
+  "speak_farm_motivation_1": {
+    "contenttype": "sound",
+    "content": "farm_motivation_88.mp3",
+    "subtitle": "Jaja, nu er vi ved at v\u00e6re der"
+  },
+  "speak_farm_motivation_2": {
+    "contenttype": "sound",
+    "content": "farm_motivation_86.mp3",
+    "subtitle": "Det er du god til!"
+  },
+  "speak_farm_motivation_3": {
+    "contenttype": "sound",
+    "content": "farm_motivation_87.mp3",
+    "subtitle": "Det g\u00e5r godt - du har snart samlet alle dyrene"
+  },
+  "farm_correct": {
+    "contenttype": "sound",
+    "content": "farm_correct.mp3",
+    "subtitle": ""
+  },
+  "farm_cow1": {
+    "contenttype": "sound",
+    "content": "ko.mp3",
+    "subtitle": ""
+  },
+  "farm_cow2": {
+    "contenttype": "sound",
+    "content": "KO_02.mp3",
+    "subtitle": ""
+  },
+  "farm_cow3": {
+    "contenttype": "sound",
+    "content": "KO_03.mp3",
+    "subtitle": ""
+  },
+  "farm_cow4": {
+    "contenttype": "sound",
+    "content": "KO_04.mp3",
+    "subtitle": ""
+  },
+  "farm_duck1": {
+    "contenttype": "sound",
+    "content": "goose.mp3",
+    "subtitle": ""
+  },
+  "farm_duck2": {
+    "contenttype": "sound",
+    "content": "GAAS_01.mp3",
+    "subtitle": ""
+  },
+  "farm_duck3": {
+    "contenttype": "sound",
+    "content": "GAAS_02.mp3",
+    "subtitle": ""
+  },
+  "farm_duck4": {
+    "contenttype": "sound",
+    "content": "GAAS_03.mp3",
+    "subtitle": ""
+  },
+  "farm_hay": {
+    "contenttype": "sound",
+    "content": "HOE_02.mp3",
+    "subtitle": ""
+  },
+  "farm_hay_feed": {
+    "contenttype": "sound",
+    "content": "hay.mp3",
+    "subtitle": ""
+  },
+  "farm_horse1": {
+    "contenttype": "sound",
+    "content": "horse.mp3",
+    "subtitle": ""
+  },
+  "farm_horse2": {
+    "contenttype": "sound",
+    "content": "HEST_02.mp3",
+    "subtitle": ""
+  },
+  "farm_horse3": {
+    "contenttype": "sound",
+    "content": "HEST_03.mp3",
+    "subtitle": ""
+  },
+  "farm_horse4": {
+    "contenttype": "sound",
+    "content": "HEST_04.mp3",
+    "subtitle": ""
+  },
+  "farm_sheep1": {
+    "contenttype": "sound",
+    "content": "sheep.mp3",
+    "subtitle": ""
+  },
+  "farm_sheep2": {
+    "contenttype": "sound",
+    "content": "FAAR_01.mp3",
+    "subtitle": ""
+  },
+  "farm_sheep3": {
+    "contenttype": "sound",
+    "content": "FAAR_02.mp3",
+    "subtitle": ""
+  },
+  "farm_sheep4": {
+    "contenttype": "sound",
+    "content": "FAAR_03.mp3",
+    "subtitle": ""
+  }
+}

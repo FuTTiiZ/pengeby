@@ -1,0 +1,139 @@
+{"frames": {
+
+"C10000":
+{
+	"frame": {"x":8,"y":8,"w":63,"h":157},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":63,"h":157},
+	"sourceSize": {"w":63,"h":157}
+},
+"C20000":
+{
+	"frame": {"x":77,"y":8,"w":153,"h":105},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":153,"h":105},
+	"sourceSize": {"w":153,"h":105}
+},
+"C30000":
+{
+	"frame": {"x":236,"y":8,"w":122,"h":114},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":122,"h":114},
+	"sourceSize": {"w":122,"h":114}
+},
+"C40000":
+{
+	"frame": {"x":364,"y":8,"w":96,"h":111},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":96,"h":111},
+	"sourceSize": {"w":96,"h":111}
+},
+"C50000":
+{
+	"frame": {"x":8,"y":171,"w":105,"h":101},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":105,"h":101},
+	"sourceSize": {"w":105,"h":101}
+},
+"C60000":
+{
+	"frame": {"x":119,"y":171,"w":110,"h":111},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":110,"h":111},
+	"sourceSize": {"w":110,"h":111}
+},
+"C70000":
+{
+	"frame": {"x":235,"y":171,"w":100,"h":124},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":100,"h":124},
+	"sourceSize": {"w":100,"h":124}
+},
+"C80000":
+{
+	"frame": {"x":341,"y":171,"w":122,"h":132},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":122,"h":132},
+	"sourceSize": {"w":122,"h":132}
+},
+"C90000":
+{
+	"frame": {"x":8,"y":309,"w":142,"h":143},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":142,"h":143},
+	"sourceSize": {"w":142,"h":143}
+},
+"C100000":
+{
+	"frame": {"x":156,"y":309,"w":142,"h":135},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":142,"h":135},
+	"sourceSize": {"w":142,"h":135}
+},
+"C110000":
+{
+	"frame": {"x":304,"y":309,"w":119,"h":94},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":119,"h":94},
+	"sourceSize": {"w":119,"h":94}
+},
+"C120000":
+{
+	"frame": {"x":8,"y":458,"w":138,"h":95},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":138,"h":95},
+	"sourceSize": {"w":138,"h":95}
+},
+"C130000":
+{
+	"frame": {"x":152,"y":458,"w":101,"h":103},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":101,"h":103},
+	"sourceSize": {"w":101,"h":103}
+},
+"C140000":
+{
+	"frame": {"x":259,"y":458,"w":108,"h":103},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":108,"h":103},
+	"sourceSize": {"w":108,"h":103}
+},
+"C150000":
+{
+	"frame": {"x":373,"y":458,"w":112,"h":93},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":112,"h":93},
+	"sourceSize": {"w":112,"h":93}
+},
+"C160000":
+{
+	"frame": {"x":8,"y":567,"w":74,"h":92},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":74,"h":92},
+	"sourceSize": {"w":74,"h":92}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "16.0.0.112",
+	"image": "puzzle2Sheet.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":1024},
+	"scale": "1"
+}
+}
