@@ -3472,7 +3472,7 @@ function backToUniverse() {
 
   $('.mononameinput').val('')
   $('.mononameinput').hide()
-  if (gameConfig.startupNextBtn) {
+  if (gameConfig.startupNextBtn && gameConfig.startupNextBtn.parent) {
     gameConfig.startupNextBtn.parent.removeChild(gameConfig.startupNextBtn)
   }
 
