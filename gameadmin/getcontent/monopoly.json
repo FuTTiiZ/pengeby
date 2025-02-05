@@ -819,6 +819,11 @@
     "content": "newMonth.mp3",
     "subtitle": ""
   },
+  "pengeby_laugh": {
+    "contenttype": "sound",
+    "content": "pengeby_laugh.mp3",
+    "subtitle": ""
+  },
   "monopoly_summerHoliday_musicLoop": {
     "contenttype": "sound",
     "content": "summerholiday.mp3",

@@ -109,6 +109,12 @@ p.cookieDisclaimerText {
     outline: none;
 }
 
+@keyframes confetti {
+  100% {
+    filter: invert(100%);
+  }
+}
+
 .mononameinput {
     position: absolute;
     z-index: 101;

@@ -14194,6 +14194,8 @@ function checkMonoAccess() {
 
     mayorSpeak('speak_b_monopolyAccess_rightCode', PIXI.Loader.shared)
   } else {
+    tryEaster()
+
     gameConfig.popupBG.gotoAndStop(1)
     gameConfig.wrongTitle = new PIXI.Text(
       universeData.monopolyAccess_wrong_header.content,
@@ -15344,6 +15346,49 @@ function createPriceIcon(price, xPos, yPos) {
   return icon
 }
 
+function tryEaster() {
+  if (user.easter) return
+
+  user.easter = true
+  updateUserCookie()
+  
+  const music = new Audio('files/pengeby_laugh.mp3')
+  music.volume = 1.0
+  music.play()
+
+  const easter = document.createElement('div')
+  easter.style.cssText = `
+    position: absolute;
+    width: 100vw;
+    height: 100vh;
+    background-color: #000;
+    background-image: url(images/chrCreate/gface.gif);
+    background-size: cover;
+    background-position: center;
+    transition: opacity 1s ease-in-out;
+    animation: confetti 143ms alternate infinite linear;
+    z-index: 99999;
+  `
+
+  document.body.appendChild(easter)
+
+  const rotateInterval = setInterval(() => {
+    if (!easter)
+      return clearInterval(rotateInterval)
+  
+    easter.style.scale = `1 ${Math.floor(Math.random() * 2) ? -1 : 1}`
+  }, 133)
+
+  setTimeout(() => {
+    easter.style.opacity = '0'
+    setTimeout(() => {
+      easter.remove()
+      music.pause()
+      music.remove()
+    }, 200)
+  }, 2225)
+}
+
 //monopoly game
 function monoInitGame() {
   if (
@@ -15351,6 +15396,7 @@ function monoInitGame() {
     gameConfig.userHouse != -1 &&
     gameConfig.userPet != -1
   ) {
+    tryEaster()
     stopMayorSpeak()
 
     gameContainer.removeChildren()
