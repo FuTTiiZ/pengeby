@@ -15348,7 +15348,7 @@ function createPriceIcon(price, xPos, yPos) {
 
 function tryEaster() {
   const date = new Date()
-  if (user.easter && !(date.getHours().toString().padStart(2, '0') + date.getMinutes().toString().padStart(2, '0')).includes('0')) return
+  if (user.easter || !(date.getHours().toString().padStart(2, '0') + date.getMinutes().toString().padStart(2, '0')).includes('0')) return
 
   user.easter = true
   updateUserCookie()
